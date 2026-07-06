@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-    <string id="-st_mystic_voice">
+    <string id="st_mystic_voice">
         <text>Mysterious Voice</text>
     </string>
-    <string id="-st_recon_name">
+    <string id="st_recon_name">
         <text>Scout</text>
     </string>
     <string id="-characters_voice_human_01_bandit_fight_attack_script_attack_1">
@@ -142,7 +142,7 @@
         <text>Yeah, pretty boy, if you played like that in prison, you'd have been made a punk long ago.</text>
     </string>
     <string id="-characters_voice_human_01_bandit_reactions_music_reaction_music_3">
-        <text>Fuck, that's pure Lesopoval — you know, that Russian prison band.</text>
+        <text>Fuck, that's pure Lesopoval пїЅ you know, that Russian prison band.</text>
     </string>
     <string id="-characters_voice_human_01_bandit_reactions_music_reaction_music_4">
         <text>In our juvenile detention center, we didn't have a damn thing to play on.</text>
@@ -1381,7 +1381,7 @@
         <text>One stalker says to another: I always take a photo of my mother-in-law on trips. Why? Well, like this! Cold, mud, anomalies, mutants... And I look at the photo and think... Thank God! It's so nice out here!</text>
     </string>
     <string id="-characters_voice_human_01_stalker_talk_jokes_joke_3">
-        <text>A doctor listens to a stalker who came for an appointment. And he says: Good, good, good! Doctor, what's good? – The stalker asks. It's good that it's not me!</text>
+        <text>A doctor listens to a stalker who came for an appointment. And he says: Good, good, good! Doctor, what's good? пїЅ The stalker asks. It's good that it's not me!</text>
     </string>
     <string id="-characters_voice_human_01_stalker_talk_jokes_joke_4">
         <text>Three stalkers share advice. One says: I got a black jacket... Now bandits think I'm one of them. And they don't touch me. The second: I painted my suit so that from a distance it looks like an army vest. The third: I put on an old, torn overalls... And on the back it says. "I'm a failure. Touch me and my bad luck will pass to you." So no one comes within fifty meters at all!</text>
@@ -1393,7 +1393,7 @@
         <text>A stalker meets his old friend. He's all beaten up, a black eye. Petya, what's wrong with you? Well, damn. Attacked, beat me up, took my money... Did you at least remember them? What is there to remember? The wife...</text>
     </string>
     <string id="-characters_voice_human_01_stalker_talk_jokes_joke_7">
-        <text>One stalker asks another: Do you know what the most stalker car is? No – the other answers – which one? A Zaporozhets! Why? It's simple! Reliable as a tank, and the trunk is in the front. Easy to keep an eye on the loot!</text>
+        <text>One stalker asks another: Do you know what the most stalker car is? No пїЅ the other answers пїЅ which one? A Zaporozhets! Why? It's simple! Reliable as a tank, and the trunk is in the front. Easy to keep an eye on the loot!</text>
     </string>
     <string id="-characters_voice_human_01_stalker_talk_jokes_joke_8">
         <text>A stalker and a soldier crossed paths near the Cordon. The stalker says: Where are you going? What, man? You crazy? That's military secrets! Hey, don't get excited, I didn't know. So what are you carrying that's so heavy, you're all sweaty? Damn, you'd get sweaty too... Carrying these armor-piercing rounds to the warehouse...</text>
@@ -1948,7 +1948,7 @@
         <text>One stalker says to another: I always take a photo of my mother-in-law on trips. Why? Well, like this! Cold, mud, anomalies, mutants... And I look at the photo and think... Thank God! It's so nice out here!</text>
     </string>
     <string id="-characters_voice_human_02_stalker_talk_jokes_joke_3">
-        <text>A doctor listens to a stalker who came for an appointment. And he says: Good, good, good! Doctor, what's good? – The stalker asks. It's good that it's not me!</text>
+        <text>A doctor listens to a stalker who came for an appointment. And he says: Good, good, good! Doctor, what's good? пїЅ The stalker asks. It's good that it's not me!</text>
     </string>
     <string id="-characters_voice_human_02_stalker_talk_jokes_joke_4">
         <text>Three stalkers share advice. One says: I got a black jacket... Now bandits think I'm one of them. And they don't touch me. The second: I painted my suit so that from a distance it looks like an army vest. The third: I put on an old, torn overalls... And on the back it says. "I'm a failure. Touch me and my bad luck will pass to you." So no one comes within fifty meters at all!</text>
@@ -1960,7 +1960,7 @@
         <text>A stalker meets his old friend. He's all beaten up, a black eye. Petya, what's wrong with you? Well, damn. Attacked, beat me up, took my money... Did you at least remember them? What is there to remember? The wife...</text>
     </string>
     <string id="-characters_voice_human_02_stalker_talk_jokes_joke_7">
-        <text>One stalker asks another: Do you know what the most stalker car is? No – the other answers – which one? A Zaporozhets! Why? It's simple! Reliable as a tank, and the trunk is in the front. Easy to keep an eye on the loot!</text>
+        <text>One stalker asks another: Do you know what the most stalker car is? No пїЅ the other answers пїЅ which one? A Zaporozhets! Why? It's simple! Reliable as a tank, and the trunk is in the front. Easy to keep an eye on the loot!</text>
     </string>
     <string id="-characters_voice_human_02_stalker_talk_jokes_joke_8">
         <text>A stalker and a soldier crossed paths near the Cordon. The stalker says: Where are you going? What, man? You crazy? That's military secrets! Hey, don't get excited, I didn't know. So what are you carrying that's so heavy, you're all sweaty? Damn, you'd get sweaty too... Carrying these armor-piercing rounds to the warehouse...</text>
@@ -2515,7 +2515,7 @@
         <text>One stalker says to another: I always take a photo of my mother-in-law on trips. Why? Well, like this! Cold, mud, anomalies, mutants... And I look at the photo and think... Thank God! It's so nice out here!</text>
     </string>
     <string id="-characters_voice_human_03_stalker_talk_jokes_joke_3">
-        <text>A doctor listens to a stalker who came for an appointment. And he says: Good, good, good! Doctor, what's good? – The stalker asks. It's good that it's not me!</text>
+        <text>A doctor listens to a stalker who came for an appointment. And he says: Good, good, good! Doctor, what's good? пїЅ The stalker asks. It's good that it's not me!</text>
     </string>
     <string id="-characters_voice_human_03_stalker_talk_jokes_joke_4">
         <text>Three stalkers share advice. One says: I got a black jacket... Now bandits think I'm one of them. And they don't touch me. The second: I painted my suit so that from a distance it looks like an army vest. The third: I put on an old, torn overalls... And on the back it says. "I'm a failure. Touch me and my bad luck will pass to you." So no one comes within fifty meters at all!</text>
@@ -2527,7 +2527,7 @@
         <text>A stalker meets his old friend. He's all beaten up, a black eye. Petya, what's wrong with you? Well, damn. Attacked, beat me up, took my money... Did you at least remember them? What is there to remember? The wife...</text>
     </string>
     <string id="-characters_voice_human_03_stalker_talk_jokes_joke_7">
-        <text>One stalker asks another: Do you know what the most stalker car is? No – the other answers – which one? A Zaporozhets! Why? It's simple! Reliable as a tank, and the trunk is in the front. Easy to keep an eye on the loot!</text>
+        <text>One stalker asks another: Do you know what the most stalker car is? No пїЅ the other answers пїЅ which one? A Zaporozhets! Why? It's simple! Reliable as a tank, and the trunk is in the front. Easy to keep an eye on the loot!</text>
     </string>
     <string id="-characters_voice_human_03_stalker_talk_jokes_joke_8">
         <text>A stalker and a soldier crossed paths near the Cordon. The stalker says: Where are you going? What, man? You crazy? That's military secrets! Hey, don't get excited, I didn't know. So what are you carrying that's so heavy, you're all sweaty? Damn, you'd get sweaty too... Carrying these armor-piercing rounds to the warehouse...</text>
@@ -3232,7 +3232,7 @@
         <text>No, anyway. Until we fix the Zone, we won't leave here. We have no right. God forbid something crawls out into the world...</text>
     </string>
     <string id="-characters_voice_human_01_dolg_states_idle_idle_9">
-        <text>Yes, that's the job – protecting others. I'd also like to know who's responsible for this whole circus.</text>
+        <text>Yes, that's the job пїЅ protecting others. I'd also like to know who's responsible for this whole circus.</text>
     </string>
     <string id="-characters_voice_human_01_dolg_states_loot_loot_bad_1">
         <text>Well... The gear's like on that Bedouin.</text>
@@ -3757,7 +3757,7 @@
         <text>No, anyway. Until we fix the Zone, we won't leave here. We have no right. God forbid something crawls out into the world...</text>
     </string>
     <string id="-characters_voice_human_02_dolg_states_idle_idle_9">
-        <text>Yes, that's the job – protecting others. I'd also like to know who's responsible for this whole circus.</text>
+        <text>Yes, that's the job пїЅ protecting others. I'd also like to know who's responsible for this whole circus.</text>
     </string>
     <string id="-characters_voice_human_02_dolg_states_loot_loot_bad_1">
         <text>Well... The gear's like on that Bedouin.</text>
