@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_actor_introduce">
+        <text>Major Degtyarev. SBU. Sent to investigate the failure of Operation Fairway.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_actor_introduce_squad">
+        <text>Stalkers helped me get to Pripyat.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_actor_leave_him">
+        <text>Leave him, Captain. Let him go.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_actor_need_talk_with_commander">
+        <text>I have information for Kovalsky. Take me to him.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_army_go">
+        <text>Follow me.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_army_go_with_me">
+        <text>Alright. Follow me.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_army_hide_weapon">
+        <text>Weapons on the ground! Now!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_army_joke">
+        <text>Yeah... Quite a group.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_army_leave">
+        <text>Alright, screw it.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_army_stop">
+        <text>You! Stop!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_army_who_a_you">
+        <text>Who are you? Why do you need the Colonel?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_sokolov_conjecture">
+        <text>I knew it wasn't that simple.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_sokolov_introduce">
+        <text>Don't shoot! I'm Lieutenant Sokolov! Skat-4, second pilot! Heading to point B-28!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_sokolov_wonder">
+        <text>You know Kovalsky?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_vano_speech_one">
+        <text>You think we're just walking around here for nothing, huh? Why the gun right away, my dear? Can't you see we're friendly, we're with a comrade... Eh, we've been through everything! It was a long road!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_wanderer_about_actor">
+        <text>I don't care who works for whom.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_zulus_go">
+        <text>And with the SBU too.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_zulus_not_me">
+        <text>Without me.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_zulus_no_business_with_army">
+        <text>I have no business with the military.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a15_zulus_wonder">
+        <text>SBU? What the hell?!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_army_1_talk_to_commander_1">
+        <text>Comrade Major, if you need anything, you should speak with the Colonel.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_army_1_talk_to_commander_2">
+        <text>You probably need the Colonel, Comrade Major. Not me.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_army_2_talk_to_commander_1">
+        <text>If anything, speak with Colonel Kovalsky.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_army_2_talk_to_commander_2">
+        <text>You should talk to Kovalsky, Comrade Major.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_army_3_talk_to_commander_1">
+        <text>Not to me, Comrade Major. You need Kovalsky.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_army_3_talk_to_commander_2">
+        <text>Comrade Major, you... You should talk to Kovalsky.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_base_alarm">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_base_megaphone_1">
+        <text>Major, if it's not too much trouble - hide your weapon.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_base_megaphone_2">
+        <text>Listen, Major. Put your weapon away, we're not going to attack. An officer's word.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_base_megaphone_3">
+        <text>Major, be a human. Put that peashooter away to hell. Everyone's nerves are on edge here as it is.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a16_base_relax">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_kovalsky_after_surge">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_kovalsky_surge_phase_1">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_kovalsky_surge_phase_2">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_monolith_preacher">
+        <text>We thank you for revealing to your servants the intrigues of our enemies. Illuminate with your radiance the souls of those who gave their lives to fulfill your will. Into battle, defenders of the Monolith! Into battle! Let us avenge our fallen brothers! May their eternal union with the Monolith be blessed! Death! A cruel death to those who reject its sacred power!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_actor_dont_hide">
+        <text>They'll spot you like that, Comrade Major.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_after_monolith_clear">
+        <text>All clear. Let's go.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_1">
+        <text>We'll wait until they reach the center of the courtyard.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_2">
+        <text>Target acquired.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_3">
+        <text>They're leaving!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_4">
+        <text>Don't be slow, they'll spot us any moment. Fire!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_order_hide1">
+        <text>Ice, to the roof. Everyone else, follow me.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_order_hide2">
+        <text>Everyone take positions.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_ready_to_fire">
+        <text>Waiting for the attack order, Comrade Major.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_to_prapor">
+        <text>Something's wrong. Is someone leaking our plans? Yes, we need to report to Kovalsky.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_monolith_ambush">
+        <text>Ambush! Take cover!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_nice_shoot">
+        <text>Excellent shot, Comrade Major.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_order_to_check">
+        <text>Let's check them. Ice, you cover.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_prapor_to_commander">
+        <text>Listen, those bastards knew about us.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_sniper_out">
+        <text>Ice, did you fall asleep!?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a17_recon_squad_talk_with_commander">
+        <text>Better ask the Captain.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_actor_report">
+        <text>Colonel, something strange is happening here. Inside the building, there was a crowd of Monolithians, as if in a trance. Staring at a pile of garbage and talking to it. I examined the garbage and discovered something interesting: it's some kind of antenna. It looks like someone is using it to communicate with the Monolithians. And they perceive these sessions as divine revelations.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_kovalskiy_guard">
+        <text>This is all very strange. Someone is clearly controlling these fanatics. Alright, we'll discuss this later.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_kovalskiy_squad">
+        <text>This is all very strange. Someone is clearly controlling these fanatics. Alright, we'll discuss this later. The sentry still hasn't shown up. If you find him, report immediately. Over and out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_monolith_pray_1">
+        <text>Monolith, we cannot hear you.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_monolith_pray_2">
+        <text>Why have you abandoned us, Monolith?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_monolith_pray_3">
+        <text>We await your orders, Monolith.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_shelly_hello">
+        <text>Lieutenant Shelly, reporting for duty.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_sokolov_fight">
+        <text>Holy crap, how many are there?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_sokolov_hello">
+        <text>You know, I've been thinking. It seems safer with you.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_sokolov_on_place">
+        <text>Well, we're here.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_vano_fight">
+        <text>Shoot them before they come to.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a18_vano_hello">
+        <text>When I found out you needed help. I immediately volunteered, so come on, djigit. Lead the way.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_actor_about_next_task">
+        <text>The recon squad had data on a Monolith gathering point. The records mention a store called "Books".</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_actor_no_data">
+        <text>The recon squad had records about Monolith surveillance. No large gatherings, only patrols.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_actor_report_about_squad">
+        <text>I found the groups. They're all dead. Someone shot them, but no traces.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_about_sentry">
+        <text>I can't understand. How did they manage to attack so suddenly? And with no traces. Strange. Major, we just pinged the sentry's signal. According to the coordinates, he's somewhere near the Gastronom store. Check it out, but don't be a hero. I'm counting on you, Major. Over and out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_ask_check_recon_squad">
+        <text>Major, we need to find the recon squad. Find out what happened... Gh, some kind of madness. You, Major, be careful out there and keep in touch.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_give_next_task_1">
+        <text>These fanatics, damn them. We need to deal with them.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_give_next_task_1_a21_sentry_task">
+        <text>These fanatics, damn them. And one thing after another: we have a missing sentry, no contact, and no traces. It's time we got to those bastards.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_send_reinforcement">
+        <text>Alright, I'll send you two soldiers. They'll be waiting near the facility. Over and out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_send_reinforcement_a21_about_sentry">
+        <text>Alright, I'll send you two soldiers. They'll be waiting near the facility. Also: we just pinged the sentry's signal. According to coordinates, he's somewhere near the Gastronom. If possible, check it out. In short, I'm counting on you, Major. Over and out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_talk_in_radio">
+        <text>Group, group, over. What's happening there?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_colonel_task_done">
+        <text>I can't understand. How did they manage to attack so suddenly? And with no traces. Strange. I need to think about further actions, Major. Standing by.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_communication_with_recon_squad">
+        <text>Oh, the recon squad made contact.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_recon_squad_attacked">
+        <text>No! What the hell? Stop! Stop, damn it! Ugh, motherfucker! Hey, someone get him off! N-no... Ghm, a!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_1">
+        <text>Just imagine: reaching Pripyat without incidents. How did you even find that route? I can't figure it out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_2">
+        <text>Nothing complicated. You need skill and a bit of luck, and we got lucky. Or maybe the Zone rewarded us for patience. I've been hanging around the scientists for so long.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_3">
+        <text>Yeah... Herman got on my nerves too.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_actor_to_base_find_and_terminate_controller">
+        <text>The sentry is dead. He was acting erratically: he attacked me. A controller was found and destroyed near the location.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_actor_to_base_find_controller">
+        <text>The sentry is dead. He was acting erratically: he attacked me. A controller was found near the location, I had to fall back.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_actor_to_base_terminate_controller">
+        <text>The controller has been destroyed.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_base_to_actor_find_and_terminate_controller">
+        <text>Copy that, Major. Looks like the controller took control of the guy's mind. A shame, he was a good soldier. And the recon squad probably suffered the same fate, they attacked each other because of that creature. Alright, thank you. Over and out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_base_to_actor_terminate_controller">
+        <text>Copy that, Major. Looks like the controller took control of the guy's mind. Damn, we need to do something about that bastard. While he's here, we're in serious danger.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_colonel_base_about_sentry">
+        <text>Major, this is Kovalsky. We have another emergency. Come over, I'll give you the details.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_colonel_give_sentry_task">
+        <text>Major, this is Kovalsky. We have another emergency. The sentry isn't answering calls. You know where the Gastronom store was? Well, his beacon signal is coming from there. Check it out if you can. Over and out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_colonel_lets_talk">
+        <text>Ah, Major. Well, come in, come in.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_sentr_crazy_1">
+        <text>Get off me! Go away!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a21_sentr_crazy_2">
+        <text>No! No! Nooo!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a22_actor_to_base_find_squad_member">
+        <text>Tell the Colonel, I found one of your men. Looks like he blew himself up with a grenade. No signs of a firefight or other traces.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a22_base_to_actor_has_rfi_coordinates">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a22_colonel_about_rfi_and_lost_suad">
+        <text>The radioman believes the signal is being jammed somewhere nearby. He's trying to pinpoint the coordinates. I sent soldiers to that area, but they went missing. Even their personal beacons can't be tracked.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a22_colonel_about_situation">
+        <text>Major, we're in deep shit. Since the helicopters went down, this hasn't been an operation. It's absurd. We're surrounded, no contact with the center. And there's no sign of improvement. We can't expect air evacuation. The helicopters didn't come again. And with these losses among the men, soon there'll be no one left to evacuate. Control is lost. We desperately need communication with the center.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a22_colonel_give_task">
+        <text>One of your tasks, Major. Establish contact with the center. In our situation, I believe this becomes a top priority. And one personal request: find my soldiers. Deal?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a22_colonel_to_actor_need_talk">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a25_actor_all_doors_locked">
+        <text>I've approached the building, but all entrances are blocked.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a25_kovalski_take_explosive">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_actor_scene_end">
+        <text>Strelok and the personnel of the Skat group are killed. Prepare for takeoff.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_actor_scene_end_when_strelok_dead">
+        <text>That's it: Strelok is dead. Prepare for takeoff.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_1">
+        <text>Major Degtyarev here. Communication is good.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_2">
+        <text>So far, we've obtained documents about experiments in the Zone. Additionally, a stalker who has been to the Chernobyl NPP joined us. Call sign: Strelok. He's willing to cooperate.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_without_heli_info">
+        <text>Strelok claims that the helicopters hit anomalies. Their positions change after each emission, but this wasn't accounted for when creating the maps for Operation Fairway.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_with_heli_info">
+        <text>Yes. I've obtained reliable data, Strelok's information only confirms it. The helicopters were struck by anomalies whose positions changed during the emission. This wasn't accounted for when creating the map before the operation, which is why the landing force perished.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_actor_to_strelok">
+        <text>Get in the helicopter. I hope it was worth it.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_1">
+        <text>Once we're in the helicopter, we'll talk, alright?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_2">
+        <text>Plenty of time to talk. I have a bad feeling. Will we have enough ammo if something happens?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_3">
+        <text>Well? Thank our dear laundry service, we ended up with a decent base. Now quickly to the helicopters and home.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_about_surge_1">
+        <text>Let's do it later, huh? This emission is making my jaw clench.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_about_surge_2">
+        <text>Another emission. Pfft, tired of it.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_about_surge_3">
+        <text>Damn, like being in a trench before a tank attack.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_confusion">
+        <text>Huh? What? We're leaving!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_its_here">
+        <text>It's here!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_surge_talk_1_first">
+        <text>Yeah... And I used to think a downpour in the Carpathians was the end of the world.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_surge_talk_1_second">
+        <text>Heh, now that would probably feel like sunbathing at a resort.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_surge_talk_2_first">
+        <text>That was quite a shake. Maybe some smart person will invent a lightning rod for emissions.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_surge_talk_2_second">
+        <text>Dreamer. He wants an "emission rod".</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_surge_talk_3_first">
+        <text>M-m-m, my head hurts so much every time during an emission.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_surge_talk_3_second">
+        <text>So you're weather-sensitive.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_what_is_that">
+        <text>What was that?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_zombied_first">
+        <text>Commander! Zombies!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_army_zombied_in_building">
+        <text>There are about a dozen zombies in that building.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_center_to_colonel_1">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_center_to_colonel_2">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_center_to_colonel_3">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_about_heli">
+        <text>They made it, damn them. They actually made it. Strelok, you were right.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_about_snork">
+        <text>No time! Everyone check your weapons! Do not open fire without orders.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_actor_talk">
+        <text>Major, a word.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_after_surge">
+        <text>Alright, the emission seems to have passed. Lieutenant, contact the center.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_cannot_wait">
+        <text>Major, we can't wait any longer.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_clear_the_deck">
+        <text>Prepare for combat.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_close_by">
+        <text>Well, one last push!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_evacuation">
+        <text>Squad, moving out.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_fire_will">
+        <text>Squad, fire at will. Forward!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_go_left">
+        <text>Squad, move left. Cover each other.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_instructions">
+        <text>Well, boys, did you get all that? Listen to my order: don't split up on the way, stay together, protect the stalker like the apple of your eye. Any questions? Good. Prepare for departure.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_ok_go_here">
+        <text>Go into the archway!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_ready_to_go">
+        <text>Everyone be on alert! Obey orders instantly and clearly. We're two steps away from the evacuation point. Let's go!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_see_helicopter">
+        <text>Damn, it's the Monolithians! Squad, don't spare ammo, free target selection. Continue advancing toward the helicopters.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_strelok_out">
+        <text>Damn, Strelok is dead. If we want to live, we need to break through. Forward!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_to_center_1">
+        <text>It's an emission, Comrade General. Communication is impossible during it.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_to_center_2">
+        <text>Yes.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_to_center_3">
+        <text>Copy that.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor">
+        <text>Major, where are you? We need to get Strelok to the point!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_go">
+        <text>Major, we have to continue moving.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_long">
+        <text>Major, we can't wait too long for you.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_return">
+        <text>Well? Let's move on.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_we_close">
+        <text>We're approaching!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_will_time">
+        <text>Copy that, boys, we'll try to make it on time!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_zombied_attack">
+        <text>Now every zombie in Pripyat knows we're here. We need to move faster, squad, at a run.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_colonel_zombied_first">
+        <text>Move out! Squad, to the right along the building, double time, march!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_continuation">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_evac_come_close">
+        <text>Comrade Major, we're under heavy fire. Can't identify the enemy, we won't last long!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_evac_com_cant_wait">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_evac_com_helicopter_run_time">
+        <text>Skat, we can't wait any longer, we're taking off in one minute.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_evac_com_ready">
+        <text>Major, we're ready to take off.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_evac_com_scene_end_when_strelok_dead">
+        <text>Copy that.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_evac_com_to_helicopter">
+        <text>To the choppers! Faster!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_evac_com_where_you">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_medic_about_snork">
+        <text>These creatures again, maybe we should go around the building?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_1">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_10">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_11_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_11_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_12_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_12_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_13_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_13_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_14_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_14_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_15_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_15_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_16">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_17">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_18_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_18_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_19_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_19_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_2">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_20_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_20_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_3">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_c">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_5_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_5_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_c">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_7_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_7_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_8_a">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_8_b">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_outro_phrase_9">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_signaller_after_surge_1">
+        <text>Yes, sir.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_signaller_after_surge_2">
+        <text>Center is in contact.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_1">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_2">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_3">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_5">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_strelok_dont_stop">
+        <text>Don't stop! Run!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_strelok_go_over_anomaly">
+        <text>More zombies ahead.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_a28_strelok_run">
+        <text>Let's run.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b301_zulus_after_fight">
+        <text>Not a bad shootout.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b301_zulus_hello_in_combat">
+        <text>Press against the wall. These creatures pop out from all sides.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_1">
+        <text>Take that, you beasts!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_2">
+        <text>You thought you'd get me cheap?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_3">
+        <text>What freaks!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_ask_about_burning_antenn">
+        <text>A famous stalker. You're the one who turned off the Scorcher, right?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_check_signal">
+        <text>I'll check it.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_dont_see_anyone">
+        <text>I don't see anyone.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_emission_starts">
+        <text>An emission is starting!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_go">
+        <text>Alright, I'll come in.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_it_is_underground">
+        <text>So it's underground.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_need_center_to_know">
+        <text>At the first opportunity, we need to report this to the center.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_understand">
+        <text>I see.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_we_have_problems">
+        <text>We have trouble. Helicopters are crashing. For unknown reasons.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_actor_wondered">
+        <text>Got it.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_army_what_freezer">
+        <text>Ha, no kidding. No, I've never heard anything like that. Wow, in a refrigerator.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_about_garik">
+        <text>And also, Garik left for the Yanov station. He asked me to tell you he'll be gone for a few days.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_about_garik_vano">
+        <text>Also, Vano asked me to tell you he left with Garik to Yanov. He said he'll come back with souvenirs.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_about_strelok_1">
+        <text>Thanks for your help. The Colonel asked to see you.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_give_coordinates">
+        <text>Yes, sir, we have them, Comrade Colonel. But the signal disappears periodically, and its source is moving.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_give_new_coordinates">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_glad">
+        <text>Wow, that's something. Could he really be back? We thought that was it: we'd never see our doctor again.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_ok">
+        <text>Alright.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_order_agree">
+        <text>Yes, Comrade Colonel.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_signal_lost">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_signal_next_to_actor">
+        <text>It appeared. Very close to you.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_source_is_near">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_strange_signal">
+        <text>Comrade Colonel, a radio signal source has been detected not far from the base. The transmission is encrypted, we couldn't decrypt it quickly.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_what_freezer">
+        <text>What refrigerator? Where did you even find a refrigerator?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_what_happen">
+        <text>So what actually happened?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_what_next">
+        <text>What do you mean?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kirilov_where_you_been">
+        <text>So? Where have you been?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_about_anomaly_map">
+        <text>We had a detailed map for flying past anomalies. The helicopters were packed with emission protection.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_about_deal">
+        <text>Until this cause is found, there will be no more helicopters. We'll have to go to the edge of the Zone on our own two feet.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_ask_coordinates">
+        <text>Do you have the coordinates, Lieutenant?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_attack_case_prepare">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_let_center_know">
+        <text>After the emission, I'll contact command immediately.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_news">
+        <text>The chief of staff made contact. I reported the situation and passed on the collected information. There won't be any helicopters for now. They've suggested we hold our positions and wait for orders. There are observers from the SBU at the headquarters, so you'll be able to talk to your people.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_order_kirilov">
+        <text>Lieutenant, at the first opportunity, establish contact with the headquarters.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_talk_in_safe_place">
+        <text>Let's go, we'll talk in the shelter.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_think_of_attack">
+        <text>Monolithians again.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_who_are_you">
+        <text>Who are you?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_kovalskiy_wondered">
+        <text>So what now?</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_medik_dont_know_what_say">
+        <text>Hmm, I don't even know what to say.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_medik_excuse">
+        <text>Where did I find it, where did I find it. I'd like to see you find anything in that condition.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_medik_in_freezer">
+        <text>You won't believe it, in a refrigerator.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_medik_talk_later">
+        <text>Yeah, there was something. We'll talk about it another time.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_strelok_about_anomaly_randomize">
+        <text>Strange. Strange that you haven't noticed yet. After emissions, the positions of anomalies usually change: some dissipate, but new ones appear. Your map was outdated even before it was recorded on disc.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_strelok_about_heli">
+        <text>The reason is very simple. In the air, especially closer to the center of the Zone, there are as many anomalies as on the ground.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_strelok_about_zone_destroying">
+        <text>That did happen... But the plan didn't work. I came to meet with your command. I have information that will help control and destroy the Zone.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_strelok_give_up">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_strelok_how_to_get_away">
+        <text>Emissions don't happen one after another. If you can scan the area immediately after an emission and detect the positions of anomalies, the helicopters will have enough time before the next emission to evacuate everyone.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b305_strelok_introduse">
+        <text>I am Strelok.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_both_done_end">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_envoy_sighted">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_kovalski_calls_guide">
+        <text>Kirillov, this is Kovalsky. We need to escort the Major.</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_merc_leader_sighted">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_primary_target_down">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_primary_target_lost_end">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_rendevous_done">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_rendevous_in_process">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_rendevous_started">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_secondary_target_down">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_secondary_target_lost_end">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_pripyat_pri_b35_targets_lost_end">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+</string_table>

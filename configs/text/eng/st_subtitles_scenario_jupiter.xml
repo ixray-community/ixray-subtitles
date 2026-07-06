@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="-characters_voice_scenario_jupiter_jup_a10_bandits_warn">
+        <text>Hey, you better hide your piece, stalker. Or I'll put you down.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a10_bandit_leader_hello">
+        <text>May my eyes pop out! And who do we have here?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a10_vano_need_help">
+        <text>Oh, holy crap, what do I do? If I go - I'll lose money. If I don't - I'll die for nothing.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_bandits_bodyguard_warning_actor">
+        <text>Put the gun away! Now!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_bandits_warning_actor">
+        <text>Hey, what are you doing here? Get lost while your legs are still intact!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_bandit_say_jump">
+        <text>They said jump, you fucking do it. Maybe you've got something else in your pockets?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_bandit_threat_to_prisoner">
+        <text>One more step - and he's dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_attack_started">
+        <text>Let's work!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_cover_us">
+        <text>I'll cover you.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_lets_go">
+        <text>Moving out.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_ready">
+        <text>In position.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalkers_to_actor_came_back">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalkers_to_actor_meet_on_base">
+        <text>We'll meet near the station.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_1_argue">
+        <text>I don't give a damn! I think we should sell this artifact. With that money we hire people and attack the bandits.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_2_argue">
+        <text>You think they won't shoot him? Right after they get the artifact.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_3_argue">
+        <text>Damn, you can't always give in to them! No matter how much you give them - it's never enough!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_1_argue">
+        <text>I'm telling you, it's better to bring it as a ransom.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_2_argue">
+        <text>Not necessarily! If shooting starts, they'll definitely shoot him.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_3_argue">
+        <text>Alright, calm down, no one's giving in. It's just that right now the only real option is to meet their demands.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_no_talk">
+        <text>I don't trust you somehow.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_prisoner_says_we_can_run_from_here">
+        <text>Run! We need to lose them!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_prisoner_thanks_actor">
+        <text>Now that's a thank you! You pulled me out.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_alarm">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_guard_1">
+        <text>Weapon behind your back! This is neutral territory.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_guard_2">
+        <text>We're already between two fires, pal. Put the weapon away, don't provoke.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_guard_3">
+        <text>Mark my words: you won't get into the station with a weapon.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_megaphone_1">
+        <text>Not so fast, pal. Put the weapon down, put it down.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_megaphone_2">
+        <text>You want to enter, stalker? No problem. Just hide the weapon.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_megaphone_3">
+        <text>Weapons are only for the fresh air.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_base_relax">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_farewell_1">
+        <text>Until we meet again, stalker.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_farewell_2">
+        <text>That's all. You may go.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_greeting_1">
+        <text>Hello, stalker.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_greeting_2">
+        <text>What's your business?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_farewell_1">
+        <text>Well, fair winds!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_farewell_2">
+        <text>Easy travels!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_greeting_1">
+        <text>Ah, hello, man.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_greeting_2">
+        <text>Come in, man. Rest from the road.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_farewell_1">
+        <text>Come by sometime, it gets fun around here.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_farewell_2">
+        <text>Catch ya later!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_greeting_1">
+        <text>Come on over, bro. I've got everything, like in Greece.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_greeting_2">
+        <text>Aloha!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_after_surge">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_farewell_1">
+        <text>Take care. Don't get sick.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_farewell_2">
+        <text>Stay healthy.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_greeting_1">
+        <text>You look pale. Want me to give you a shot?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_greeting_2">
+        <text>Honestly, you're like children. Another hole?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_phase_1">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_phase_2">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a9_actor_conservation_info">
+        <text>So, after sealing, the overpass was filled with gas.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a9_actor_power_info">
+        <text>This is the entrance to the overpass. If we start the generator, we can open the transport lock.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_a9_actor_way_info">
+        <text>Schematic of the "Pripyat-1" overpass. Here's the proof - an underground route to Pripyat exists.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_1">
+        <text>No, well this...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_2">
+        <text>B-r-r... Are you crazy?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_3">
+        <text>Well, I... Here...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b10_ufo_memory_repaired_nitro">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b15_zulus_greeting">
+        <text>What brings you here? I'm listening.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b15_zulus_ready">
+        <text>So here's the deal: we go together. Find some fighters, send them to me, I'll turn them into a team. When everything's ready, let me know. We pick up Nitro and head to Jupiter.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_1">
+        <text>A quiet place, if you don't ask the locals questions.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_2">
+        <text>It's calm here. Like at a resort.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_3">
+        <text>We're almost there.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_1">
+        <text>Come here quickly. The interesting part is about to start.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_2">
+        <text>Well? What are you dawdling for? You'll miss everything.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_3">
+        <text>Where are you? Come on, move it, something's about to happen here.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_explanations">
+        <text>There you go! Well, I see your tongue is itching with questions? It's understandable, why not talk.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_guessed_long">
+        <text>Ha-ha, look at that, you guessed it. Good, the zombies will cover us. Now waste the bastards!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_guessed_short">
+        <text>Look at that, ha-ha, you guessed it. Now waste the bastards!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_suspense">
+        <text>Now we'll see. Whether I was right or not.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_zombie_hit">
+        <text>Why did you have to do that? Was he bothering you? Some tough guy.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_actor_dont_come">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_aftershock_1">
+        <text>Ah-ah-ah, mom... What the... What? Yeah... I... I... Again.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_aftershock_2">
+        <text>Ugh... Imposs... Impossible. Ah, bitches, my head, oh-oh. My head is splitting.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_first_stay">
+        <text>We'll wait for you here. If something happens - we'll cover you.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_get_out">
+        <text>Oh, holy crap. Alright, we need to get out of here, and fast.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_greeting">
+        <text>Ah, so you're the specialist on holes? Ha! Alright, alright, don't worry, the guys are all capable, reliable, they'll deal with mutants quickly.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_lair_check">
+        <text>M-m, so... Seems calm. We can go.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_monsters_beat_off">
+        <text>It's alright. Just a few fleshes. Already dealt with.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_monsters_out">
+        <text>Seems like the last one.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_psy_wound_1">
+        <text>Oh you... He... He's inside... Inside me.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_second_stay">
+        <text>Go, we'll cover the entrance.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_see_zombied">
+        <text>Opa! A zombie!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b1_stalker_warning">
+        <text>A con... con... Controller. Be ca-areful.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b202_bandit_to_snag">
+        <text>Greetings from Sultan, you pathetic loser!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_guards_warning_actor">
+        <text>Alright, get out of here. Entry is for Duty only.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_leader_about_depot">
+        <text>Gavrilenko, listen up: I found out about the warehouse. It's Freedomers, a lot of them. So take the whole squad, we'll smoke those bastards out.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_leader_about_depot_after">
+        <text>If the information is confirmed - you'll get access to the warehouse.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_security_squad_to_freedom_leave">
+        <text>Hey, Freedom, goddammit! The warehouse is Duty territory. So get lost while you're still intact.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_security_squad_to_freedom_start_attack">
+        <text>Well, freaks, you asked for it. Soldiers, begin the operation.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_guards_warning_actor">
+        <text>Go wander somewhere else, this area is closed.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_leader_about_depot">
+        <text>Flint, take your people and move to Gayduk at the warehouse. Any minute now, the Duty guys will come for their things.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_leader_about_depot_after">
+        <text>Excellent! Now the guys will fight them off. So, I don't forget good deeds. You can use the stash as your own. I'll warn everyone.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_recon_squad_refuse">
+        <text>Hold on, dear. We'll just fill our backpacks with ammo and then you know...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b212_trapper_found_chimera">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_guide_welcome">
+        <text>Alright, we're here. This is Yanov station. The only safe place in the vicinity of Jupiter. I'll leave you here. Need me - look near the bar.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_farewell_1">
+        <text>So long!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_farewell_2">
+        <text>Bye!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_greeting_1">
+        <text>Ah, hello.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_greeting_2">
+        <text>Hey there!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_welcome">
+        <text>So this is your first time here? Hmm, I came here not long ago myself. Name's Nitro, nice to meet you. I tinker with various tech, can repair anything. Although, tools are a bit tight right now. So if you come across anything, bring it straight here. And if you need technical help, I'll be glad to see you on our, Duty's side.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_actor_go">
+        <text>Go ahead.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_actor_ready">
+        <text>Everyone's ready. Open it.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_duty_ready">
+        <text>Ready. Squad!?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_duty_to_tech">
+        <text>Clear here!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_monolith_ready">
+        <text>I'm ready too.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_soldier_ready">
+        <text>Oh, I don't like any of this.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_stalker_ready">
+        <text>Always ready!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_damn">
+        <text>Ah... God damn it!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_opening">
+        <text>Alright, here we go!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_ready">
+        <text>Well, ready?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_success">
+        <text>There you go! Nothing for me here.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_to_duty">
+        <text>Good luck, boys!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_farewell_1">
+        <text>Well - break a leg!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_farewell_2">
+        <text>Well, may there be no misfires.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_greeting_1">
+        <text>Hey.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_greeting_2">
+        <text>How's the hunting business?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_1">
+        <text>And now let's drink to the valiant expeditionary squad of Duty! Called upon to kick the asses of society's scum.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_2">
+        <text>Haven't I told you about Flint? Oh, that's an interesting character. First, he set stalker hunters up for a chimera attack. Then he left his partner to die in an anomaly, and then joined Freedom. In my opinion, that's the most logical development of events. Let's also drink to more Freedomers following his example. And those who remain - we'll finish off.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_3">
+        <text>I propose a toast to the fact that even in the center of the Zone, there are people ready to serve the glorious cause of Duty. To our new squad, guys!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_4">
+        <text>I would like to raise my rightful due to the fact that the scientific bunker is now reliably protected. By us, Duty soldiers. Let mutants, anarchists, and other carrion just try to come near.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_5">
+        <text>Soldiers! Let's drink, without chaser, to our volunteers! These are heroic people. For the benefit of domestic and global science - they take measurements in the most dangerous places of the Zone. Honor and praise to them!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_6">
+        <text>I propose a toast to the Duty soldiers who, sparing no lives, repelled the attack of those dirty junkies on one of our facilities.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_1">
+        <text>Absolutely!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_2">
+        <text>Oh, right.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_3">
+        <text>Well said!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_4">
+        <text>To us!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_1">
+        <text>He already croaked! We should send you after him, so you'd think twice about dragging the Zone to the mainland piece by piece.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_2">
+        <text>No one knows what happened there. You certainly weren't holding a candle.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_3">
+        <text>That's the squad from Monolith? Ha-ha, what a twist! I hope you'll put bloodsuckers under your banner too, and then it'll be simple. We'll list you all together under dangerous mutants and burn you out, indiscriminately. Ha-ha.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_4">
+        <text>Heh, some guards you are. Forgot how you ran from mercenaries through the whole Dark Valley a year ago?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_5">
+        <text>I can imagine what results the scientists will get: air samples will be one hundred percent weed, instead of water samples - watered-down alcohol. And on the recordings - your idiotic laughter, ha-ha-ha.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_6">
+        <text>Nothing, we'll get those guns back. You Freedomers have a great habit: when you meet our guys, you not only start shitting bricks, but also drop your guns.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_1">
+        <text>Guys, heard the news? Duty are true to their traditions. Take Ensign Morgan, for example. Obeying the harsh necessity of maintaining appearances, he was forced to step on the throat of his own crystal-clear honest nature and sell off half a warehouse of equipment.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_2">
+        <text>Fall in! Remember, the unshakable traditions of Duty were laid down by His Highness General Tachenko himself. He deceived his direct subordinates, misled the command, and bravely died in a spatial bubble. Every Dutyer should strive to follow his example.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_3">
+        <text>You know, when I first saw our new squad, I asked them: maybe you want to join Duty? You're free people after all, and we respect freedom of choice. And they said: nah, there everything's by order, lots of killing required, and their eyes are empty. We've already had enough of zombies, we're done.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_4">
+        <text>Heard this one? A Dutyer walks up to one of our guys guarding the bunker. And asks: Professor, which artifact is better in a fight with boars? The Twist that protects from radiation, or the Eye that heals wounds? And our guy says: The Dummy, son. To regain strength while you run to your base - you'll be less winded.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_5">
+        <text>People, do you know why the scientists chose our guys to take measurements of the anomaly? They first went to Shulga and said: we need to serve science. And he replied: easy, who needs to be shot?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_6">
+        <text>Folks, every day I'm more and more convinced of the necessity of Duty. Just imagine: who else would gather a whole warehouse full of guns and gear, just to donate it for the good of Freedom.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_1">
+        <text>Ha-ha-ha-ha.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_2">
+        <text>Ha-ha-ha-ha.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_3">
+        <text>Ha-ha-ha-ha.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_4">
+        <text>Ha-ha-ha-ha.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_1">
+        <text>Remember instead how your valiant squad crawled on their knees before us when they begged to get into Yanov before the emission.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_2">
+        <text>You see, dude, we had one. You have every first one an asshole. Protect the world from the Zone - right. Forgot to add: only after we collect the valuable artifacts first.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_3">
+        <text>That's right: fanatics with fanatics. You should introduce Monolith uniforms, otherwise stalkers sometimes confuse you, take you for normal people.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_4">
+        <text>Mutants, you say? And will there be enough room for you in the bunker when the mutants come? It's not the 100 Rads bar, you can't hide there.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_5">
+        <text>Well, if all of your guys drink like you without chaser. I can imagine the results the scientists get from you.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_6">
+        <text>Yeah, and put more guards there. Half the Zone already knows about your equipment warehouse, so expect guests.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_revage_senya">
+        <text>Wait! You... You find him... Ah...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_artefact">
+        <text>You should have seen how I scored artifacts the other day. It was something, I'm telling you. Well, you know about the Quarry, don't you? Well, there's no good stuff left there. After Flint, there's nothing to look for in the anomaly - any veteran knows that.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_bloodsucker">
+        <text>I'll tell you everything about bloodsuckers, break it down for you. I was recently at Zaton, those suckers were bothering everyone there. A stalker brother, poor guy, was bashing them day and night. And nothing works, zero results. So I decided to help the guys. I took a shotgun and went straight into the lair, to visit the bloodsuckers. And I threw them such an evening party for three days, oh boy! Sometimes I had to light them up two or three at once. So anyway, after my discos, the bloodsuckers at Zaton aren't thriving, they've tucked their tentacles away.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_controller">
+        <text>Alright, I'll tell you how to take down controllers. I recently scored a bunch of artifacts, and decided to sell them, relax my spine. On the way back, I come to my stash, and there... holy crap, a controller hanging out! And not planning to leave! What a pain in the ass out of nowhere! Controller or not, but I need to get my loot. And then I suddenly see the light: if, I think, I hide behind some iron junk, all his bullshit won't matter. And so, you know what I do? I grab a metal grating that was lying around, and slowly, covering myself with it, I start walking. And while he was trying to intimidate me, while he was trying to get to my brain, while he was wondering why I'm so unimpressionable, I got closer and emptied half a clip into his head. And he turned out to be a tenacious bastard: as soon as I tossed the grate aside, he hit my brain! But I quickly shut him up with the butt...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_first_reac_1">
+        <text>Ha, well you really laid it on thick, Flint.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_first_reac_2">
+        <text>Way to go, Flint! You're the man!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_first_reac_3">
+        <text>Yeah... Impressive.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_guide">
+        <text>Well, about the route from Zaton, you know. What, no? Well, in short, guides used to make a big detour, but I blazed a shorter path. Seriously, I just took off straight: hop, one-two, back and forth. Quickly figured out all the codes for passing through anomalies, sold the route to a guide, well, not for free, obviously. So now he guides everyone using my route.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_oasis">
+        <text>Heard about the Oasis? Definitely heard! And I've actually been there. I was the first to figure out how to get there. So here's the thing: there, honestly, there are no mutants, no anomalies-whatsits. Everything is quiet, like at my late grandmother's dacha. And artifacts - like cucumbers, lying one on top of another, just scoop them up with a shovel. I was just there the other day, sunbathing. Take you there? Ha, that's not even funny! The Oasis, sorry, isn't made of rubber.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_scientist">
+        <text>I've got tons of stories! For example, how I worked for the scientists. Haven't I told you? Well, I dropped by their bunker once. Got curious to see what they're doing. The professors were all shocked when they saw me. Well, they say, you're just what we need. "What for?" I ask. Turns out, they need to set up their devices around anomalies, hah! Themselves, those four-eyes, naturally don't want to go. Well, they promised me cash, all sorts of goodies. And me? No problem! As long as the goodies are good. But then I had to crawl around the area quite a bit, climb through anomalies and all that. But that's nothing, nothing for a normal stalker. The real fun started later when I had to shake the promised goodies out of the professors.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_second_reac_1">
+        <text>Not bad!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_second_reac_2">
+        <text>Yeah...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_second_reac_3">
+        <text>Wow!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b25_story_zaton">
+        <text>And if anyone thinks Flint is talking through his hat, let them come up to anyone at the base and ask who Flint is. Some hunters once met me and immediately started: "Flint, help! Oh, we can't do it without you!" They wanted, you know, to take down a chimera. So I had to show them how it's done. I, as always, went straight into the lair. Put one guy at the entrance to keep watch, to signal me when the chimera returns. But he fell asleep by morning and missed the chimera. When he saw its ass, he immediately hauled ass. I had to fight it off myself. And I did, as you can see, hah!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b41_base_alarm">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b41_base_relax">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_1">
+        <text>Stalker! I must warn you: entering the bunker with a weapon is strictly forbidden!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_2">
+        <text>Stalker, you must hide your weapon at the entrance to the research complex.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_3">
+        <text>Hey, hide your weapon!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b46_duty_founder_pda_diary">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_1">
+        <text>...find a way out... Requesting help... Supplies almost...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_2">
+        <text>...no more... Second day without water, requesting help! Repeat: requesting help! Sa...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_3">
+        <text>...Urgently need help! We'll last at most three more...</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b47_merc_leader_regret">
+        <text>You came here in vain, stalker! Now you're dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_align">
+        <text>Fall in!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_align_line">
+        <text>Line up in a single line!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_final">
+        <text>Soldiers, congratulations on joining the ranks of Duty! Follow my command: follow me, march step!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_praise">
+        <text>There... You can do it when you want. Well, we'll administer the oath.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_speech">
+        <text>Do you swear to serve the cause of Duty faithfully and truly!? To protect humanity from the aggression of the Zone and always follow the regulations!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_any_questions">
+        <text>Well? Any more questions?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_lets_talk">
+        <text>Well, what are you standing for? Sit down, let's talk.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_reply">
+        <text>We have no strict hierarchy. We go on missions only with those we respect. But during an operation, we follow the senior's orders without question.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_speech">
+        <text>We respect the freedom of our soldiers and other stalkers. We believe that the Zone is open to everyone, and it is the greatest gift to humanity. A chance to significantly advance in development. This must be clearly understood by everyone.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_welcome_to_freedom">
+        <text>Well, welcome to Freedom.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_1_ask_to_freedom">
+        <text>Who will we answer to?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_squad_leader_meet">
+        <text>Hey, stalker. Come here, please.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_1">
+        <text>No matter how long you sit, you won't get anywhere.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_2">
+        <text>Nothing but mutants around.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_3">
+        <text>But where to go?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_1">
+        <text>First we need to figure out where we are.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_2">
+        <text>We need to find people.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_3">
+        <text>No matter how you look at it - we're finished.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talk_to_commander_1">
+        <text>You'd better talk to Vagabond.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talk_to_commander_2">
+        <text>You probably need to go to Vagabond.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_1_cool_freedom">
+        <text>Not bad.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_1_serve_duty">
+        <text>We swear.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_2_cool_freedom">
+        <text>Excellent. Just what I need.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_2_serve_duty">
+        <text>We swear.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_farewell_1">
+        <text>Until we meet again!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_farewell_2">
+        <text>Come again!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_greeting_1">
+        <text>Hello, I'm always glad to see a new person in our bunker.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_greeting_2">
+        <text>Hello, hello.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_farewell_1">
+        <text>Good luck to you.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_farewell_2">
+        <text>Bye.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_greeting_1">
+        <text>Hello.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_greeting_2">
+        <text>Hi.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_farewell_1">
+        <text>I won't hold you up.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_farewell_2">
+        <text>M-m, is that everything? Then take care.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_greeting_1">
+        <text>Ah, come here. What do you have?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_greeting_2">
+        <text>Yes, yes, I'm listening.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_begin">
+        <text>Guys, we do everything quickly. The sooner we finish, the safer we'll be.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_done">
+        <text>Alpha, beta, and gamma radiation levels measured.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_in_progress">
+        <text>Measuring now.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_fourth_measurement_done">
+        <text>Torsion field scanning complete.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_fourth_measurement_in_progress">
+        <text>A little more, almost done with the torsion field measurement.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_measurements_done">
+        <text>Alright, that's all the work here. Time to get out, even to hell, but get out.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_1">
+        <text>God damn it, are you covering me or what?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_2">
+        <text>Come on, cover us!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_3">
+        <text>Hey, where did you go?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_4">
+        <text>Hey, they're here! Help!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_5">
+        <text>God damn it! Where are you?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_6">
+        <text>They're coming! Man, what the hell?</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_second_measurement_done">
+        <text>Electromagnetic field scanning complete.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_second_measurement_in_progress">
+        <text>Scanning electromagnetic field.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_third_measurement_done">
+        <text>Acoustic data for all ranges received.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_third_measurement_in_progress">
+        <text>Acoustic data recorded for two ranges.</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b9_blackbox_records">
+        <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
+    </string>
+    <string id="-characters_voice_scenario_jupiter_jup_b9_heli_1_blackbox">
+        <text>Two bodies. Looks like they died upon impact. Nothing valuable: everything was looted, information on the onboard computer was deleted, but the black box survived. I think a decent technician can extract information from it.</text>
+    </string>
+</string_table>

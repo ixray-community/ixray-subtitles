@@ -1,0 +1,329 @@
+-----------------------------------------------------------------------
+-- Emmis, 2026
+-- subtitles
+-----------------------------------------------------------------------
+
+-- public:
+CONFIG = {}
+WS_CONFIG = {}
+
+subs_types = {
+    npc = 1,
+    actor = 2,
+    obj = 3,
+    fake = 4
+}
+
+-- private:
+local subtitles_buffer = {}
+local subtitles = {}
+
+local world_space_subtitles = {}
+
+local ui_class = nil
+
+-----------------------------------------------------------------------
+
+function on_game_start()
+    init_general_config()
+    RegisterScriptCallback("on_game_load", this.on_actor_netspawn)
+    RegisterScriptCallback("actor_on_net_destroy", this.on_actor_netdestroy)
+    RegisterScriptCallback("actor_on_update", this.actor_on_update)
+end
+
+function init_general_config()
+    local ini = ini_file("subtitles.ltx")
+    local section = "subtitles"
+    local ws_section = "world_space_subtitles"
+
+    local screen_pos_parse      = parse_names(utils.cfg_get_string(ini, section, "screen_position", nil, false, "", "290,645"))
+    CONFIG.MAX_SUBTITLES        = utils.cfg_get_number(ini, section, "max_subtitles", nil, false, 3)
+    CONFIG.MAX_DISTANCE         = utils.cfg_get_number(ini, section, "max_distance", nil, false, 30)
+    CONFIG.DEF_NPC_SUBS         = utils.cfg_get_bool(ini, section, "def_npc_subtitles", nil, false, false)
+    CONFIG.DEF_ACTOR_SUBS       = utils.cfg_get_bool(ini, section, "def_actor_subtitles", nil, false, false)
+    CONFIG.DEF_OBJ_SUBS         = utils.cfg_get_bool(ini, section, "def_3d_subtitles", nil, false, false)
+
+    WS_CONFIG.DEF_NPC_SUBS      = utils.cfg_get_bool(ini, ws_section, "def_npc_subtitles", nil, false, false)
+    WS_CONFIG.DEF_OBJ_SUBS      = utils.cfg_get_bool(ini, ws_section, "def_3d_subtitles", nil, false, false)
+    WS_CONFIG.DEF_WS_SECTION    = utils.cfg_get_string(ini, ws_section, "def_ws_section", nil, false, "", "ws_subtitles_element")
+end
+
+-----------------------------------------------------------------------
+
+local function add_subtitles_to_buffer(type, speaker_id, name, text, sound_obj, time, delay)
+    table.insert(subtitles_buffer, {
+        type = type,
+        speaker_id = speaker_id,
+        name = game.translate_string(name),
+        text = game.translate_string(text),
+        sound_obj = sound_obj,
+        time = time,
+        delay = delay,
+        ui_body = nil
+    })
+end
+
+local function add_subtitles_from_buffer(sub)
+    if sub.type == subs_types.npc and xrs_dyn_music.npc_table[sub.speaker_id] == nil then -- TODO Emmis: анти-баг, если нпс нетДестройнится. Зависимость от какой-то таблицы из другого срипта - воняет
+        return
+    end
+
+    table.insert(subtitles, sub)
+
+    get_ui_class():CreateSubtitlesBody(subtitles[#subtitles])
+    get_ui_class():ReloadSubtitlesList(subtitles)
+end
+
+local function add_world_space_subtitles(type, sound_obj, speaker_id, section, text)
+    table.insert(world_space_subtitles, {
+        type = type,
+        sound_obj = sound_obj,
+        speaker_id = speaker_id,
+        section = section,
+        text = game.translate_string(text)
+    })
+    level.ws_element_set_text(speaker_id, section, text)
+    level.ws_element_show(speaker_id, section, true)
+end
+
+local function remove_subtitles_from_buffer(num)
+    table.remove(subtitles_buffer, num)
+end
+
+local function remove_subtitles(num)
+    get_ui_class():RemoveSubtitlesBody(subtitles[num].ui_body)
+    table.remove(subtitles, num)
+    get_ui_class():ReloadSubtitlesList(subtitles)
+end
+
+local function remove_world_space_subtitles(num)
+    level.ws_element_show(world_space_subtitles[num].speaker_id, world_space_subtitles[num].section, false)
+    table.remove(world_space_subtitles, num)
+end
+
+-----------------------------------------------------------------------
+
+local function speaker_is_playing(speaker_id)
+    local obj = db.storage[speaker_id] and db.storage[speaker_id].object
+	if obj == nil then
+		return false
+	end
+	return obj:active_sound_count() ~= 0
+end
+
+local function speaker_is_far_away(speaker_id, distance)
+    local obj = level.object_by_id(speaker_id)
+    return device().cam_pos:distance_to_sqr(obj:position()) >= distance * distance
+end
+
+-----------------------------------------------------------------------
+
+function add_subtitles_npc(speaker_id, name, text)
+    add_subtitles_to_buffer(subs_types.npc, speaker_id, name, text)
+end
+
+function add_subtitles_actor(name, text, sound_obj)
+    add_subtitles_to_buffer(subs_types.actor, db.actor:id(), name, text, sound_obj)
+end
+
+function add_subtitles_obj(speaker_id, name, text, sound_obj)
+    add_subtitles_to_buffer(subs_types.obj, speaker_id, name, text, sound_obj)
+end
+
+function add_subtitles_fake(name, text, time, delay)
+    add_subtitles_to_buffer(subs_types.fake, nil, name, text, nil, time + delay + time_global(), delay + time_global())
+end
+
+function add_ws_subtitles_npc(sound_obj, speaker_id, section, text)
+    add_world_space_subtitles(subs_types.npc, sound_obj, speaker_id, section, text)
+end
+
+function add_ws_subtitles_obj(sound_obj, speaker_id, section, text)
+    add_world_space_subtitles(subs_types.obj, sound_obj, speaker_id, section, text)
+end
+
+-----------------------------------------------------------------------
+
+function actor_on_update()
+    if IsActionThrottled("subtitles_throttler", 300) then
+        return
+    end
+
+    update()
+end
+
+function update()
+
+    if #subtitles == 0 and #subtitles_buffer == 0 and #world_space_subtitles == 0 then
+        return
+    end
+
+    local i = 1
+
+    -- SUBTITLES HANDLER
+    while #subtitles_buffer >= i do
+        local sub = subtitles_buffer[i]
+        local remove = false
+        local to_show = false
+
+        if sub.type == subs_types.npc then
+            if not speaker_is_playing(sub.speaker_id) then
+                remove = true
+            elseif not speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+                to_show = true
+            end
+        elseif sub.type == subs_types.actor then
+            if not sub.sound_obj:playing() then
+                remove = true
+            else
+                to_show = true
+            end
+        elseif sub.type == subs_types.obj then
+            if not sub.sound_obj:playing() then
+                remove = true
+            elseif not speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+                to_show = true
+            end
+        elseif sub.type == subs_types.fake then
+            if sub.delay < time_global() then
+                to_show = true
+            end
+        end
+
+        if remove then
+            remove_subtitles_from_buffer(i)
+        elseif to_show and #subtitles < CONFIG.MAX_SUBTITLES then
+            add_subtitles_from_buffer(sub)
+            remove_subtitles_from_buffer(i)
+        else
+            i = i + 1
+        end
+    end
+
+    i = 1
+    while #subtitles >= i do
+        local sub = subtitles[i]
+        local remove = false
+        local to_buffer = false
+
+        if sub.type == subs_types.npc then
+            if not speaker_is_playing(sub.speaker_id) then
+                remove = true
+            elseif speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+                to_buffer = true
+            end
+        elseif sub.type == subs_types.actor then
+            if not sub.sound_obj:playing() then
+                remove = true
+            end
+        elseif sub.type == subs_types.obj then
+            if not sub.sound_obj:playing() then
+                remove = true
+            elseif speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+                to_buffer = true
+            end
+        elseif sub.type == subs_types.fake then
+            if sub.time < time_global() then
+                remove = true
+            end
+        end
+
+        if remove then
+            remove_subtitles(i)
+        elseif to_buffer then
+            add_subtitles_to_buffer(sub.type, sub.speaker_id, sub.name, sub.text, sub.sound_obj, sub.time, sub.delay)
+            remove_subtitles(i)
+        else
+            i = i + 1
+        end
+    end
+    -- /SUBTITLES HANDLER
+
+    -- WORLD SPACE SUBTITLES HANDLER
+    i = 1
+    while #world_space_subtitles >= i do
+        local sub = world_space_subtitles[i]
+        local remove = false
+
+        if sub.type == subs_types.npc then
+            remove = not speaker_is_playing(sub.speaker_id)
+        elseif sub.type == subs_types.obj then
+            remove = not sub.sound_obj:playing()
+        end
+
+        if remove then
+            remove_world_space_subtitles(i)
+        else
+            i = i + 1
+        end
+    end
+    -- /WORLD SPACE SUBTITLES HANDLER
+
+end
+
+-----------------------------------------------------------------------
+-- UI
+-----------------------------------------------------------------------
+
+function on_actor_netspawn()
+    ui_class = UiSubtitles()
+    level.add_dialog_to_render(ui_class)
+end
+
+function on_actor_netdestroy()
+    level.remove_dialog_to_render(ui_class)
+	ui_class = nil
+end
+
+function get_ui_class()
+    if ui_class == nil then
+        error_log("class UiSubtitles is nil!")
+    end
+    return ui_class
+end
+
+-----------------------------------------------------------------------
+
+class "UiSubtitles" (CUIScriptWnd)
+
+function UiSubtitles:__init() super()
+    self.xml = CScriptXmlInit()
+	self.xml:ParseFile("ui_subtitles.xml")
+end
+
+function UiSubtitles:CreateSubtitlesBody(sub)
+    local subtitles_body = self.xml:InitStatic("subtitles_body", self)
+    local name_text = self.xml:InitTextWnd("subtitles_body:name", subtitles_body)
+    local subs_text = self.xml:InitTextWnd("subtitles_body:subs", subtitles_body)
+    self.perm_screen_pos = subtitles_body:GetWndPos()
+
+    name_text:SetText(sub.name..":")
+    subs_text:SetText(sub.text)
+
+    sub.ui_body = {
+        static = subtitles_body,
+        height = subtitles_body:GetHeight() + math.floor(#sub.text / 80) * 20 -- TODO Emmis: тут воняет
+    }
+end
+
+function UiSubtitles:RemoveSubtitlesBody(ui_body)
+    ui_body.static:Show(false)
+    ui_body = nil
+end
+
+function UiSubtitles:ReloadSubtitlesList(subtitles_table) -- TODO Emmis: можно улучшить (сдеалть нормально)
+    local quantity = #subtitles_table
+    if quantity == 0 then return end
+
+    subtitles_table[quantity].ui_body.static:SetWndPos(vector2():set(self.perm_screen_pos.x, self.perm_screen_pos.y))
+
+    for i = quantity-1, 1, -1 do
+        if subtitles_table[i] then
+            local margin = subtitles_table[i+1].ui_body.static:GetWndPos().y - subtitles_table[i].ui_body.height
+            subtitles_table[i].ui_body.static:SetWndPos(vector2():set(self.perm_screen_pos.x, margin))
+        end
+    end
+end
+
+function UiSubtitles:__finalize()
+end

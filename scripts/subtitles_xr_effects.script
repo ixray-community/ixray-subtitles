@@ -1,0 +1,13 @@
+function on_game_start()
+
+    xr_effects.fake_subtitles = function(actor, npc, p)
+        local name = p[1]
+        local text = p[2]
+        local time = 5000
+        local delay = 0
+        if p[3] ~= nil and p[3] ~= "nil" then time = tonumber(p[3]) * 100 end
+        if p[4] ~= nil and p[4] ~= "nil" then delay = tonumber(p[4]) * 100 end
+        subtitles.add_subtitles_fake(name, text, time, delay)
+    end
+    
+end

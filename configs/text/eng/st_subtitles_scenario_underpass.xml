@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_control_gates_1">
+        <text>Locked. No button. Hmm, what a situation. Someone will have to go to the control room and look for it.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_cover_1">
+        <text>I'll wait downstairs, alright? I'll organize the defense.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_dome_1">
+        <text>We shouldn't have come here at all.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_door_1">
+        <text>There's definitely no point in staying here. Those doors aren't a bad option.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_elevator_1">
+        <text>We've arrived.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_exit_1">
+        <text>I think we've made it out.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_gates">
+        <text>Maybe press the button?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_railway_1">
+        <text>No power? Great...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_sniper_first_1">
+        <text>Watch out! Something's not right here.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_snorks_1">
+        <text>Ah, watch out!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_snorks_2">
+        <text>Snorks!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_snorks_3">
+        <text>Holy crap! How many of them are there?!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_train_1">
+        <text>I don't like this place.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_train_gates_1">
+        <text>I feel uneasy here too.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_transformer_1">
+        <text>Hey, if you're going up there - be careful near the switches.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_tushkano_1">
+        <text>Some feeling... Bad.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_come_back_1">
+        <text>Hey, are we not going any further?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_idle_1">
+        <text>Why did I even come to the Zone?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_idle_2">
+        <text>When I get home, I'll just forget this place. To hell with it.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_idle_3">
+        <text>Yeah, they really pushed us around. Aviation is an honorable and dust-free job, ha.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_no_meet_1">
+        <text>Quiet! It's a bit creepy here.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_no_meet_2">
+        <text>Later. We'll talk in the fresh air.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_no_meet_3">
+        <text>And you actually want to talk.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_assault_1">
+        <text>You've lost your mind!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_hit_1">
+        <text>Agh... What are you doing?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_hit_2">
+        <text>Agh... Stop killing your own!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_hit_3">
+        <text>Agh... Fucking psycho!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_assault_vano_1">
+        <text>Vano is dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_assault_wanderer_1">
+        <text>Strider is dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_assault_zulus_1">
+        <text>Zulus is dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_hit_1">
+        <text>Agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_hit_2">
+        <text>A-agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_hit_3">
+        <text>Agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_wait_for_me_1">
+        <text>Come back, listen? It's dangerous there.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_first_1">
+        <text>Wow, an anomaly here!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_first_2">
+        <text>Let's see now where it doesn't hit too hard.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_first_3">
+        <text>Hey, look, my dear. You can get through here.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_second_1">
+        <text>Another anomaly. Let's go check it out.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_second_2">
+        <text>No, listen, you can only pass through here once. The second time you'll be dead.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_second_3">
+        <text>Vano found the way. Well, Vano found the path.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_third_1">
+        <text>Well? Let's move.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_control_gates_1">
+        <text>Hey, the gates are closed, right? Well, I don't know, listen. Maybe they can be opened from the control room?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_cover_1">
+        <text>Go, my dear. No enemy will shoot you in the back. A stalker's word.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_dome_1">
+        <text>Listen, beautiful, right?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_door_1">
+        <text>The doors opened there. We're going that way, right?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_gates">
+        <text>Need to press the button, yes.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_railway_1">
+        <text>He-he, the electricity ran out.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_room_closed">
+        <text>Hey, don't come here, my dear. It's all closed here.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_room_open">
+        <text>Hey, look! Everything's open here.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_sniper_first_1">
+        <text>Flash right... Pfft, on the left.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_snorks_1">
+        <text>Well done, yes. Put them all down.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_transformer_1">
+        <text>Listen, that thing definitely has a switch. On-off, right?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_underpass">
+        <text>Well, my dear, shall we go?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_come_back_1">
+        <text>Listen, why are you messing around? Let's go forward.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_idle_1">
+        <text>Listen, my dear, it's probably not so bad here. He-he-he.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_idle_2">
+        <text>With good friends, even underground is good.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_idle_3">
+        <text>Where else would I see a place like this, huh? No, listen, it's good that Vano came with you.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_no_meet_1">
+        <text>Friend, listen, let's talk later, ok.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_no_meet_2">
+        <text>Listen, it's not the time for chatting.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_no_meet_3">
+        <text>What can I tell you? This is a bad place for conversations.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_assault_1">
+        <text>Ah you... Bastard.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_hit_1">
+        <text>Gmh, wah, listen, why?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_hit_2">
+        <text>Gmh... Genatsvale, I'm not an enemy.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_hit_3">
+        <text>Gmh... That's it, you're dead, you dog!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_assault_sokolov_1">
+        <text>The soldier... That's it, he's gone.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_assault_wanderer_1">
+        <text>They killed our Monolithian!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_assault_zulus_1">
+        <text>Zulus! Zulus is dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_hit_1">
+        <text>Ghm.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_hit_2">
+        <text>Agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_hit_3">
+        <text>Agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_wait_for_me_1">
+        <text>Friend, where are you going alone? Going together is safer.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_control_gates_1">
+        <text>The gates are locked. I'd try to open them from the control room.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_cover_1">
+        <text>I'm staying. I need to cover the approaches.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_door_1">
+        <text>The door is open. We can go.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_gates">
+        <text>Need to press the button.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_monolith_1">
+        <text>Better to get out of the open area.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_railway_1">
+        <text>Looks like the gates have no power.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_sniper_first_1">
+        <text>They're mine.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_sniper_first_2">
+        <text>Ready.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_snorks_1">
+        <text>I'll... deal with them.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_transformer_1">
+        <text>A transformer. I used to climb on those as a kid.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_underpass">
+        <text>Let's go.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_come_back_1">
+        <text>We shouldn't linger here. Let's go.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_idle_1">
+        <text>Here... Too empty.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_idle_2">
+        <text>I think I've been here before. I don't remember.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_idle_3">
+        <text>Strange. Everything is strange here.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_no_meet_1">
+        <text>Let's better stay silent.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_no_meet_2">
+        <text>Not worth chatting idly.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_no_meet_3">
+        <text>I don't want to talk right now.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_assault_1">
+        <text>Traitor.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_hit_1">
+        <text>Khe. There's no need for that.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_hit_2">
+        <text>Ugh, you shouldn't attack me.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_hit_3">
+        <text>Kh... I warned you.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_assault_sokolov_1">
+        <text>Sokolov is dead.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_assault_vano_1">
+        <text>Vano is dead.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_assault_zulus_1">
+        <text>Zulus is dead.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_hit_1">
+        <text>Gha...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_hit_2">
+        <text>Gh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_hit_3">
+        <text>Kh-kh...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_wait_for_me_1">
+        <text>No need to rush. It's better to stick together here.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_control_gates_1">
+        <text>The gates are locked. No button nearby. Any volunteers to run to the control room and see if there's anything suitable there?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_cover_1">
+        <text>Go ahead, brother. Don't worry about the rear.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_door_1">
+        <text>Alright, the path is open. Let's go.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_exit_1">
+        <text>Looks like we're already under Pripyat.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_gates">
+        <text>Go ahead, brother. Press that button.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_monolith_1">
+        <text>Back to back, quickly!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_monolith_2">
+        <text>Holy crap.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_obstacle_1">
+        <text>Looks like we're not going through head-on.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_obstacle_2">
+        <text>Alright, real heroes always go around.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_outfits_1">
+        <text>So the suits came in handy.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_railway_1">
+        <text>So, the gate power is off.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_sniper_first_1">
+        <text>Snipers!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_snorks_1">
+        <text>Alright, don't panic. Fire!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_train_gates_1">
+        <text>Well, brother. Open it!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_train_gates_2">
+        <text>That's what will happen to everyone!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_transformer_1">
+        <text>Looks like a transformer. I wonder, are all the lines on?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_underpass">
+        <text>Well, let's move?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_come_back_1">
+        <text>Brother, don't fall behind. We need to go forward.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_idle_1">
+        <text>What a place, holy crap.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_idle_2">
+        <text>What a mess. At our base, for something like this...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_idle_3">
+        <text>Yeah, this is definitely no resort.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_no_meet_1">
+        <text>Not the time to chat now.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_no_meet_2">
+        <text>We'll talk when we get out.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_no_meet_3">
+        <text>No talking!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_assault_1">
+        <text>Killing your own?! Ah, you!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_hit_1">
+        <text>Ah, watch where you're hitting!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_hit_2">
+        <text>Agh, stop maiming me!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_hit_3">
+        <text>Ay, fu... Where are you hitting? I'm on your...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_assault_sokolov_1">
+        <text>Sokolov is dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_assault_vano_1">
+        <text>Vano was killed!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_assault_wanderer_1">
+        <text>Strider is dead!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_hit_1">
+        <text>Agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_hit_2">
+        <text>Agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_hit_3">
+        <text>Agh.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_wait_for_me_1">
+        <text>Brother, come back. We'll do without reconnaissance.</text>
+    </string>
+</string_table>

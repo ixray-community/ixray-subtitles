@@ -1,0 +1,129 @@
+function on_game_start()
+	RegisterScriptCallback("on_npc_sound_init", this.on_npc_sound_init)
+	RegisterScriptCallback("on_npc_sound_play", this.on_npc_sound_play)
+	RegisterScriptCallback("on_actor_sound_init", this.on_actor_sound_init)
+	RegisterScriptCallback("on_actor_sound_play", this.on_actor_sound_play)
+	RegisterScriptCallback("on_object_sound_init", this.on_object_sound_init)
+	RegisterScriptCallback("on_object_sound_play", this.on_object_sound_play)
+end
+
+--------------------------------------------------------
+
+-- NPC (type = npc):
+function on_npc_sound_init(ref_binder, snd_ini, section)
+	if subtitles.CONFIG.DEF_NPC_SUBS == nil or subtitles.WS_CONFIG.DEF_NPC_SUBS == nil then
+		subtitles.init_general_config()
+	end
+
+    ref_binder.subs           = utils.cfg_get_bool(snd_ini, section, "subtitles", nil, false, subtitles.CONFIG.DEF_NPC_SUBS)
+	ref_binder.subs_name      = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
+	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
+
+	ref_binder.ws_subs        = utils.cfg_get_bool(snd_ini, section, "ws_subtitles", nil, false, subtitles.WS_CONFIG.DEF_NPC_SUBS)
+    ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
+	ref_binder.ws_subs_text   = utils.cfg_get_string(snd_ini, section, "ws_subtitles_text", nil, false, "", "")
+end
+
+function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
+    if ref_binder.subs then
+        local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
+		local name = level.object_by_id(npc_id):character_name()
+		local text = "-"..snd:gsub("\\", "_")
+
+        if ref_binder.subs_name and ref_binder.subs_name ~= "" then
+			name = ref_binder.subs_name
+		end
+		if ref_binder.subs_text and ref_binder.subs_text ~= "" then
+			text = ref_binder.subs_text
+		end
+
+		if ref_binder.delay_sound < 1 then
+			subtitles.add_subtitles_npc(npc_id, name, text)
+		else
+			local snd_obj_length = sound_object(snd):length()
+			subtitles.add_subtitles_fake(name, text, snd_obj_length, ref_binder.delay_sound)
+		end
+    end
+
+    if ref_binder.ws_subs then
+		local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
+        local text = "-"..snd:gsub("\\", "_")
+
+        if ref_binder.ws_subs_text and ref_binder.ws_subs_text ~= "" then
+            text = ref_binder.ws_subs_text
+        end
+
+        subtitles.add_ws_subtitles_npc(nil, npc_id, ref_binder.ws_section, text)
+	end
+end
+
+-- ACTOR (type = actor):
+function on_actor_sound_init(ref_binder, snd_ini, section)
+	if subtitles.CONFIG.DEF_ACTOR_SUBS == nil then
+		subtitles.init_general_config()
+	end
+
+	ref_binder.subs        = utils.cfg_get_bool(snd_ini, section, "subtitles", nil, false, subtitles.CONFIG.DEF_ACTOR_SUBS)
+	ref_binder.subs_name   = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
+	ref_binder.subs_text   = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
+end
+
+function on_actor_sound_play(ref_binder, npc, faction, point, msg)
+    if ref_binder.subs then
+        local snd = ref_binder.sound[ref_binder.played_id]
+        local name = db.actor:character_name()
+		local text = "-"..snd:gsub("\\", "_")
+
+        if ref_binder.subs_name and ref_binder.subs_name ~= "" then
+			name = ref_binder.subs_name
+		end
+		if ref_binder.subs_text and ref_binder.subs_text ~= "" then
+			text = ref_binder.subs_text
+		end
+
+        subtitles.add_subtitles_actor(name, text, ref_binder.snd_obj)
+	end
+end
+
+-- OBJ (type = 3d):
+function on_object_sound_init(ref_binder, snd_ini, section)
+	if subtitles.CONFIG.DEF_OBJ_SUBS == nil or subtitles.WS_CONFIG.DEF_OBJ_SUBS == nil then
+		subtitles.init_general_config()
+	end
+
+    ref_binder.subs           = utils.cfg_get_bool(snd_ini, section, "subtitles", nil, false, subtitles.CONFIG.DEF_OBJ_SUBS)
+	ref_binder.subs_name      = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
+	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
+
+	ref_binder.ws_subs        = utils.cfg_get_bool(snd_ini, section, "ws_subtitles", nil, false, subtitles.WS_CONFIG.DEF_OBJ_SUBS)
+    ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
+	ref_binder.ws_subs_text   = utils.cfg_get_string(snd_ini, section, "ws_subtitles_text", nil, false, "", "")
+end
+
+function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
+    if ref_binder.subs then
+        local snd = ref_binder.sound[ref_binder.played_id]
+		local name = level.object_by_id(obj_id):name()
+		local text = "-"..snd:gsub("\\", "_")
+
+        if ref_binder.subs_name and ref_binder.subs_name ~= "" then
+			name = ref_binder.subs_name
+		end
+		if ref_binder.subs_text and ref_binder.subs_text ~= "" then
+			text = ref_binder.subs_text
+		end
+
+		subtitles.add_subtitles_obj(obj_id, name, text, ref_binder.snd_obj)
+    end
+
+    if ref_binder.ws_subs then
+		local snd = ref_binder.sound[ref_binder.played_id]
+        local text = "-"..snd:gsub("\\", "_")
+
+        if ref_binder.ws_subs_text and ref_binder.ws_subs_text ~= "" then
+            text = ref_binder.ws_subs_text
+        end
+
+        subtitles.add_ws_subtitles_obj(ref_binder.snd_obj, obj_id, ref_binder.ws_section, text)
+	end
+end

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_control_gates_1">
+        <text>Заблокировано. Кнопки нет. М-да, ситуёвина. Придётся кому-то лезть в диспетчерскую, искать там.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_cover_1">
+        <text>А я вниху подожду, ладно? Оборону организую.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_dome_1">
+        <text>Зря мы вообще сюда полезли.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_door_1">
+        <text>Торчать здесь точно смысла нет. Те двери - нехудший вариант.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_elevator_1">
+        <text>Приехали.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_exit_1">
+        <text>Чую выбрались.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_gates">
+        <text>Может нажать на кнопку?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_railway_1">
+        <text>Нет питания? Отлично...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_sniper_first_1">
+        <text>Осторожно! Что-то тут не так.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_snorks_1">
+        <text>А-а, осторожно!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_snorks_2">
+        <text>Снорки!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_snorks_3">
+        <text>Ёмаё! Сколько же их тут?!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_train_1">
+        <text>Что-то не нравится мне здесь.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_train_gates_1">
+        <text>Тут мне тоже не по себе как-то.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_transformer_1">
+        <text>Э, ты это, если наверх полезешь - возле рубильников осторожнее.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_about_tushkano_1">
+        <text>Какое-то чувство... Нехорошее.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_come_back_1">
+        <text>Эй, мы что, дальше не идём?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_idle_1">
+        <text>И зачем я вообще в Зону полез?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_idle_2">
+        <text>Вот вернусь домой, да и выкину из головы это место. К чертовой бабушке.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_idle_3">
+        <text>Да, а задвигали нам, ой, задвигали. Авиация - работа почётная и непыльная, ха.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_no_meet_1">
+        <text>Тише! Стремновато здесь как-то.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_no_meet_2">
+        <text>Потом. На свежем воздухе поболтаем.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_no_meet_3">
+        <text>И охото тебе болтать.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_assault_1">
+        <text>Да ты крышей поехал!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_hit_1">
+        <text>Агх... Ты что делаешь?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_hit_2">
+        <text>Агх... Кончай своим мочить!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_actor_hit_3">
+        <text>Агх... Псих гребанный!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_assault_vano_1">
+        <text>Вано погиб!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_assault_wanderer_1">
+        <text>Бродягу убило!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_assault_zulus_1">
+        <text>Зулуса убили!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_hit_1">
+        <text>Агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_hit_2">
+        <text>А-агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_on_enemy_hit_3">
+        <text>Агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_sokolov_wait_for_me_1">
+        <text>Вернись, слышишь? Опасно там.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_first_1">
+        <text>Ва, аномалия тут!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_first_2">
+        <text>Посмотрим сейчас, где здесь небольно бьёт.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_first_3">
+        <text>Э, смотри, дорогой. Здесь пролезть можно.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_second_1">
+        <text>Ещё аномалия. Пойдем её смотреть.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_second_2">
+        <text>Нет, слушай, здесь только один раз пройти можно. Второй раз мёртвый будешь.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_second_3">
+        <text>Вано нашёл дорогу. Ну, тропинку Вано нашёл.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_anomaly_third_1">
+        <text>Ну, что? Двинули.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_control_gates_1">
+        <text>Э, ворота закрыты, да? Ну я не знаю, слушай. Может в диспетчерской открыть можно?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_cover_1">
+        <text>Иди, дорогой. Никакой враг тебе в спину не выстрелит. Слово сталкера.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_dome_1">
+        <text>Слушай, красиво, да?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_door_1">
+        <text>Там двери открылись. В них идём, да?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_gates">
+        <text>Кнопку нажать надо, да.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_railway_1">
+        <text>Хе-хе, электричество кончилось.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_room_closed">
+        <text>Э, не ходи сюда, дорогой. Тут закрыто всё.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_room_open">
+        <text>Э, смотри! Тут открыто всё.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_sniper_first_1">
+        <text>Вспышка справ... Тьфу ты, слева.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_snorks_1">
+        <text>Ай, молодец, да. Всех положили.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_transformer_1">
+        <text>Слушай, на той штуке точно рубильник есть. Включай-выключай, да?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_about_underpass">
+        <text>Ну, что, дорогой, пошли?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_come_back_1">
+        <text>Слушай, ты зачем возишься? Вперёд идти давай.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_idle_1">
+        <text>Слушай, дорогой, а здесь не так плохо наверное. Хе-хе-хе.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_idle_2">
+        <text>С хорошими друзьяим и под землёй хорошо.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_idle_3">
+        <text>Где бы я ещё такое место увидел, а? Не-е, слушай, хорошо что Вано с тобой пошёл.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_no_meet_1">
+        <text>Друг, слушай, давай потом поговорим, а.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_no_meet_2">
+        <text>Слушай, не до общения сейчас.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_no_meet_3">
+        <text>Я тебе чего скажу? Плохое тут место для разговоров.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_assault_1">
+        <text>Ах ты... Подонок.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_hit_1">
+        <text>Гмх, вах, слушай, за что?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_hit_2">
+        <text>Гмх... Генацвале, я же не враг.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_actor_hit_3">
+        <text>Гмх... Всё, тебе не жить, собака!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_assault_sokolov_1">
+        <text>Вояка... Всё, нет его.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_assault_wanderer_1">
+        <text>Монолитовца нашего положили!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_assault_zulus_1">
+        <text>Зулус! Зулус умёр!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_hit_1">
+        <text>Гхм.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_hit_2">
+        <text>Агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_on_enemy_hit_3">
+        <text>Агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_vano_wait_for_me_1">
+        <text>Друг, ты куда один? Вместе идти - оно надёжнее.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_control_gates_1">
+        <text>Ворота заблокированы. Я бы попробовал открыть из диспетчерской.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_cover_1">
+        <text>Я остаюсь. Нужно прикрыть подходы.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_door_1">
+        <text>Дверь открыта. Можно идти.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_gates">
+        <text>Нужно нажать кнопку.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_monolith_1">
+        <text>Лучше уйти с открытого места.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_railway_1">
+        <text>Похоже, ворота не запитаны.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_sniper_first_1">
+        <text>Они - мои.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_sniper_first_2">
+        <text>Готовы.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_snorks_1">
+        <text>Я с ними... разберусь.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_transformer_1">
+        <text>Траснформатор. Я на такие в детстве лазил.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_about_underpass">
+        <text>Пойдём.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_come_back_1">
+        <text>Тут лучше не задерживаться. Пойдём.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_idle_1">
+        <text>Здесь... Слишком пусто.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_idle_2">
+        <text>Наверное я когда-то был здесь. Не помню.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_idle_3">
+        <text>Странно. Всё здесь странно.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_no_meet_1">
+        <text>Давай лучше помолчим.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_no_meet_2">
+        <text>Не стоит болтать попусту.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_no_meet_3">
+        <text>Не хочу сейчас разговаривать.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_assault_1">
+        <text>Предатель.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_hit_1">
+        <text>Кхе. Это не зачем.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_hit_2">
+        <text>Угх, не стоит на меня нападать.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_actor_hit_3">
+        <text>Кх... Я предупреждал.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_assault_sokolov_1">
+        <text>Соколов мёртв.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_assault_vano_1">
+        <text>Вано мёртв.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_assault_zulus_1">
+        <text>Зулус мёртв.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_hit_1">
+        <text>Гха...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_hit_2">
+        <text>Гх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_on_enemy_hit_3">
+        <text>Кх-кх...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_wanderer_wait_for_me_1">
+        <text>Не стоит спешить. Здесь лучше вместе держаться.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_control_gates_1">
+        <text>Ворота заблокированы. Кнопки рядом нет. Есть добровольцы смотаться в диспетчерскую и глянуть: нет ли там чего подходящего?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_cover_1">
+        <text>Давай, брат. За тылы не беспокойся.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_door_1">
+        <text>Так, путь открыт. Идём.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_exit_1">
+        <text>Похоже, что мы уже под Припятью.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_gates">
+        <text>Давай, брат. Жми эту кнопку.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_monolith_1">
+        <text>Спина к спине, быстро!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_monolith_2">
+        <text>Ну нифига себе.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_obstacle_1">
+        <text>Похоже, что в лоб не пройдём.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_obstacle_2">
+        <text>Ладно, нормальные герои всегда идут в обход.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_outfits_1">
+        <text>Вот и пригодились костюмчики.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_railway_1">
+        <text>Так, питание ворот отключено.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_sniper_first_1">
+        <text>Снайперы!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_snorks_1">
+        <text>Так, без паники. Огонь!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_train_gates_1">
+        <text>Ну, брат. Открывай!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_train_gates_2">
+        <text>И так будет с каждым!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_transformer_1">
+        <text>Смахивает на трансформатор. Интересно, все линии включены?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_about_underpass">
+        <text>Ну, двинули?</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_come_back_1">
+        <text>Брат, не отставай. Нужно идти вперёд.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_idle_1">
+        <text>Ну и местечко, ёшкин-кот.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_idle_2">
+        <text>Бардак. У нас бы на базе за такое...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_idle_3">
+        <text>М-да, здесь явно не курорт.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_no_meet_1">
+        <text>Не время сейчас болтать.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_no_meet_2">
+        <text>Выберемся - поговорим.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_no_meet_3">
+        <text>Разговорчики!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_assault_1">
+        <text>Своих мочить?! Ах ты!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_hit_1">
+        <text>Ах, смотри куда бьёшь!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_hit_2">
+        <text>Агх, хорош меня калечить!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_actor_hit_3">
+        <text>Ай, ёп... Куда бьёшь? Я-ж тебе...</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_assault_sokolov_1">
+        <text>Соколов мёртв!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_assault_vano_1">
+        <text>Вано убили!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_assault_wanderer_1">
+        <text>Бродяга кончился!</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_hit_1">
+        <text>Агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_hit_2">
+        <text>Агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_on_enemy_hit_3">
+        <text>Агх.</text>
+    </string>
+    <string id="-characters_voice_scenario_underpass_pas_b400_zulus_wait_for_me_1">
+        <text>Брат, давай-ка назад. Без разведки обойдёмся.</text>
+    </string>
+</string_table>
