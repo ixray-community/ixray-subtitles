@@ -36,7 +36,6 @@ function init_general_config()
     local section = "subtitles"
     local ws_section = "world_space_subtitles"
 
-    local screen_pos_parse      = parse_names(utils.cfg_get_string(ini, section, "screen_position", nil, false, "", "290,645"))
     CONFIG.MAX_SUBTITLES        = utils.cfg_get_number(ini, section, "max_subtitles", nil, false, 3)
     CONFIG.MAX_DISTANCE         = utils.cfg_get_number(ini, section, "max_distance", nil, false, 30)
     CONFIG.DEF_NPC_SUBS         = utils.cfg_get_bool(ini, section, "def_npc_subtitles", nil, false, false)
@@ -51,6 +50,10 @@ end
 -----------------------------------------------------------------------
 
 local function add_subtitles_to_buffer(type, speaker_id, name, text, sound_obj, time, delay)
+    if subtitles_addon.options["subtitles_show"] == false then
+        return
+    end
+
     table.insert(subtitles_buffer, {
         type = type,
         speaker_id = speaker_id,
@@ -75,6 +78,10 @@ local function add_subtitles_from_buffer(sub)
 end
 
 local function add_world_space_subtitles(type, sound_obj, speaker_id, section, text)
+    if subtitles_addon.options["ws_subtitles_show"] == false then
+        return
+    end
+
     table.insert(world_space_subtitles, {
         type = type,
         sound_obj = sound_obj,

@@ -1,0 +1,17 @@
+options = {
+    ["subtitles_show"] = true,
+    ["ws_subtitles_show"] = true,
+}
+
+function on_game_start()
+    RegisterScriptCallback("on_init_ixr_options", function (_ref)
+
+        _ref.register_option("st_subtitles_show_group",     "subtitles_show",       "st_subtitles_show",        _ref.check_box(true),       this.on_change_value)
+        _ref.register_option("st_subtitles_show_group",     "ws_subtitles_show",    "st_ws_subtitles_show",     _ref.check_box(true),       this.on_change_value)
+
+    end)
+end
+
+function on_change_value(group, name, value)
+    options[name] = value
+end

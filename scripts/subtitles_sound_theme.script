@@ -11,10 +11,6 @@ end
 
 -- NPC (type = npc):
 function on_npc_sound_init(ref_binder, snd_ini, section)
-	if subtitles.CONFIG.DEF_NPC_SUBS == nil or subtitles.WS_CONFIG.DEF_NPC_SUBS == nil then
-		subtitles.init_general_config()
-	end
-
     ref_binder.subs           = utils.cfg_get_bool(snd_ini, section, "subtitles", nil, false, subtitles.CONFIG.DEF_NPC_SUBS)
 	ref_binder.subs_name      = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
 	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
@@ -59,10 +55,6 @@ end
 
 -- ACTOR (type = actor):
 function on_actor_sound_init(ref_binder, snd_ini, section)
-	if subtitles.CONFIG.DEF_ACTOR_SUBS == nil then
-		subtitles.init_general_config()
-	end
-
 	ref_binder.subs        = utils.cfg_get_bool(snd_ini, section, "subtitles", nil, false, subtitles.CONFIG.DEF_ACTOR_SUBS)
 	ref_binder.subs_name   = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
 	ref_binder.subs_text   = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
@@ -87,10 +79,6 @@ end
 
 -- OBJ (type = 3d):
 function on_object_sound_init(ref_binder, snd_ini, section)
-	if subtitles.CONFIG.DEF_OBJ_SUBS == nil or subtitles.WS_CONFIG.DEF_OBJ_SUBS == nil then
-		subtitles.init_general_config()
-	end
-
     ref_binder.subs           = utils.cfg_get_bool(snd_ini, section, "subtitles", nil, false, subtitles.CONFIG.DEF_OBJ_SUBS)
 	ref_binder.subs_name      = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
 	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")

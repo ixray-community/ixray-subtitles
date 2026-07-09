@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="st_subtitles_show_group">
+        <text>Показывать субтитры</text>
+    </string>
+    <string id="st_subtitles_show">
+        <text>экранные субтитры</text>
+    </string>
+    <string id="st_ws_subtitles_show">
+        <text>субтитры в мировом пространстве</text>
+    </string>
+</string_table>
