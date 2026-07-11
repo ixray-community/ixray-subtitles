@@ -16,7 +16,7 @@ function on_npc_sound_init(ref_binder, snd_ini, section)
 	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
 
 	ref_binder.ws_subs        = utils.cfg_get_bool(snd_ini, section, "ws_subtitles", nil, false, subtitles.WS_CONFIG.DEF_NPC_SUBS)
-    ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
+    ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_subtitles_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
 	ref_binder.ws_subs_text   = utils.cfg_get_string(snd_ini, section, "ws_subtitles_text", nil, false, "", "")
 end
 
@@ -84,7 +84,7 @@ function on_object_sound_init(ref_binder, snd_ini, section)
 	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
 
 	ref_binder.ws_subs        = utils.cfg_get_bool(snd_ini, section, "ws_subtitles", nil, false, subtitles.WS_CONFIG.DEF_OBJ_SUBS)
-    ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
+    ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_subtitles_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
 	ref_binder.ws_subs_text   = utils.cfg_get_string(snd_ini, section, "ws_subtitles_text", nil, false, "", "")
 end
 
