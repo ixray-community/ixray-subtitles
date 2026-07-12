@@ -24,7 +24,7 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
     if ref_binder.subs then
         local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
 		local name = level.object_by_id(npc_id):character_name()
-		local text = "-"..snd:gsub("\\", "_")
+		local text = "$"..snd:gsub("\\", "_")
 
         if ref_binder.subs_name and ref_binder.subs_name ~= "" then
 			name = ref_binder.subs_name
@@ -43,7 +43,7 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
 
     if ref_binder.ws_subs then
 		local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
-        local text = "-"..snd:gsub("\\", "_")
+        local text = "$"..snd:gsub("\\", "_")
 
         if ref_binder.ws_subs_text and ref_binder.ws_subs_text ~= "" then
             text = ref_binder.ws_subs_text
@@ -64,7 +64,7 @@ function on_actor_sound_play(ref_binder, npc, faction, point, msg)
     if ref_binder.subs then
         local snd = ref_binder.sound[ref_binder.played_id]
         local name = db.actor:character_name()
-		local text = "-"..snd:gsub("\\", "_")
+		local text = "$"..snd:gsub("\\", "_")
 
         if ref_binder.subs_name and ref_binder.subs_name ~= "" then
 			name = ref_binder.subs_name
@@ -92,7 +92,7 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
     if ref_binder.subs then
         local snd = ref_binder.sound[ref_binder.played_id]
 		local name = level.object_by_id(obj_id):name()
-		local text = "-"..snd:gsub("\\", "_")
+		local text = "$"..snd:gsub("\\", "_")
 
         if ref_binder.subs_name and ref_binder.subs_name ~= "" then
 			name = ref_binder.subs_name
@@ -106,7 +106,7 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
 
     if ref_binder.ws_subs then
 		local snd = ref_binder.sound[ref_binder.played_id]
-        local text = "-"..snd:gsub("\\", "_")
+        local text = "$"..snd:gsub("\\", "_")
 
         if ref_binder.ws_subs_text and ref_binder.ws_subs_text ~= "" then
             text = ref_binder.ws_subs_text

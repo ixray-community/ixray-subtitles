@@ -1,579 +1,579 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-    <string id="-characters_voice_scenario_zaton_zat_a23_about_x8">
+    <string id="$characters_voice_scenario_zaton_zat_a23_about_x8">
         <text>Здесь упоминается центральная лаборатория X-8. Возможно в ней найдётся информация о секретных экспериментах на территории Зоны. Наши аналитики давно интересуются этим вопросом.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_alarm">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_alarm">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_guard_1">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_guard_1">
         <text>Ты бы оружие убрал, мужик. У нас здесь лагерь как-никак.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_guard_2">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_guard_2">
         <text>Мужик, здесь места тихие. Так что не шуми и прячь ствол.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_guard_3">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_guard_3">
         <text>С оружием в поле шариться будешь, а здесь лагерь. Сечёшь разницу?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_megaphone_1">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_megaphone_1">
         <text>Сталкер, на нашем судне оружием не машут. Будь добр, спрячь пушку.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_megaphone_2">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_megaphone_2">
         <text>Сухогруз Скадовск - место безопасное. Так что оружие спрячь.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_megaphone_3">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_megaphone_3">
         <text>Сталкер, хочешь попасть на сухогруз? Прячь оружие.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_base_relax">
+    <string id="$characters_voice_scenario_zaton_zat_a2_base_relax">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_linker_b29_take_order">
+    <string id="$characters_voice_scenario_zaton_zat_a2_linker_b29_take_order">
         <text>Отлично. Держи бабло.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_after_surge">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_after_surge">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_1">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_1">
         <text>Будет чего интересного - заходи. Наш Скадовск всегда на месте, никуда не уплывёт.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_2">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_2">
         <text>Найдёшь артефакты - заглядывай, посмотрим.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_1">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_1">
         <text>Это всё? Выход вон там.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_2">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_2">
         <text>Иди себе, иди. У меня и без пиявок всяких забот хватает.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_1">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_1">
         <text>Ну, здорово. Какими судьбами на нашу посудину?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_2">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_2">
         <text>Как говорится, добро пожаловать на борт нашего болотного ледокола.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_1">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_1">
         <text>Кораблик-то давно не на плаву, а вот крысы на борту не все перевелись. Ты по какому поводу здесь?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_2">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_2">
         <text>Что тебе нужно?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_1">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_1">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_2">
+    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_2">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b100_heli_2_maps">
+    <string id="$characters_voice_scenario_zaton_zat_b100_heli_2_maps">
         <text>Судя по всему, экипаж погиб ещё в воздухе. Вертолёт падал без управления. Бортовому компьютеру повезло больше. Так, сейчас поглядим, что в нём полезного. Ага, карта местности с какими-то пометками. Пригодится.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b101_both_heli_info">
+    <string id="$characters_voice_scenario_zaton_zat_b101_both_heli_info">
         <text>С электроникой здесь тоже самое. При этом система защиты от выброса цела. Хм, что же это было?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b101_one_heli_info">
+    <string id="$characters_voice_scenario_zaton_zat_b101_one_heli_info">
         <text>Вся электроника внутри погорела, даже изоляция на проводах расплавилась.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_come_here_now">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_come_here_now">
         <text>О, вот теперь подходи, пообщаемся.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_count_1">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_count_1">
         <text>Раз!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_count_2">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_count_2">
         <text>Два!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_count_3">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_count_3">
         <text>Три!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_1">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_1">
         <text>Ты пушку-то спрячь!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_2">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_2">
         <text>Спрячь ствол говорю. Считаю до трёх.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_1">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_1">
         <text>Да неохота мне болтать. Иди с командиром говори.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_2">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_2">
         <text>Если что - к командиру. С ним беседуй.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b103_merc_warning">
+    <string id="$characters_voice_scenario_zaton_zat_b103_merc_warning">
         <text>Ты что не понял? Назад! Мозги вышибу.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_dont_receipt_reward">
+    <string id="$characters_voice_scenario_zaton_zat_b106_dont_receipt_reward">
         <text>Всё, возвращаемся. Помощи от тебя не было никакой. По тому на награду не рассчитывай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_garmata_refuse_talk">
+    <string id="$characters_voice_scenario_zaton_zat_b106_garmata_refuse_talk">
         <text>Это не ко мне. Со старшим говори.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_garmata_story_reply">
+    <string id="$characters_voice_scenario_zaton_zat_b106_garmata_story_reply">
         <text>Да где ни спрашивал, всё до задницы. Вообще никаких слухов, будто и не было его никогда.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_hunt_complete">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_complete">
         <text>Так, ребята, мы своё дело сделали, возвращаемся. А ты не забудь заглянуть к Зверобою на Янове. Скажешь ему, что раненая химера склеила ласты, и долю свою получишь.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_hunt_great">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_great">
         <text>Ого, очень не очень. Слушай, ты не думал заделаться охотником на химер?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_hunt_kill">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_kill">
         <text>Так, мы на месте. Где-то она совсем близко, блин, прям чувствую. Кто её увидит - сразу бейте в голову, близко подходить нельзя. Нюх у химеры что надо. Он и во сне на полную работает.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_hunt_plan">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_plan">
         <text>Короче, план такой. Химера, она охотится ночью, а потому к утру валит в логово дрыхнуть. Застукать её можно на рассвете - она в это время как раз ляжет отдыхать. Мы подползем ближе, да и прикончим её, пока сопит в две дырки. В общем, только собраться надо пораньше. Пересечься предлагаю в три ночи в баре.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_hunt_sneak">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_sneak">
         <text>Подойти надо незаметно. Нельзя, чтобы она хоть как учуяла.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_see_chimera">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_see_chimera">
         <text>Спишь, тварь. Ну что, привет тебе от Краба. Давай!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_story_angry">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_story_angry">
         <text>Эта скотина ещё пожалеет, что сбежала.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_story_ask">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_story_ask">
         <text>Ну как? Узнал что-нибудь о Сороке?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_story_calm">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_story_calm">
         <text>Ничего, потерпи. Доктор сказал, уже через пару дней бегать сможешь. Давай пока отлёживайся, сил набирайся. Пригодятся.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b106_gonta_to_actor">
+    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_to_actor">
         <text>Эй, сталкер. К тебе вопрос есть.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_1">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_1">
         <text>Теперь поворачивайся. Поворачивайся, сказал, медленно ты. И вали отсюда на, пока на мясо не пустили, понял?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_2">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_2">
         <text>Тебе что, козлина, неясно? Пшёл нахер отсюда.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_3">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_3">
         <text>Ты что, совсем охренел? Я же тебя завалю, ублюдок.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_1">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_1">
         <text>Щас, сука, ты мне всё отдашь!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_2">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_2">
         <text>Завалю нахрен, сука!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_3">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_3">
         <text>Ты урод! Гони артефакт.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_punch">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_punch">
         <text>Ах ты-ж козлина!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_stand_still_snd">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_stand_still_snd">
         <text>Вот так и стой. Не шевелись, козёл, если в загон не хочешь.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_robbery_stop_snd">
+    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_stop_snd">
         <text>Стоять на месте! Ствол убрал! И не дергайся, понял?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_scene_1_give_item">
+    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_give_item">
         <text>Борода, гляди, чего нашёл на старой посудине? Пойдёт?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_scene_1_linker_reply">
+    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_linker_reply">
         <text>Мда, чудная штука. Никто такую раньше не приносил, вот держи за работу.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_scene_1_stalker_bye">
+    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_stalker_bye">
         <text>Угу, ну случится ещё работа. Узнаешь, где меня найти.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_scene_1_stalker_offended">
+    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_stalker_offended">
         <text>Чеши-чеши, ещё отольётся тебе за такое с товарищем обращение.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b14_scene_1_stalker_teach_actor">
+    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_stalker_teach_actor">
         <text>А, это ты. Мне нужны бабки и понимаешь, не меньше, чем тебе.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_breakdown">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_breakdown">
         <text>А-а-а, всё конец! Наступило! Оно наступило! Мутанты, одни мутанты!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_gave_first_artefact">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_gave_first_artefact">
         <text>Как попрут мутанты из всех щелей - это барахло тебе не поможет. На, вот держи и проваливай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_gave_second_artefact">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_gave_second_artefact">
         <text>Ха, думаешь, он защитит тебя от выброса? На, держи. И сваливай отсюда, шкуру спасай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_go_away">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_go_away">
         <text>Тогда вали отсюда, псих.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_greetings_1">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_greetings_1">
         <text>Пошли вон, мутанты долбанные!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_greetings_2">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_greetings_2">
         <text>Убирайтесь, твари! Сейчас перестреляю всех!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_greetings_3">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_greetings_3">
         <text>Мутанты. А ну пошли отсюда, ублюдки!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_no_talk_1">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_no_talk_1">
         <text>Отстань.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_no_talk_2">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_no_talk_2">
         <text>Иди куда шёл.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b18_noah_no_talk_3">
+    <string id="$characters_voice_scenario_zaton_zat_b18_noah_no_talk_3">
         <text>Проваливай!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b20_noah_instructions">
+    <string id="$characters_voice_scenario_zaton_zat_b20_noah_instructions">
         <text>Внимательно следи, как я иду. А потом сам двигай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b20_noah_jumped">
+    <string id="$characters_voice_scenario_zaton_zat_b20_noah_jumped">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_1">
+    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_1">
         <text>Ну, удачи тебе.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_2">
+    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_2">
         <text>Попутного ветра.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_1">
+    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_1">
         <text>Здравствуй.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_2">
+    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_2">
         <text>Здравствуй, сталкер.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b22_stalker_medic_diary">
+    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_diary">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_1">
+    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_1">
         <text>Да-да, прощай-прощай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_2">
+    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_2">
         <text>Да, прощай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_1">
+    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_1">
         <text>Что там? Ранение, облучился?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_2">
+    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_2">
         <text>Только не сейчас. Слушаю.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b22_stalker_medic_hello">
+    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_hello">
         <text>Я знал, что меня раскроют. У тебя видимо много вопросов ко мне. Спрашивай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b28_heli_3_evacuation_points">
+    <string id="$characters_voice_scenario_zaton_zat_b28_heli_3_evacuation_points">
         <text>Так, данные с бортового... Ага, у Ската-3 отказали оба двигателя. Так, что тут у нас ещё? Карта и на ней отметки предположительных точек эвакуации: Б-2, Б-28, Б-205. Интересно.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b29_stalker_rival_1_order_ready">
+    <string id="$characters_voice_scenario_zaton_zat_b29_stalker_rival_1_order_ready">
         <text>Заказ выполнил. Держи артефакт.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b29_stalker_rival_2_order_ready">
+    <string id="$characters_voice_scenario_zaton_zat_b29_stalker_rival_2_order_ready">
         <text>Заказ готов. Вот артефакт.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b30_owl_about_trouble">
+    <string id="$characters_voice_scenario_zaton_zat_b30_owl_about_trouble">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_1">
+    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_1">
         <text>Иди-иди, нечего тебе тут делать.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_2">
+    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_2">
         <text>Давай-давай, не задерживайся.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_1">
+    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_1">
         <text>Ну что? Есть что-то новое?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_2">
+    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_2">
         <text>Да что ты топчешься? Если есть что - выкладывай. Нет - проваливай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b33_stalker_snag_greeting_gun">
+    <string id="$characters_voice_scenario_zaton_zat_b33_stalker_snag_greeting_gun">
         <text>Ух ты, вот это пушка. Слушай, покажи-ка, а.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_about_lair_bloodsucker">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_about_lair_bloodsucker">
         <text>Я видел, как кровосос зашёл в здание. Думаю, там оно логово и есть. Слушай, проверим, а?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_another_one">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_another_one">
         <text>Осторожно! Ещё один!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_appear">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_appear">
         <text>Звук слышал? Ладно, ерунда.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_no_sleep">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_no_sleep">
         <text>Черт, просыпаются. Рвём отсюда!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_sleep">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_sleep">
         <text>Тс! Чёрт, тут полно кровососов. Спят что-ли? Давай-ка на цырлах, чтобы без шума и пыли.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_1">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_1">
         <text>Гляди, вот тут наверное можно будет попасть в подвал.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_2">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_2">
         <text>Талант, как говорится, не пропьёшь. Ну, пошли, глянем.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_down_floor">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_down_floor">
         <text>Коленки не расшиб, нет? Ладно, пошли, проверим помещение.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_fear_end">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_fear_end">
         <text>Эх, надо же, прошли. Ну нифига себе тихий час.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_1">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_1">
         <text>Смотри, куда стреляешь!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_2">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_2">
         <text>Твою мать, ты в меня попал!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_1">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_1">
         <text>Так, теперь разве что прыгать. Давай за мной.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_2">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_2">
         <text>Вроде выход. Прыгай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_1">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_1">
         <text>Есть! Готов. Но я двоих видел, так что ушки на макушки. Понял?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_2">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_2">
         <text>Всё вроде, этот последний.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_notice">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_notice">
         <text>Следи внимательно. Они могут появиться откуда угодно.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter">
         <text>Охотника среди них нет. Ах ты, погляди: тут следы когтей. На тех, кого раньше находили, такого не было. Странно.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_1">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_1">
         <text>Смотри-ка, странно, а? Следы когтей.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_2">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_2">
         <text>На прошлых жмуриках такого не было.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_3">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_3">
         <text>Так, Данилы тут нет. Пошли отсюда.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_see_bloodsucker">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_see_bloodsucker">
         <text>Что-то. Что-то есть. Прикрой меня, ага?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_sit">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_sit">
         <text>Пригнись.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_about_quest">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_about_quest">
         <text>Так, Данилу по результатам не нашли. Есть у меня одна идейка насчет того, где он теперь. Я, пожалуй, проверю. Там свяжемся. А ты сейчас расскажи народу об этих, блин, сосателях. С ними нужно что-то делать.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_stalker_about_lair">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_stalker_about_lair">
         <text>Надо этим Бороду озаботить. Кто-кто, а он докумекает, как с тварями разделаться можно.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b38_stalker_cop_try">
+    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_try">
         <text>Моя специальность! Да и с практикой насчет взлома у меня сложилась, ага.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b39_joker_pda_record">
+    <string id="$characters_voice_scenario_zaton_zat_b39_joker_pda_record">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_drink_no_more">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_drink_no_more">
         <text>Ну как оно, сталкер?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_drunk">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_drunk">
         <text>Ну и что надо?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_drunk_discount">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_drunk_discount">
         <text>Ты это, забыл чего?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_no_sleep_1">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_no_sleep_1">
         <text>М-м, ну что ты, а? Дай поспать, а. Будь человеком.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_no_sleep_2">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_no_sleep_2">
         <text>Да ну вас. Сгиньте. Брызли проклятые.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_no_sleep_3">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_no_sleep_3">
         <text>Там. Вон. Ты наливай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_realy_drunk">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_realy_drunk">
         <text>Стоп! Вы по процедурному вопросу?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_realy_drunk_discount">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_realy_drunk_discount">
         <text>А-а-а, хе-хе-хе, ты. Ну, заходи.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_see_produce_62">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_see_produce_62">
         <text>Чего? Шесят-два? Д-да не может быть!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_sleep_1">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_1">
         <text>[Спит]</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_sleep_2">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_2">
         <text>Я говорю. Мало энергии. Мало.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_sleep_3">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_3">
         <text>[Спит]</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_sleep_4">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_4">
         <text>Ребят, вы куда? Да ну. Остаюсь я, остаюсь.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_sober">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sober">
         <text>М-м-м, здорово.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_take_first_dose">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_take_first_dose">
         <text>Ну, чтобы руки не дрожали!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_take_second_dose">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_take_second_dose">
         <text>Это... Чтобы работа спорилась!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b3_tech_take_third_dose">
+    <string id="$characters_voice_scenario_zaton_zat_b3_tech_take_third_dose">
         <text>Ну, мгм, за общее дело!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b40_merc_combat">
+    <string id="$characters_voice_scenario_zaton_zat_b40_merc_combat">
         <text>Так, кончаем урода!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b40_merc_go_away_1">
+    <string id="$characters_voice_scenario_zaton_zat_b40_merc_go_away_1">
         <text>Поворачивай оглобли, сталкер. Тебе здесь делать нечего.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b40_merc_go_away_2">
+    <string id="$characters_voice_scenario_zaton_zat_b40_merc_go_away_2">
         <text>Сталкер, вали отсюда, пока ноги не повыдергали.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b42_controller_warning_1">
+    <string id="$characters_voice_scenario_zaton_zat_b42_controller_warning_1">
         <text>Уходи отсюда, мужик.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b42_controller_warning_2">
+    <string id="$characters_voice_scenario_zaton_zat_b42_controller_warning_2">
         <text>Уходи пока цел.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_1">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_1">
         <text>Приветствую, сталкер. Решил сделать заказ?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_2">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_2">
         <text>Здоров. Решил что-нибудь заказать?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_3">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_3">
         <text>Привет. Товар какой-нибудь нужен?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_1">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_1">
         <text>Товар всяко будет, не волнуйся. Просто позже.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_2">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_2">
         <text>Зайди попозже. Товар пока не пришёл.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_3">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_3">
         <text>Заказ ещё не готов. Подойти попозже, ладно?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_1">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_1">
         <text>Заказ выполнен. Забирай товар.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_2">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_2">
         <text>Товар у меня. Можно забрать.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_3">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_3">
         <text>Забирай товар, сталкер. Я своё дело сделал.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b51_stalker_nimble_order">
+    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_order">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_1">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_1">
         <text>Ну всё, фраер. Хе, мля, внатуре, вали теперь отсюда, пока мы добрые. А то ща передумаем.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_2">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_2">
         <text>Ты что тут висим? Я тебе, кому сказал, вали на, отсюда быстро.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_3">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_3">
         <text>Не, ну ты конкретно рамсы попутал, мудак млять. Я тебя сейчас урою, понял меня?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_1">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_1">
         <text>Замри, чучело! Замри, а то я сейчас завалю, ты понял?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_2">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_2">
         <text>Братва, да он нас не уважает! Валим его на!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_3">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_3">
         <text>Мля, братва, да он жадный внатуре. Волыну отдавать не хочет.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_see_actor">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_see_actor">
         <text>Опача! Да это же тот фраер с нехилой волыной. Слышишь, ты стой, не рыпайся.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b52_port_bandits_stand_still_snd">
+    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_stand_still_snd">
         <text>Э, ты стой, я тебе сказал. Я щас сам подгребу.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on">
+    <string id="$characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on">
         <text>Не боись, давай-давай. Вперёд!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on_continue">
+    <string id="$characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on_continue">
         <text>Вот видишь, я же говорил, комбинезон выдержит. Двигай дальше!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b53_artefact_hunter_help">
+    <string id="$characters_voice_scenario_zaton_zat_b53_artefact_hunter_help">
         <text>Сталкер, помоги!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_bandits_see_actor">
+    <string id="$characters_voice_scenario_zaton_zat_b5_bandits_see_actor">
         <text>Э, это что за хер?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_bandit_dealer_speak_1">
+    <string id="$characters_voice_scenario_zaton_zat_b5_bandit_dealer_speak_1">
         <text>Короче, артефактов малёха есть. Таких ещё притаранить можем. А нам, короче, надо шпалеры и снарягу такую, чтобы тип-топ. Ты понял?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_angry">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_angry">
         <text>Вы хвост привели, придурки.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_1">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_1">
         <text>Что там, показывай.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_2">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_2">
         <text>В общем так, пацаны. Что у Долга есть, у меня тоже есть. Шпалеры и снаряга - не вопрос. Качество как всегда - лучшего не найдёте.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_kill_bandits">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_kill_bandits">
         <text>Мочите их. Мне свидетели не нужны.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_see_clients">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_see_clients">
         <text>А вот и они.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_to_actor_fire">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_to_actor_fire">
         <text>Валим всех.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_wait_clients">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_wait_clients">
         <text>Ждём тут. Клиенты сейчас появятся.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_want_speak_with_actor">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_want_speak_with_actor">
         <text>Есть к тебе разговор, сталкер.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_dealer_who_there">
+    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_who_there">
         <text>Да кто там ещё?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_stalkers_all_clear_go">
+    <string id="$characters_voice_scenario_zaton_zat_b5_stalkers_all_clear_go">
         <text>Ага. Ну теперь всё ясно. Валим их.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_stalkers_refuse_talk">
+    <string id="$characters_voice_scenario_zaton_zat_b5_stalkers_refuse_talk">
         <text>Спроси у старшего.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_stalkers_watch_out_sentry">
+    <string id="$characters_voice_scenario_zaton_zat_b5_stalkers_watch_out_sentry">
         <text>Не попадайся им на глаза.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_sultan_angry">
+    <string id="$characters_voice_scenario_zaton_zat_b5_sultan_angry">
         <text>Сталкерня?! Какого хрена?!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b5_sultan_kill_stalkers">
+    <string id="$characters_voice_scenario_zaton_zat_b5_sultan_kill_stalkers">
         <text>Братва, валим их!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_1">
+    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_1">
         <text>Живы будем - пересечёмся.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_2">
+    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_2">
         <text>Ты заваливай. Перетрём.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_1">
+    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_1">
         <text>Опа. Нарисовался.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_2">
+    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_2">
         <text>И кто же это к нам колёса катит?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raiders_attack">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_attack">
         <text>Понеслась!</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raiders_ready_to_go">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_ready_to_go">
         <text>Ну что ты телишься? Мы тебя реально сто лет ждём.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raiders_sneak_confuse">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_sneak_confuse">
         <text>Что за батва? Это они что типо спрятались, да?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raiders_to_boss">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_to_boss">
         <text>Слышишь, тут это, у Султана, короче, разговор к тебе есть.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raider_after_bad">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raider_after_bad">
         <text>Всё-всё, замочили. А ты, мля, что зырил, Ермолай, на?</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raider_after_ok">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raider_after_ok">
         <text>Всё, замочили. Мля, ты внатуре шикарно их уделал.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_1">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_1">
         <text>Ща мы их.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_2">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_2">
         <text>Тихо, пасаны.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_3">
+    <string id="$characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_3">
         <text>Не ссы, мы-ж это, мы-ж бригада ёпта.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_stalkers_attack">
+    <string id="$characters_voice_scenario_zaton_zat_b7_stalkers_attack">
         <text>Мочи их.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_stalker_after_bad">
+    <string id="$characters_voice_scenario_zaton_zat_b7_stalker_after_bad">
         <text>Завалили уродов. А ты, я вижу, в бой неособо рвёшься.</text>
     </string>
-    <string id="-characters_voice_scenario_zaton_zat_b7_stalker_after_ok">
+    <string id="$characters_voice_scenario_zaton_zat_b7_stalker_after_ok">
         <text>Завалили уродов. За помощь - спасибо.</text>
     </string>
 </string_table>

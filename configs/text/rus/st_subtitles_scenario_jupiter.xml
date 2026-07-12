@@ -1,678 +1,678 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-    <string id="-characters_voice_scenario_jupiter_jup_a10_bandits_warn">
+    <string id="$characters_voice_scenario_jupiter_jup_a10_bandits_warn">
         <text>Слышишь, ты ныкай волыну, сталкер. А то сейчас прищучу.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a10_bandit_leader_hello">
+    <string id="$characters_voice_scenario_jupiter_jup_a10_bandit_leader_hello">
         <text>Лопни мои глазеньки! И кто кто нам тут пожаловал?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a10_vano_need_help">
+    <string id="$characters_voice_scenario_jupiter_jup_a10_vano_need_help">
         <text>Ах, ёмаё, что делать? Пойду - на бабки попаду. Не пойду - сдохну за здорово живешь.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_bandits_bodyguard_warning_actor">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_bandits_bodyguard_warning_actor">
         <text>Волыну убрал! Быстро!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_bandits_warning_actor">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_bandits_warning_actor">
         <text>Э, ты что здесь делаешь? Отваливай быстрее, пока ноги целы!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_bandit_say_jump">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_bandit_say_jump">
         <text>Те, мля, сказали прыгать, ты делай. Может че ещё на кармане завалялось?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_bandit_threat_to_prisoner">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_bandit_threat_to_prisoner">
         <text>Ещё шаг - и он жмур!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_attack_started">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_merc_attack_started">
         <text>Работаем!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_cover_us">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_merc_cover_us">
         <text>Я прикрою.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_lets_go">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_merc_lets_go">
         <text>Выдвигаемся.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_merc_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_merc_ready">
         <text>На позиции.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalkers_to_actor_came_back">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalkers_to_actor_came_back">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalkers_to_actor_meet_on_base">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalkers_to_actor_meet_on_base">
         <text>Встретимся возле вокзала.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_1_argue">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_1_argue">
         <text>Да мне да задницы! Я считаю, надо этот артефакт надо загнать. За эти деньги нанимаем людей и с ними атакуем бандитов.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_2_argue">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_2_argue">
         <text>Ты думаешь они его не пристрелят? Сразу, как только артефакто возьмут.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_3_argue">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_assaulter_3_argue">
         <text>Блин, да нельзя же всё время идти на поводу! Им сколько не дай - всё мало!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_1_argue">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_1_argue">
         <text>Я тебе говорю, его как выкуп лучше принести.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_2_argue">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_2_argue">
         <text>Не факт! Вот если начнётся пальба, пристрелят однозначно.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_3_argue">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_3_argue">
         <text>Так, спокойно, на поводу никто не идёт. Просто сейчас единственный реальный вариант - это выполнить их условия.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_no_talk">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_diplomat_no_talk">
         <text>Не верю я что-то тебе.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_prisoner_says_we_can_run_from_here">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_prisoner_says_we_can_run_from_here">
         <text>Бегом! Надо оторваться!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a12_stalker_prisoner_thanks_actor">
+    <string id="$characters_voice_scenario_jupiter_jup_a12_stalker_prisoner_thanks_actor">
         <text>Вот это спасибо! Вытащил меня.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_alarm">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_alarm">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_guard_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_guard_1">
         <text>Оружие за спину! Здесь нейтральная территория.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_guard_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_guard_2">
         <text>Мы и так между двух огней, приятель. Убери оружие, не провоцируй.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_guard_3">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_guard_3">
         <text>Заруби себе на носу: с оружием на станцию ты не зайдёшь.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_megaphone_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_megaphone_1">
         <text>Не так быстро, приятель. Ты оружие-то опусти-опусти.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_megaphone_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_megaphone_2">
         <text>Хочешь войти, сталкер? Не вопрос. Оружие только спрячь.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_megaphone_3">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_megaphone_3">
         <text>С оружием только на свежем воздухе.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_base_relax">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_base_relax">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_duty_leader_farewell_1">
         <text>До встрети, сталкер.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_duty_leader_farewell_2">
         <text>Это всё. Можешь идти.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_duty_leader_greeting_1">
         <text>Здравствуй, сталкер.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_duty_leader_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_duty_leader_greeting_2">
         <text>Ты по какому делу?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_freedom_leader_farewell_1">
         <text>Ну, попутного ветра!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_freedom_leader_farewell_2">
         <text>Лёгкой дороги!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_freedom_leader_greeting_1">
         <text>А, здравствуй, мэн.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_freedom_leader_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_freedom_leader_greeting_2">
         <text>Заходи, мэн. Отдохни с дороги.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_barmen_farewell_1">
         <text>Ты заглядывай, тут весело бывает.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_barmen_farewell_2">
         <text>Покедава!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_barmen_greeting_1">
         <text>Подходи, брат. У меня как в Греции - всё есть.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_barmen_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_barmen_greeting_2">
         <text>Алоха!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_after_surge">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_medik_after_surge">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_medik_farewell_1">
         <text>Счастливо. Не болей.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_medik_farewell_2">
         <text>Будь здоров.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_medik_greeting_1">
         <text>Что-то ты бледный. Может укольчик сделать?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_medik_greeting_2">
         <text>Ну вы, как дети прямо. Опять дырка?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_phase_1">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_medik_phase_1">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a6_stalker_medik_phase_2">
+    <string id="$characters_voice_scenario_jupiter_jup_a6_stalker_medik_phase_2">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a9_actor_conservation_info">
+    <string id="$characters_voice_scenario_jupiter_jup_a9_actor_conservation_info">
         <text>Так, после запечатывания путепровод заполнили газом.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a9_actor_power_info">
+    <string id="$characters_voice_scenario_jupiter_jup_a9_actor_power_info">
         <text>Здесь вход в путепровод. Если запустить генератор, получится открыть транспортный шлюз.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_a9_actor_way_info">
+    <string id="$characters_voice_scenario_jupiter_jup_a9_actor_way_info">
         <text>Схема путепровода «Припять-1». Вот и доказательства - подземный путь в Припять существует.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_1">
         <text>Не, ну это...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_2">
         <text>Б-р-р... Да ты чё.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b10_stalker_drunk_no_meet_3">
         <text>Да я... Вот...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b10_ufo_memory_repaired_nitro">
+    <string id="$characters_voice_scenario_jupiter_jup_b10_ufo_memory_repaired_nitro">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b15_zulus_greeting">
+    <string id="$characters_voice_scenario_jupiter_jup_b15_zulus_greeting">
         <text>С чем пожаловал? Слушаю тебя.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b15_zulus_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_b15_zulus_ready">
         <text>Значит уговор: идём вместе. Найдёшь бойцов, присылай ко мне, буду делать из них команду. Когда всё будет на мази, дашь знать. Забираем Азота и вперёд на Юпитер.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_1">
         <text>Тихое местечко, если к местному населению с расспросами не лезть.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_2">
         <text>Спокойно тут. Как на курорте.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_about_zombie_3">
         <text>Почти пришли.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_1">
         <text>Давай бегом сюда. Сейчас самое интересное начнётся.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_2">
         <text>Ну? Чё там копаешься? Пропустишь всё.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_come_here_3">
         <text>Где ты? Ну шевелись давай, тут сейчас такое будет.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_explanations">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_explanations">
         <text>Вот так-то! Ну, что, вижу у тебя от вопросов язык чешется? Оно и понятно, чего бы не поговорить.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_guessed_long">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_guessed_long">
         <text>Ха-ха, а ты смотри угадал-таки. Вот и ладно, зомбики нас прикроют. А ну выноси сволочей!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_guessed_short">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_guessed_short">
         <text>Ты смотри, ха-ха, угадал-таки. А ну выноси сволочей!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_suspense">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_suspense">
         <text>Вот сейчас и глянем. Прав я был или нет.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b19_freedom_yar_zombie_hit">
+    <string id="$characters_voice_scenario_jupiter_jup_b19_freedom_yar_zombie_hit">
         <text>Ну и зачем это было делать? Он тебя трогал? Тоже мне, крутой выискался.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_actor_dont_come">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_actor_dont_come">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_aftershock_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_aftershock_1">
         <text>А-а-а, мам-а... Какого... Что? Да... Я... Я... Я опять.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_aftershock_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_aftershock_2">
         <text>Ух... Невоз... Невозможно. Ах, суки, башка, ой-ё. Башка раскалывается.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_first_stay">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_first_stay">
         <text>Ждём тебя здесь. Если вдруг чего - прикроем.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_get_out">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_get_out">
         <text>Ох ты-ж ёпсель. Так, надо валить отсюда и поскорее.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_greeting">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_greeting">
         <text>Ага, так это ты, значит, спец по норам? Ха! Ладно, ладно не переживай, ребята все толковые, надёжные, с мутантами быстро разберутся.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_lair_check">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_lair_check">
         <text>М-м, так... Кажется всё спокойно. Можно идти.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_monsters_beat_off">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_monsters_beat_off">
         <text>Всё в порядке. Так несколько тушканов. Уже разобрались.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_monsters_out">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_monsters_out">
         <text>Вроде последний.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_psy_wound_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_psy_wound_1">
         <text>Ох ты... Он... Он у меня... Внутри у меня.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_second_stay">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_second_stay">
         <text>Иди, мы прикроем вход.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalkers_see_zombied">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalkers_see_zombied">
         <text>Опа! Зомбированный!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b1_stalker_warning">
+    <string id="$characters_voice_scenario_jupiter_jup_b1_stalker_warning">
         <text>Кон... Кон... Кон-тролёр. О-о-осторожно.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b202_bandit_to_snag">
+    <string id="$characters_voice_scenario_jupiter_jup_b202_bandit_to_snag">
         <text>Привет тебе от Султана, фуфлыжник голимый!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_guards_warning_actor">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_duty_guards_warning_actor">
         <text>Так, а ну чеши отсюда. Вход только для «Долга».</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_leader_about_depot">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_duty_leader_about_depot">
         <text>Гавриленко, слушай сюда: я выяснил насчёт склада. Это свободовцы, их дофига. Так ты бери весь отряд, будем гавнюков выкуривать.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_leader_about_depot_after">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_duty_leader_about_depot_after">
         <text>Если информация подтвердится - ты получишь доступ на склад.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_security_squad_to_freedom_leave">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_duty_security_squad_to_freedom_leave">
         <text>Эй, Свобода, мать вашу растак! Склад - территория «Долга». А потому валите, пока целы.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_duty_security_squad_to_freedom_start_attack">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_duty_security_squad_to_freedom_start_attack">
         <text>Ну, уроды, сами напросились. Бойцы, начинаем операцию.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_guards_warning_actor">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_freedom_guards_warning_actor">
         <text>Иди гуляй в другое место, тут закрытая территория.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_leader_about_depot">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_freedom_leader_about_depot">
         <text>Кремень, бери людей и подтягивайся к Гайдуку на склад. С минуту на минуту должнички за вещичками припрутся.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_leader_about_depot_after">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_freedom_leader_about_depot_after">
         <text>Отлично! Теперь ребята отобьются. Значит так, хороших дел я не забываю. Тайником можешь пользоваться, как своим. Я всех предупрежу.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b207_freedom_recon_squad_refuse">
+    <string id="$characters_voice_scenario_jupiter_jup_b207_freedom_recon_squad_refuse">
         <text>Сейчас-сейчас, дорогой. Рюкзаки вот только патронами набьём и сразу понимаешь...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b212_trapper_found_chimera">
+    <string id="$characters_voice_scenario_jupiter_jup_b212_trapper_found_chimera">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_guide_welcome">
+    <string id="$characters_voice_scenario_jupiter_jup_b217_stalker_guide_welcome">
         <text>Всё, пришли. Это станция Янов. Единственное безопасное место в окрестностях Юпитера, здесь тебя и оставляю. Буду нужен - ищи возле бара.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b217_stalker_tech_farewell_1">
         <text>Бывай!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b217_stalker_tech_farewell_2">
         <text>Бай!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b217_stalker_tech_greeting_1">
         <text>А, привет.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b217_stalker_tech_greeting_2">
         <text>Хаюшки!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b217_stalker_tech_welcome">
+    <string id="$characters_voice_scenario_jupiter_jup_b217_stalker_tech_welcome">
         <text>Так ты здесь впервой? Хм, я вот тоже недавно пришёл. Азот меня зовут, будем знакомы. Я в технике разной копаюсь, что хочешь - отремонтирую. Правда, с инструментами у меня пока туговато. Так если что под руку подвернётся, тащи сюда сразу. А понадобится техническая помощь, так буду рад тебя видеть на нашей, на долговской половине.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_actor_go">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_actor_go">
         <text>Вперёд.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_actor_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_actor_ready">
         <text>Все готовы. Открывай.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_duty_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_duty_ready">
         <text>Готов. Отряд!?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_duty_to_tech">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_duty_to_tech">
         <text>Здесь чисто!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_monolith_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_monolith_ready">
         <text>Я тоже готов.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_soldier_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_soldier_ready">
         <text>Ох не нравится мне всё это.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_stalker_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_stalker_ready">
         <text>Всегда готов!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_damn">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_tech_damn">
         <text>Ах... Твою мать!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_opening">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_tech_opening">
         <text>Ладушки, поехали!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_ready">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_tech_ready">
         <text>Ну что, готовы?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_success">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_tech_success">
         <text>Вот так! Нечего мне тут.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b219_tech_to_duty">
+    <string id="$characters_voice_scenario_jupiter_jup_b219_tech_to_duty">
         <text>Удачи вам, хлопцы!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b220_trapper_farewell_1">
         <text>Ну - ни пуха!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b220_trapper_farewell_2">
         <text>Ну, чтобы без осечек.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b220_trapper_greeting_1">
         <text>Здоров.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b220_trapper_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b220_trapper_greeting_2">
         <text>Как дела охотничьи?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_main_1">
         <text>А теперь выпьем за доблестный экспедиционный отряд Долга! Призванный надрать задницы отбросам общества.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_main_2">
         <text>Я вам о Флинте не рассказывал? О, это личность интересная. Для начала он подставил сталкеров-охотников под атаку химеры. Потом бросил напарника подыхать в аномалий, а там вступил в ряды Свободы. По-моему, самое место логичное развитие событии. Также выпьем же за то, чтобы побольше свободовцев брали с него пример. А тех, кто останется, добьём мы.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_main_3">
         <text>Предлагаю выпить за то, что даже в центре Зоны находятся люди, готовые послужить славному делу Долга. За наш новый отряд, ребята!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_4">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_main_4">
         <text>Я хотел бы поднять свои законно причитающиеся за то, что научный бункер теперь надёжно защищён. Нами, бойцами Долга. Пусть теперь мутанты, анархисты и прочая падаль только попробуют сунуться.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_5">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_main_5">
         <text>Бойцы! Выпьем, не закусывая, за наших добровольцев! Это героические люди. Во благо отечественной и мировой науки - они проводят замеры в самых опасных местах Зоны. Честь им и хвала!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_main_6">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_main_6">
         <text>Я предлагаю тост за бойцов «Долга», которые не щадя своей жизни отбили атаку этих грязных наркоманов на один из наших объектов.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reaction_1">
         <text>Стопудово!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reaction_2">
         <text>О-о, правильно.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reaction_3">
         <text>Хорошо сказал!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reaction_4">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reaction_4">
         <text>За нас!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reply_1">
         <text>Он уже кончился! Вас бы в след за ним отправить, чтобы неповадно было Зону на Большую Землю по кускам перетаскивать.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reply_2">
         <text>Что там было - не знает никто. Уж ты там точно свечку не держал.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reply_3">
         <text>Это тот отряд, который из монолитовцев? Ха-ха, ну и вятки! Надеюсь вы так и кровососов под свои знамёна поставите, а дальше всё будет просто. Занесём вас скопом в список опасных мутантов и будем выжигать, без разбору. Ха-ха.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_4">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reply_4">
         <text>Хех, нашлись охранчики. Забыли, как год назад по всей Тёмной Долине от наёмников бегали?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_5">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reply_5">
         <text>Представляю какие результаты получат учёные: в пробах воздуха будет сто процентов анаши, вместо проб воды - разбадяженный спирт. А на звукозаписи - ваш дебильный смех, ха-ха-ха.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_duty_reply_6">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_duty_reply_6">
         <text>Ничего, мы эти стволы ещё вернём. У вас, свободовцев, есть классная привычка: при встрече с нашими ребятами вы не только ёжиков рожать начинаете, но и пушки роняете.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_main_1">
         <text>Чуваки, слыхали? «Долг» верно следуют традициям. Вот к примеру прапорщик Морган. Подчиняясь жесткой необходимости поддерживать образ, он был вынужден наступить горло собственной кристально честной натуре и расспродать пол склада снаряжения.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_main_2">
         <text>Стройся! Запомните, незыблимые традиции «Долга» были заложены самим его высочеством генералом Таченко. Он обманул непосредственных подчиненных, ввел в заблуждение командование и доблестно погиб в пространственном пузыре. Каждый долговец должен стремиться последовать его примеру.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_main_3">
         <text>Знаете, когда я в первый раз увидел наш новый отряд, я их спросил: может вы в «Долг» хотите, вы все-таки свободные люди, а мы свободу выбора уважаем. А они мне: да нет, у них все по приказу, убивать много надо, да и глаза у них пустые. А мы среди зомбированных уже наторчались, хватит.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_4">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_main_4">
         <text>Слышали тему? Подходит долговец к одному из наших, которые бункер охраняют. И спрашивает: Профессор, а какой артефакт лучше в бою с кабанами? Выверт, который от радиации, или Глаз, который раны затягивает? А наш ему: Пустышка, сынок. Для восстановления сил, пока до базы своей добежишь - меньше запыхаешься.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_5">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_main_5">
         <text>Пипл, знаете, почему учёные выбрали наших ребят для проведения замеров аномалии? Они же в начале к Шульге пришли, говорят: нужно послужить делу науки. А тот в ответ: лёгко, кого расстрелять надо?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_main_6">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_main_6">
         <text>Народ, я с каждом днём всё больше убеждаюсь в необходимости «Долга». Ну вот представьте только: кто б ещё собрал целый склад стволов и снаряги, чтобы пожертвовать его во благо «Свободы».</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reaction_1">
         <text>Ха-ха-ха-ха.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reaction_2">
         <text>Ха-ха-ха-ха.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reaction_3">
         <text>Ха-ха-ха-ха.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reaction_4">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reaction_4">
         <text>Ха-ха-ха-ха.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reply_1">
         <text>Вспомните лучше как ваш доблестный отряд на коленях перед нами ползал, когда на Янов просился перед выбросом.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reply_2">
         <text>Видишь ли, чувак, у нас один такой нашёлся. У вас каждый первый мудак. Защитим мир от Зоны - как же. Забыли добавить: только вот ценные артефактики сначала соберём.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reply_3">
         <text>Вот это правильно: фанатиков к фанатикам. Вы у себя ещё монолитовскую форму введите, а то сталкеры иногда путают, вас за нормальных людей принимают.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_4">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reply_4">
         <text>Мутанты, говоришь? А вам место в бункере хватит, когда мутанты попрут? Там же не бар «100 рентген», там не отсидишься.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_5">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reply_5">
         <text>Ну, если все ваши пьют, как ты, не закусывая. Я себе представляю, какие результаты учёные от вас получат.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b221_freedom_reply_6">
+    <string id="$characters_voice_scenario_jupiter_jup_b221_freedom_reply_6">
         <text>Ага, и охраны-охраны туда побольше. Про ваш склад снаряжения уже пол Зоны знает, так что ждите гостей.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_revage_senya">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_revage_senya">
         <text>Постой! Ты... Ты найди его... Ах...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_artefact">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_artefact">
         <text>Видели б вы, как я артефактов на днях намутил. Это нечто, реально говорю. Ну вы про Карьер, чё, не знаете? Так вот, там ништяков больше не осталось. После Флинта в аномалии искать нечего - это каждый бывалый знает.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_bloodsucker">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_bloodsucker">
         <text>Про кровососов я вам всё расскажу, растолкую. Как был недавно на Затоне, там всех эти «соски» доставали. Брат-сталкер, бедолага, хреначит их день и ночь. И сделать ничё не выходит, результата ноль. Решил я, в общем, ребятам помочь. Взял дробовик и давай напрямую в самое логово, до кровососов, в гости. И три дня им такую вечеруху закатывал, ой-ё! Бывало, с двумя-тремя сразу зажигать приходилось. Ну и короче, после моих дискотек кровососов на Затоне не прёт, они теперь свои щупала-то подобрали.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_controller">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_controller">
         <text>Так и быть, расскажу как надо контролёров валить. Нахоботил я-то недавно кучку артефактов, ну и решил их скинуть, позвонки расслабить. На обратном пути подхожу к нычке, а там... ёшкин кот, контролёр тусит! И сваливать не собирается! Вот морока на ровном месте! Контролёр — не контролёр, а хабар-то забрать надо. И сразу как-то прозреваю: если, думаю, закроюсь какой-нить железной байдой, на все его эти понты мне станет насрать. Ну и, знаете, что делаю? Беру решётку металлическую, что рядом валялась, и этак, значит, закрываясь, потихоньку бреду. И вот пока он меня выпас, пока пробовал за мозги взять, пока кумекал, что ж это я такой невнушаемый, я уж поближе подошёл и пол-обоймы ему в башку-то и ввалил. И живучий же гад попался: только я решётку отбросил, он мне по мозгам как даст! Да только я его прикладом сразу утихомирил...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_first_reac_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_first_reac_1">
         <text>Ха, ну ты это, Флинт, загнул.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_first_reac_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_first_reac_2">
         <text>Ай да Флинт! Чел, что надо!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_first_reac_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_first_reac_3">
         <text>Да... Нехило.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_guide">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_guide">
         <text>Ну за путь от Затона знаете. Чё, нет? Ну, короче, раньше проводники нехилый крюк делали, а я пробил путь покороче. Реально, просто чесанул напрямик: хоп, раз-два, туда-сюда. Все шифры насчёт прохода через аномалии быстро выкупил, тему проводнику загнал, ну, не за так, ясно дело. Так он теперь всех моим путём и водит.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_oasis">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_oasis">
         <text>Про Оазис слышали? Да сто пудов слышали! А я реально был там. Первый допёр, как туда добраться. Так вот: там, по правде, ни мутантов никаких нет, ни аномалий-шманомалий. Всё тихо, как у покойной бабушки моей на даче. А артефактов — как огурцов, один на одном лежат, лопатой греби. Буквально на днях туда заглядывал, на солнышке позагорал. Провести? Ха, это даже не смешно! Оазис, извиняйте, не резиновый.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_scientist">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_scientist">
         <text>Да всяких тем у меня валом! Например, как на учёных работал. Рассказывал, нет? В общем, заглянул как-то к ним в бункер. Ну пробило чё-то меня посмотреть, чем они там занимаются. Профессора все были в шоке, как меня увидели. Ну, говорят, ты такой нам как раз и нужен. «А нафига?» - спрашиваю. Оказалось, им свои приборчики надо под аномалиями порасставлять, хах! Сами-то эти очкарики идти, естественно не хотят. Ну, наобещали бабосов, ништяков всяких. А мне чё? А мне не вопрос! Были бы ништяки хорошие. Но потом пришлось, правда, по окрестностям хорошо поползать, аномалии-шманомалии повыкупать. Но это ладно, это нормальному сталкеру фигня. Круче было потом, когда я из профессоров стал обещанное выбивать.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_second_reac_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_second_reac_1">
         <text>Нормально!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_second_reac_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_second_reac_2">
         <text>Да...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_second_reac_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_second_reac_3">
         <text>Ничего себе!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b25_story_zaton">
+    <string id="$characters_voice_scenario_jupiter_jup_b25_story_zaton">
         <text>А если кто думает, что Флинт лапшу двигает, так пусть к любому на базе подкатит и спросит, кто такой есть Флинт. Охотнички одни как-то встретили и давай сразу: «Флинт, помоги! Ой, да без тебя ж никак!» Хотели, понимаешь, химеру завалить. Ну пришлось показать высоту полёта. Я, как всегда, прямиком в логово. Одного только возле входа поставил - пасти, когда химера вернётся, мне сигнал дать. А он под утро заснул и химеру провтыкал. Только её жопу увидел, сразу сдрыстнул. Пришлось самому отбиваться. Ну и отбился, как видите, хах!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b41_base_alarm">
+    <string id="$characters_voice_scenario_jupiter_jup_b41_base_alarm">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b41_base_relax">
+    <string id="$characters_voice_scenario_jupiter_jup_b41_base_relax">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_1">
         <text>Сталкер! Должен предупредить: вход в бункер с оружием - строго воспрещен!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_2">
         <text>Сталкер, необходимо спрятать оружие у входа в научно-исследовательский комплекс.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b41_bunker_megaphone_3">
         <text>Слышишь, спрячь оружие!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b46_duty_founder_pda_diary">
+    <string id="$characters_voice_scenario_jupiter_jup_b46_duty_founder_pda_diary">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_1">
         <text>...найти выход... Просим помощи... Припасов почти...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_2">
         <text>...больше нет... Второй день без воды, просим помощи! Повторяю: просим помощи! Спа...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b46_spatial_bubble_sos_3">
         <text>...Срочно нужна помощь! Мы продержимся ещё максимум три...</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b47_merc_leader_regret">
+    <string id="$characters_voice_scenario_jupiter_jup_b47_merc_leader_regret">
         <text>Зря сюда полез сталкер! Теперь ты труп!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_align">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_align">
         <text>Стройся!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_align_line">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_align_line">
         <text>В шеренгу - становись!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_final">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_final">
         <text>Бойцы, поздравляю вас со вступлением в ряды «Долга»! Слушай мою команду: за мной, шагом марш!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_praise">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_praise">
         <text>Вот... Умеете, когда хотите. Ну, будем принимать присягу.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_speech">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_duty_squad_leader_speech">
         <text>Клянетесь служить делу «Долга» верой и правдой!? Защищать человечество от агрессии Зоны и всегда следовать уставу!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_any_questions">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_any_questions">
         <text>Ну, что? Ещё вопросы есть?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_lets_talk">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_lets_talk">
         <text>Ну чё стоите? Присаживайтесь, пообщаемся.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_reply">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_reply">
         <text>Жёсткой иерархии у нас нет. На задание идём только с тем, кого уважаем. Но во время операции команды старшего выполняем бесприкословно.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_speech">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_speech">
         <text>Мы уважаем свободу своих бойцов и других сталкеров. Считаем, что Зона открыта для всех, и она - величайший дар человечеству. Шанс значительно продвинуться вперёд в развитии. Это необходимо чётко осознать каждому.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_welcome_to_freedom">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_freedom_squad_leader_welcome_to_freedom">
         <text>Ну, что, добро пожаловать в «Свободу».</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_1_ask_to_freedom">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_1_ask_to_freedom">
         <text>Кому мы будем подчиняться?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_squad_leader_meet">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_squad_leader_meet">
         <text>Эй, сталкер. Подойти, пожалуйста.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_1">
         <text>Сколько не сиди - ничего не высидишь.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_2">
         <text>Вокруг одни мутанты.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talking_1_3">
         <text>А куда идти?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_1">
         <text>Определиться бы сначала, где мы.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_2">
         <text>Надо найти людей.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talking_5_3">
         <text>Как никрути - нам конец.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talk_to_commander_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talk_to_commander_1">
         <text>Тебе лучше с Бродягой поговорить.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_monolith_talk_to_commander_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_monolith_talk_to_commander_2">
         <text>Тебе наверное к Бродяге нужно.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_1_cool_freedom">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_recruit_1_cool_freedom">
         <text>Неплохо.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_1_serve_duty">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_recruit_1_serve_duty">
         <text>Клянёмся.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_2_cool_freedom">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_recruit_2_cool_freedom">
         <text>Отлично. То, что надо.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b4_recruit_2_serve_duty">
+    <string id="$characters_voice_scenario_jupiter_jup_b4_recruit_2_serve_duty">
         <text>Клянёмся.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_farewell_1">
         <text>До встречи!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_farewell_2">
         <text>Заходите ещё!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_greeting_1">
         <text>Здравствуйте, всегда рад видеть нового человека в нашем бункере.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_biochemist_greeting_2">
         <text>Здравствуйте-здравствуйте.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_medic_farewell_1">
         <text>Удачи тебе.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_medic_farewell_2">
         <text>Пока.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_medic_greeting_1">
         <text>Здравствуй.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_medic_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_medic_greeting_2">
         <text>Привет.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_farewell_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_farewell_1">
         <text>Не смею вас задерживать.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_farewell_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_farewell_2">
         <text>М-м, у вас всё? Тогда будьте здоровы.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_greeting_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_greeting_1">
         <text>А, подходите. Что у вас?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_greeting_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_scientist_nuclear_physicist_greeting_2">
         <text>Да-да, я слушаю.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_begin">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_begin">
         <text>Парни, всё делаем в темпе. Чем раньше закончим, тем целее будем.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_done">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_done">
         <text>Уровень альфа, беты и гаммы излучения замерен.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_in_progress">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_first_measurement_in_progress">
         <text>Замер пошёл.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_fourth_measurement_done">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_fourth_measurement_done">
         <text>Сканирование торсионного поля закончено.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_fourth_measurement_in_progress">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_fourth_measurement_in_progress">
         <text>Ещё чуть-чуть, с измерением торсионного поля почти всё.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_measurements_done">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_measurements_done">
         <text>Так, с работой здесь всё. Пора выбираться, хоть к чертовой бабушке, но выбираться.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_1">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_1">
         <text>Твою мать, ты прикрываешь или как?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_2">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_2">
         <text>Давай прикрывай нас!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_3">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_3">
         <text>Эй, ты куда делся?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_4">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_4">
         <text>Эй, они здесь! Выручай!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_5">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_5">
         <text>Да твою-ж мать! Ты где?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_6">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_monsters_coming_6">
         <text>Они прут! Мужик, какого хрена?</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_second_measurement_done">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_second_measurement_done">
         <text>Сканирование электромагнитного поля закончено.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_second_measurement_in_progress">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_second_measurement_in_progress">
         <text>Электромагнитное поле сканируется.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_third_measurement_done">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_third_measurement_done">
         <text>Акустические данные по всем диапозонам получены.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b6_stalker_1_third_measurement_in_progress">
+    <string id="$characters_voice_scenario_jupiter_jup_b6_stalker_1_third_measurement_in_progress">
         <text>Акустические данные зафиксированы по двум диапозонам.</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b9_blackbox_records">
+    <string id="$characters_voice_scenario_jupiter_jup_b9_blackbox_records">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="-characters_voice_scenario_jupiter_jup_b9_heli_1_blackbox">
+    <string id="$characters_voice_scenario_jupiter_jup_b9_heli_1_blackbox">
         <text>Два тела. Похоже, погибли при касании. Ничего ценного: всё вынесли, информация с бортового компьютера удалена, но чёрный ящик уцелел. Думаю, нормальный техник сможет вытащить из него информацию.</text>
     </string>
 </string_table>
