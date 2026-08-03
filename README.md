@@ -63,6 +63,7 @@ Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6
 | `subtitles` | `bool` | Значение поля `def_npc_subtitles`, `def_actor_subtitles` или `def_3d_subtitles` (в зависимости от типа звука)<br><br>секции `[subtitles]`<br><br>в файле `configs\subtitles.ltx` | Включить/выключить экранные субтитры для выбранного звука |
 | `subtitles_name` | `string` | Имя НПС, актора или объекта (в зависимости от типа звука) | Имя говорящего экранных субтитров |
 | `subtitles_text` | `string` | Путь до звука в виде (пример):<br>`$characters_voice_scenario_zaton_zat_a23_about_x8` | Текст экранных субтитров |
+| `subtitles_distance` | `number` | Значение поля `max_distance`<br><br>секции `[subtitles]`<br><br>в файле `configs\subtitles.ltx` | Дистанция от камеры до говорящего больше которой экранные субтитры перестанут показываться |
 | `ws_subtitles` | `bool` | Значение поля `def_npc_subtitles` или `def_3d_subtitles`<br>(в зависимости от типа звука)<br><br>секции `[world_space_subtitles]`<br><br>в файле `configs\subtitles.ltx` | Включить/выключить World Space субтитры для выбранного звука |
 | `ws_subtitles_text` | `string` | Путь до звука в виде (пример):<br>`$characters_voice_scenario_zaton_zat_a23_about_x8` | Текст World Space субтитров |
 | `ws_subtitles_section` | `string` | Значение поля `def_ws_section`<br><br>секции `[world_space_subtitles]`<br><br>в файле `configs\subtitles.ltx` | Секция World Space элемента |
@@ -176,9 +177,10 @@ ws_elements = ws_test_element
 </details>
 
 > [!NOTE]
-> Обратите внимание на world space субтитры, так как мы не указали поле ws_subtitles_text в секции звука, взялось значение по умолчанию, то есть путь до звука с символом `$` в начале. Без этого символа будут приходить сообщения на КПК, как это было в Чистом Небе и соталось в Зов Припяти, но не использовалось.
+> Обратите внимание на world space субтитры, так как мы не указали поле `ws_subtitles_text` в секции звука, взялось значение по умолчанию, то есть путь до звука с символом `$` в начале. Без этого символа будут приходить сообщения на КПК, как это было в Чистом Небе и соталось в Зов Припяти, но не использовалось.
 
 ### Дополнительные функции
+#### функция fake_subtitles
 Для экранных субтитров существует функция `fake_subtitles`, которая реализована в неймспейсе xr_effects, что позволит вызывать её из спейс рестрикторов и т.д.
 
 Принимаемые параметры: 
@@ -187,7 +189,7 @@ ws_elements = ws_test_element
 * `время_жизни` (не обязательный параметр)
 * `задержка_перед_появлением` (не обязательный параметр)
 
-#### Пример вызова из спейс рестриктора
+Пример вызова из спейс рестриктора:
 ```ini
 [sr_idle@1]
 on_info = %=fake_subtitles(st_actor_name:st_test_fake_text:50:30)% sr_idle@2
