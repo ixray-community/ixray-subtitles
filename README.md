@@ -64,9 +64,11 @@ Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6
 | `subtitles_name` | `string` | Имя НПС, актора или объекта (в зависимости от типа звука) | Имя говорящего экранных субтитров |
 | `subtitles_text` | `string` | Путь до звука в виде (пример):<br>`$characters_voice_scenario_zaton_zat_a23_about_x8` | Текст экранных субтитров |
 | `subtitles_distance` | `number` | Значение поля `max_distance`<br><br>секции `[subtitles]`<br><br>в файле `configs\subtitles.ltx` | Дистанция от камеры до говорящего больше которой экранные субтитры перестанут показываться |
+| `subtitles_delay` | `number` | Значение поля `show_delay`<br><br>секции `[subtitles]`<br><br>в файле `configs\subtitles.ltx` | Задержка перед показом в миллисекундах для экранных субтитров |
 | `ws_subtitles` | `bool` | Значение поля `def_npc_subtitles` или `def_3d_subtitles`<br>(в зависимости от типа звука)<br><br>секции `[world_space_subtitles]`<br><br>в файле `configs\subtitles.ltx` | Включить/выключить World Space субтитры для выбранного звука |
 | `ws_subtitles_text` | `string` | Путь до звука в виде (пример):<br>`$characters_voice_scenario_zaton_zat_a23_about_x8` | Текст World Space субтитров |
 | `ws_subtitles_section` | `string` | Значение поля `def_ws_section`<br><br>секции `[world_space_subtitles]`<br><br>в файле `configs\subtitles.ltx` | Секция World Space элемента |
+| `ws_subtitles_delay` | `number` | Значение поля `show_delay`<br><br>секции `[world_space_subtitles]`<br><br>в файле `configs\subtitles.ltx` | Задержка перед показом в миллисекундах для World Space субтитров |
 
 ### Примеры
 #### Пример с типом npc
