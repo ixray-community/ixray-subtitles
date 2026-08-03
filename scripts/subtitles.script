@@ -49,7 +49,7 @@ end
 
 -----------------------------------------------------------------------
 
-local function add_subtitles_to_buffer(type, speaker_id, name, text, sound_obj, time, delay)
+local function add_subtitles_to_buffer(type, speaker_id, name, text, sound_obj, time, delay, distance)
     if subtitles_addon.options["subtitles_show"] == false then
         return
     end
@@ -62,6 +62,7 @@ local function add_subtitles_to_buffer(type, speaker_id, name, text, sound_obj, 
         sound_obj = sound_obj,
         time = time,
         delay = delay,
+        distance = distance,
         ui_body = nil
     })
 end
@@ -125,16 +126,16 @@ end
 
 -----------------------------------------------------------------------
 
-function add_subtitles_npc(speaker_id, name, text)
-    add_subtitles_to_buffer(subs_types.npc, speaker_id, name, text)
+function add_subtitles_npc(speaker_id, name, text, distance)
+    add_subtitles_to_buffer(subs_types.npc, speaker_id, name, text, nil, nil, nil, distance)
 end
 
 function add_subtitles_actor(name, text, sound_obj)
     add_subtitles_to_buffer(subs_types.actor, db.actor:id(), name, text, sound_obj)
 end
 
-function add_subtitles_obj(speaker_id, name, text, sound_obj)
-    add_subtitles_to_buffer(subs_types.obj, speaker_id, name, text, sound_obj)
+function add_subtitles_obj(speaker_id, name, text, sound_obj, distance)
+    add_subtitles_to_buffer(subs_types.obj, speaker_id, name, text, sound_obj, nil, nil, distance)
 end
 
 function add_subtitles_fake(name, text, time, delay)
@@ -176,7 +177,7 @@ function update()
         if sub.type == subs_types.npc then
             if not speaker_is_playing(sub.speaker_id) then
                 remove = true
-            elseif not speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+            elseif not speaker_is_far_away(sub.speaker_id, sub.distance) then
                 to_show = true
             end
         elseif sub.type == subs_types.actor then
@@ -188,7 +189,7 @@ function update()
         elseif sub.type == subs_types.obj then
             if not sub.sound_obj:playing() then
                 remove = true
-            elseif not speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+            elseif not speaker_is_far_away(sub.speaker_id, sub.distance) then
                 to_show = true
             end
         elseif sub.type == subs_types.fake then
@@ -216,7 +217,7 @@ function update()
         if sub.type == subs_types.npc then
             if not speaker_is_playing(sub.speaker_id) then
                 remove = true
-            elseif speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+            elseif speaker_is_far_away(sub.speaker_id, sub.distance) then
                 to_buffer = true
             end
         elseif sub.type == subs_types.actor then
@@ -226,7 +227,7 @@ function update()
         elseif sub.type == subs_types.obj then
             if not sub.sound_obj:playing() then
                 remove = true
-            elseif speaker_is_far_away(sub.speaker_id, CONFIG.MAX_DISTANCE) then
+            elseif speaker_is_far_away(sub.speaker_id, sub.distance) then
                 to_buffer = true
             end
         elseif sub.type == subs_types.fake then
@@ -238,7 +239,7 @@ function update()
         if remove then
             remove_subtitles(i)
         elseif to_buffer then
-            add_subtitles_to_buffer(sub.type, sub.speaker_id, sub.name, sub.text, sub.sound_obj, sub.time, sub.delay)
+            add_subtitles_to_buffer(sub.type, sub.speaker_id, sub.name, sub.text, sub.sound_obj, sub.time, sub.delay, sub.distance)
             remove_subtitles(i)
         else
             i = i + 1
