@@ -15,10 +15,12 @@ function on_npc_sound_init(ref_binder, snd_ini, section)
 	ref_binder.subs_name      = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
 	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
 	ref_binder.subs_distance  = utils.cfg_get_number(snd_ini, section, "subtitles_distance", nil, false, subtitles.CONFIG.MAX_DISTANCE)
+	ref_binder.subs_delay  	  = utils.cfg_get_number(snd_ini, section, "subtitles_delay", nil, false, subtitles.CONFIG.SHOW_DELAY)
 
 	ref_binder.ws_subs        = utils.cfg_get_bool(snd_ini, section, "ws_subtitles", nil, false, subtitles.WS_CONFIG.DEF_NPC_SUBS)
     ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_subtitles_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
 	ref_binder.ws_subs_text   = utils.cfg_get_string(snd_ini, section, "ws_subtitles_text", nil, false, "", "")
+	ref_binder.ws_subs_delay  = utils.cfg_get_number(snd_ini, section, "ws_subtitles_delay", nil, false, subtitles.WS_CONFIG.SHOW_DELAY)
 end
 
 function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
@@ -26,6 +28,7 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
         local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
 		local name = level.object_by_id(npc_id):character_name()
 		local text = "$"..snd:gsub("\\", "_")
+		local delay = ref_binder.subs_delay
 
         if ref_binder.subs_name and ref_binder.subs_name ~= "" then
 			name = ref_binder.subs_name
@@ -34,23 +37,27 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
 			text = ref_binder.subs_text
 		end
 
-		if ref_binder.delay_sound < 1 then
-			subtitles.add_subtitles_npc(npc_id, name, text, ref_binder.subs_distance)
-		else
-			local snd_obj_length = sound_object(snd):length()
-			subtitles.add_subtitles_fake(name, text, snd_obj_length, ref_binder.delay_sound)
+		if ref_binder.delay_sound > 0 and ref_binder.subs_delay == 0 then
+			delay = ref_binder.delay_sound
 		end
+
+		subtitles.add_subtitles_npc(npc_id, name, text, delay, ref_binder.subs_distance)
     end
 
     if ref_binder.ws_subs then
 		local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
         local text = "$"..snd:gsub("\\", "_")
+		local delay = ref_binder.ws_subs_delay
 
         if ref_binder.ws_subs_text and ref_binder.ws_subs_text ~= "" then
             text = ref_binder.ws_subs_text
         end
 
-        subtitles.add_ws_subtitles_npc(nil, npc_id, ref_binder.ws_section, text)
+		if ref_binder.delay_sound > 0 and ref_binder.ws_subs_delay == 0 then
+			delay = ref_binder.delay_sound
+		end
+
+        subtitles.add_ws_subtitles_npc(nil, npc_id, ref_binder.ws_section, text, delay)
 	end
 end
 
@@ -59,6 +66,7 @@ function on_actor_sound_init(ref_binder, snd_ini, section)
 	ref_binder.subs        = utils.cfg_get_bool(snd_ini, section, "subtitles", nil, false, subtitles.CONFIG.DEF_ACTOR_SUBS)
 	ref_binder.subs_name   = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
 	ref_binder.subs_text   = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
+	ref_binder.subs_delay  = utils.cfg_get_number(snd_ini, section, "subtitles_delay", nil, false, subtitles.CONFIG.SHOW_DELAY)
 end
 
 function on_actor_sound_play(ref_binder, npc, faction, point, msg)
@@ -74,7 +82,7 @@ function on_actor_sound_play(ref_binder, npc, faction, point, msg)
 			text = ref_binder.subs_text
 		end
 
-        subtitles.add_subtitles_actor(name, text, ref_binder.snd_obj)
+        subtitles.add_subtitles_actor(name, text, ref_binder.snd_obj, ref_binder.subs_delay)
 	end
 end
 
@@ -84,10 +92,12 @@ function on_object_sound_init(ref_binder, snd_ini, section)
 	ref_binder.subs_name      = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
 	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
 	ref_binder.subs_distance  = utils.cfg_get_number(snd_ini, section, "subtitles_distance", nil, false, subtitles.CONFIG.MAX_DISTANCE)
+	ref_binder.subs_delay  = utils.cfg_get_number(snd_ini, section, "subtitles_delay", nil, false, subtitles.CONFIG.SHOW_DELAY)
 
 	ref_binder.ws_subs        = utils.cfg_get_bool(snd_ini, section, "ws_subtitles", nil, false, subtitles.WS_CONFIG.DEF_OBJ_SUBS)
     ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_subtitles_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
 	ref_binder.ws_subs_text   = utils.cfg_get_string(snd_ini, section, "ws_subtitles_text", nil, false, "", "")
+	ref_binder.ws_subs_delay  = utils.cfg_get_number(snd_ini, section, "ws_subtitles_delay", nil, false, subtitles.WS_CONFIG.SHOW_DELAY)
 end
 
 function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
@@ -103,7 +113,7 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
 			text = ref_binder.subs_text
 		end
 
-		subtitles.add_subtitles_obj(obj_id, name, text, ref_binder.snd_obj, ref_binder.subs_distance)
+		subtitles.add_subtitles_obj(obj_id, name, text, ref_binder.snd_obj, ref_binder.subs_delay, ref_binder.subs_distance)
     end
 
     if ref_binder.ws_subs then
@@ -114,6 +124,6 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
             text = ref_binder.ws_subs_text
         end
 
-        subtitles.add_ws_subtitles_obj(ref_binder.snd_obj, obj_id, ref_binder.ws_section, text)
+        subtitles.add_ws_subtitles_obj(ref_binder.snd_obj, obj_id, ref_binder.ws_section, text, ref_binder.ws_subs_delay)
 	end
 end

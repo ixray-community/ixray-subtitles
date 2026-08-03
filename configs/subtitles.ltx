@@ -1,11 +1,13 @@
 [subtitles] ; экранные субтитры
 max_subtitles = 3                       ; максимальное кол-во субтитров на экране
 max_distance = 30                       ; дистанция от камеры до говорящего больше которой субтитры перестанут показываться
+show_delay = 0                          ; задержка перед показом в миллисекундах
 def_npc_subtitles = true                ; по дефолту для всех звуков с type = npc будет subtitles = def_npc_subtitles
 def_actor_subtitles = false             ; по дефолту для всех звуков с type = actor будет subtitles = def_actor_subtitles
 def_3d_subtitles = false                ; по дефолту для всех звуков с type = 3d будет subtitles = def_3d_subtitles
 
 [world_space_subtitles] ; субтитры в мировом пространстве
+show_delay = 0                          ; задержка перед показом в миллисекундах
 def_ws_section = ws_subtitles_element   ; по дефолту для всех звуков ws_subtitles_section = def_ws_section (смотрите misc\world_space_ui_elements.ltx и misc\mod_world_space_ui_elements_subtitles.ltx)
 def_npc_subtitles = false               ; по дефолту для всех звуков с type = npc будет ws_subtitles = def_npc_subtitles
 def_3d_subtitles = false                ; по дефолту для всех звуков с type = 3d будет ws_subtitles = def_3d_subtitles
