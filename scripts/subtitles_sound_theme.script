@@ -92,7 +92,7 @@ function on_object_sound_init(ref_binder, snd_ini, section)
 	ref_binder.subs_name      = utils.cfg_get_string(snd_ini, section, "subtitles_name", nil, false, "", "")
 	ref_binder.subs_text      = utils.cfg_get_string(snd_ini, section, "subtitles_text", nil, false, "", "")
 	ref_binder.subs_distance  = utils.cfg_get_number(snd_ini, section, "subtitles_distance", nil, false, subtitles.CONFIG.MAX_DISTANCE)
-	ref_binder.subs_delay  = utils.cfg_get_number(snd_ini, section, "subtitles_delay", nil, false, subtitles.CONFIG.SHOW_DELAY)
+	ref_binder.subs_delay  	  = utils.cfg_get_number(snd_ini, section, "subtitles_delay", nil, false, subtitles.CONFIG.SHOW_DELAY)
 
 	ref_binder.ws_subs        = utils.cfg_get_bool(snd_ini, section, "ws_subtitles", nil, false, subtitles.WS_CONFIG.DEF_OBJ_SUBS)
     ref_binder.ws_section     = utils.cfg_get_string(snd_ini, section, "ws_subtitles_section", nil, false, "", subtitles.WS_CONFIG.DEF_WS_SECTION)
