@@ -137,15 +137,22 @@ end
 -----------------------------------------------------------------------
 
 local function speaker_is_playing(speaker_id)
-    local obj = db.storage[speaker_id] and db.storage[speaker_id].object
-	if obj == nil then
-		return false
-	end
-	return obj:active_sound_count() ~= 0
+    local obj = level.object_by_id(speaker_id)
+
+    if obj == nil then 
+        return false 
+    end
+
+	return obj:active_sound_count_script() ~= 0
 end
 
 local function speaker_is_far_away(speaker_id, distance)
     local obj = level.object_by_id(speaker_id)
+
+    if obj == nil then 
+        return false 
+    end
+
     return device().cam_pos:distance_to_sqr(obj:position()) >= distance * distance
 end
 
@@ -186,7 +193,6 @@ function add_subtitles_obj(speaker_id, name, text, sound_obj, delay, distance)
     sub.distance = distance
 
     add_subtitles_to_buffer(sub)
-    --xr_effects.send_tip(db.actor, nil, {subtitles_buffer[1].name})
 end
 
 function add_subtitles_fake(name, text, time, delay)
