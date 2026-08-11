@@ -29,6 +29,7 @@ function on_game_start()
     RegisterScriptCallback("on_game_load", this.on_actor_netspawn)
     RegisterScriptCallback("actor_on_net_destroy", this.on_actor_netdestroy)
     RegisterScriptCallback("actor_on_update", this.actor_on_update)
+	news_manager.subtitles_enabled = false
 end
 
 function init_general_config()
