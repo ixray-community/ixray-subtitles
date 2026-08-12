@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
+    <string id="st_subtitles_addon_title">
+        <text>Subtitles</text>
+    </string>
+    <string id="st_subtitles_addon_name">
+        <text>Subtitles Addon</text>
+    </string>
     <string id="st_subtitles_show_group">
         <text>Show subtitles</text>
     </string>
     <string id="st_subtitles_show">
-        <text>on-screen subtitles</text>
+        <text>On-screen subtitles</text>
     </string>
     <string id="st_ws_subtitles_show">
-        <text>world space subtitles</text>
+        <text>World space subtitles</text>
     </string>
 </string_table>
