@@ -207,10 +207,9 @@ function add_subtitles_fake(name, text, time, delay)
     add_subtitles_to_buffer(sub)
 end
 
-function add_ws_subtitles_npc(sound_obj, speaker_id, section, text, delay)
+function add_ws_subtitles_npc(speaker_id, section, text, delay)
     local sub = WsSubtitle()
     sub.type = subs_types.npc
-    sub.sound_obj = sound_obj
     sub.speaker_id = speaker_id
     sub.section = section
     sub.text = game.translate_string(text)

@@ -57,7 +57,7 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
 			delay = ref_binder.delay_sound
 		end
 
-        subtitles.add_ws_subtitles_npc(nil, npc_id, ref_binder.ws_section, text, delay)
+        subtitles.add_ws_subtitles_npc(npc_id, ref_binder.ws_section, text, delay)
 	end
 end
 
