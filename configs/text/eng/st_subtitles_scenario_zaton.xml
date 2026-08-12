@@ -1,579 +1,579 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-    <string id="$characters_voice_scenario_zaton_zat_a23_about_x8">
+    <string id="characters_voice_scenario_zaton_zat_a23_about_x8">
         <text>The central laboratory X-8 is mentioned here. Perhaps it contains information about secret experiments in the Zone. Our analysts have been interested in this for a long time.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_alarm">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_alarm">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_guard_1">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_guard_1">
         <text>You should put your weapon away, man. This is a camp, after all.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_guard_2">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_guard_2">
         <text>Man, these are quiet places. So don't make noise and hide the piece.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_guard_3">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_guard_3">
         <text>You can wander around the field with a weapon, but this is a camp. See the difference?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_megaphone_1">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_megaphone_1">
         <text>Stalker, we don't wave weapons on our ship. Please put your gun away.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_megaphone_2">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_megaphone_2">
         <text>The cargo ship Skadovsk is a safe place. So hide your weapon.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_megaphone_3">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_megaphone_3">
         <text>Stalker, want to get on the cargo ship? Hide your weapon.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_base_relax">
+    <string id="characters_voice_scenario_zaton_zat_a2_base_relax">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_linker_b29_take_order">
+    <string id="characters_voice_scenario_zaton_zat_a2_linker_b29_take_order">
         <text>Excellent. Here's the money.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_after_surge">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_after_surge">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_1">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_1">
         <text>If you find something interesting - come by. Our Skadovsk is always in place, it's not going anywhere.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_2">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_2">
         <text>Find any artifacts? Stop by, we'll take a look.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_1">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_1">
         <text>That's all? The exit is over there.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_2">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_farewell_angry_2">
         <text>Go on, go. I have enough worries without any leeches.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_1">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_1">
         <text>Well, hello. What brings you to our vessel?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_2">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_2">
         <text>As they say, welcome aboard our swamp icebreaker.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_1">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_1">
         <text>The little ship hasn't been afloat for a long time, but not all the rats on board have died out. What's your business here?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_2">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_greeting_angry_2">
         <text>What do you need?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_1">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_1">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_2">
+    <string id="characters_voice_scenario_zaton_zat_a2_stalker_barmen_surge_phase_2">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b100_heli_2_maps">
+    <string id="characters_voice_scenario_zaton_zat_b100_heli_2_maps">
         <text>Apparently, the crew died while still in the air. The helicopter fell without control. The onboard computer was luckier. Let's see what's useful in it. Yeah, a map of the area with some markings. That'll come in handy.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b101_both_heli_info">
+    <string id="characters_voice_scenario_zaton_zat_b101_both_heli_info">
         <text>Same thing with the electronics. Meanwhile, the emission protection system is intact. Hmm, what was that?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b101_one_heli_info">
+    <string id="characters_voice_scenario_zaton_zat_b101_one_heli_info">
         <text>All the electronics inside are burned out, even the insulation on the wires melted.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_come_here_now">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_come_here_now">
         <text>Oh, now come here, let's talk.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_count_1">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_count_1">
         <text>One!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_count_2">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_count_2">
         <text>Two!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_count_3">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_count_3">
         <text>Three!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_1">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_1">
         <text>Put the gun away!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_2">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_hide_weapon_2">
         <text>Hide the piece, I said. I'm counting to three.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_1">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_1">
         <text>I don't feel like chatting. Go talk to the commander.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_2">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_talk_to_commander_2">
         <text>Anything - go to the commander. Talk to him.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b103_merc_warning">
+    <string id="characters_voice_scenario_zaton_zat_b103_merc_warning">
         <text>Didn't you understand? Back! I'll blow your brains out.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_dont_receipt_reward">
+    <string id="characters_voice_scenario_zaton_zat_b106_dont_receipt_reward">
         <text>Alright, we're going back. There was no help from you at all. So don't expect a reward.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_garmata_refuse_talk">
+    <string id="characters_voice_scenario_zaton_zat_b106_garmata_refuse_talk">
         <text>Not my department. Talk to the senior.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_garmata_story_reply">
+    <string id="characters_voice_scenario_zaton_zat_b106_garmata_story_reply">
         <text>Everywhere I asked, it's all fucked up. No rumors at all, like he never existed.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_complete">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_hunt_complete">
         <text>Alright, guys, we did our job, we're going back. And don't forget to visit Trapper at Yanov. Tell him the wounded chimera kicked the bucket, and you'll get your share.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_great">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_hunt_great">
         <text>Wow, that's very not good. Listen, have you ever thought about becoming a chimera hunter?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_kill">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_hunt_kill">
         <text>Alright, we're in position. It's somewhere very close, damn, I can feel it. Whoever sees it - shoot it in the head immediately, don't go near it. A chimera's sense of smell is incredible. It works at full power even in sleep.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_plan">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_hunt_plan">
         <text>Okay, here's the plan. The chimera hunts at night, so by morning it goes to its lair to sleep. You can catch it at dawn - that's when it's just about to lie down to rest. We'll crawl closer and finish it off while it's snoring. Anyway, we just need to gather early. Let's meet at three in the morning at the bar.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_hunt_sneak">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_hunt_sneak">
         <text>We need to approach unnoticed. It can't sense us at all.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_see_chimera">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_see_chimera">
         <text>Sleeping, you bastard. Well, greetings from Krab. Let's go!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_story_angry">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_story_angry">
         <text>That beast will regret running away.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_story_ask">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_story_ask">
         <text>So? Did you find out anything about Soroka?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_story_calm">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_story_calm">
         <text>It's alright, be patient. The doctor said you'll be able to run in a couple of days. Just lie low for now, gather your strength. You'll need it.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b106_gonta_to_actor">
+    <string id="characters_voice_scenario_zaton_zat_b106_gonta_to_actor">
         <text>Hey, stalker. Got a question for you.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_1">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_1">
         <text>Now turn around. Turn around, I said, slowly. And get the fuck out of here before we turn you into meat, got it?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_2">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_2">
         <text>What's not clear, you bastard? Get the fuck out of here.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_3">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_after_pay_snd_3">
         <text>Are you completely out of your mind? I'll kill you, you bastard.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_1">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_1">
         <text>Now, bitch, you'll give me everything!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_2">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_2">
         <text>I'll fucking kill you, bitch!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_3">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_kill_actor_snd_3">
         <text>You freak! Hand over the artifact.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_punch">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_punch">
         <text>Ah, you bastard!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_stand_still_snd">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_stand_still_snd">
         <text>Just stand like that. Don't move, bastard, if you don't want to end up in the pen.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_robbery_stop_snd">
+    <string id="characters_voice_scenario_zaton_zat_b14_robbery_stop_snd">
         <text>Stand still! Put the gun away! And don't twitch, got it?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_give_item">
+    <string id="characters_voice_scenario_zaton_zat_b14_scene_1_give_item">
         <text>Beard, look what I found on that old ship? Is it any good?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_linker_reply">
+    <string id="characters_voice_scenario_zaton_zat_b14_scene_1_linker_reply">
         <text>Hmm, a strange thing. No one's brought one like this before. Here's your payment.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_stalker_bye">
+    <string id="characters_voice_scenario_zaton_zat_b14_scene_1_stalker_bye">
         <text>Uh-huh, well if any work comes up. You know where to find me.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_stalker_offended">
+    <string id="characters_voice_scenario_zaton_zat_b14_scene_1_stalker_offended">
         <text>Get going, get going. You'll pay for treating a comrade like that.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b14_scene_1_stalker_teach_actor">
+    <string id="characters_voice_scenario_zaton_zat_b14_scene_1_stalker_teach_actor">
         <text>Ah, it's you. I need money, and you understand, no less than you.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_breakdown">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_breakdown">
         <text>Ah-ah-ah, it's all over! It's here! It's here! Mutants, nothing but mutants!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_gave_first_artefact">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_gave_first_artefact">
         <text>When mutants start pouring out of every crack - this crap won't help you. Here, take it and get lost.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_gave_second_artefact">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_gave_second_artefact">
         <text>Ha, you think that'll protect you from an emission? Here, take it. And get out of here, save your skin.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_go_away">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_go_away">
         <text>Then get the hell out of here, you psycho.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_greetings_1">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_greetings_1">
         <text>Get lost, you fucking mutants!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_greetings_2">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_greetings_2">
         <text>Get out, you creatures! I'll shoot you all right now!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_greetings_3">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_greetings_3">
         <text>Mutants. Get out of here, bastards!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_no_talk_1">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_no_talk_1">
         <text>Leave me alone.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_no_talk_2">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_no_talk_2">
         <text>Go where you were going.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b18_noah_no_talk_3">
+    <string id="characters_voice_scenario_zaton_zat_b18_noah_no_talk_3">
         <text>Get lost!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b20_noah_instructions">
+    <string id="characters_voice_scenario_zaton_zat_b20_noah_instructions">
         <text>Watch carefully how I walk. Then you move yourself.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b20_noah_jumped">
+    <string id="characters_voice_scenario_zaton_zat_b20_noah_jumped">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_1">
+    <string id="characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_1">
         <text>Well, good luck to you.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_2">
+    <string id="characters_voice_scenario_zaton_zat_b215_stalker_guide_farewell_2">
         <text>Fair winds.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_1">
+    <string id="characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_1">
         <text>Hello.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_2">
+    <string id="characters_voice_scenario_zaton_zat_b215_stalker_guide_greeting_2">
         <text>Hello, stalker.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_diary">
+    <string id="characters_voice_scenario_zaton_zat_b22_stalker_medic_diary">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_1">
+    <string id="characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_1">
         <text>Yes, yes, goodbye, goodbye.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_2">
+    <string id="characters_voice_scenario_zaton_zat_b22_stalker_medic_farewell_2">
         <text>Yes, goodbye.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_1">
+    <string id="characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_1">
         <text>What is it? Wounded, irradiated?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_2">
+    <string id="characters_voice_scenario_zaton_zat_b22_stalker_medic_greeting_2">
         <text>Just not now. I'm listening.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b22_stalker_medic_hello">
+    <string id="characters_voice_scenario_zaton_zat_b22_stalker_medic_hello">
         <text>I knew I'd be discovered. You probably have a lot of questions for me. Ask.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b28_heli_3_evacuation_points">
+    <string id="characters_voice_scenario_zaton_zat_b28_heli_3_evacuation_points">
         <text>So, data from the onboard. Yeah, Skat-3 had both engines fail. So, what else have we got here? A map with markers of presumed evacuation points: B-2, B-28, B-205. Interesting.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b29_stalker_rival_1_order_ready">
+    <string id="characters_voice_scenario_zaton_zat_b29_stalker_rival_1_order_ready">
         <text>Order fulfilled. Here's the artifact.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b29_stalker_rival_2_order_ready">
+    <string id="characters_voice_scenario_zaton_zat_b29_stalker_rival_2_order_ready">
         <text>Order ready. Here's the artifact.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b30_owl_about_trouble">
+    <string id="characters_voice_scenario_zaton_zat_b30_owl_about_trouble">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_1">
+    <string id="characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_1">
         <text>Go on, go on. You've got nothing to do here.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_2">
+    <string id="characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_farewell_2">
         <text>Come on, come on, don't linger.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_1">
+    <string id="characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_1">
         <text>Well? Got anything new?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_2">
+    <string id="characters_voice_scenario_zaton_zat_b30_owl_stalker_trader_greeting_2">
         <text>Why are you loafing around? If you've got something - spit it out. If not - get lost.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b33_stalker_snag_greeting_gun">
+    <string id="characters_voice_scenario_zaton_zat_b33_stalker_snag_greeting_gun">
         <text>Wow, that's a nice piece. Hey, let me check it out, huh.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_about_lair_bloodsucker">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_about_lair_bloodsucker">
         <text>I saw a bloodsucker go into that building. I think its lair is there. Listen, let's check it out, huh?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_another_one">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_another_one">
         <text>Watch out! Another one!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_appear">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_appear">
         <text>Did you hear that sound? Oh well, nothing.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_no_sleep">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_no_sleep">
         <text>Damn, they're waking up. Let's get out of here!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_sleep">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_bloodsuckers_sleep">
         <text>Shh! Damn, there's a lot of bloodsuckers here. Sleeping, I think? Let's be on our tiptoes, so no noise or fuss.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_1">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_1">
         <text>Look, this is probably where we can get into the basement.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_2">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_come_here_2">
         <text>True talent, as they say, is always useful. Well, let's go have a look.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_down_floor">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_down_floor">
         <text>Didn't break your knees, did you? Alright, let's go check out the room.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_fear_end">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_fear_end">
         <text>Eh, well, we made it. Holy cow, what a quiet hour.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_1">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_1">
         <text>Watch where you're shooting!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_2">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_hit_2">
         <text>God damn it, you shot me!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_1">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_1">
         <text>Alright, now we have to jump. Follow me.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_2">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_jump_down_2">
         <text>Looks like an exit. Jump.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_1">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_1">
         <text>Got it! Done. But I saw two, so keep your eyes peeled. Got it?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_2">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_kill_2">
         <text>Seems like that's the last one.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_notice">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_notice">
         <text>Watch carefully. They can appear from anywhere.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter">
         <text>There's no hunter among them. Oh, look at this: claw marks. That wasn't on the ones found before. Strange.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_1">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_1">
         <text>Look at that, strange, huh? Claw marks.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_2">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_2">
         <text>That wasn't on the previous corpses.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_3">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_not_a_hunter_3">
         <text>So, Danila isn't here. Let's go.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_see_bloodsucker">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_see_bloodsucker">
         <text>Something. There's something there. Cover me, ok?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_sit">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_sit">
         <text>Get down.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_about_quest">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_about_quest">
         <text>So, Danila hasn't been found based on the results. I have an idea about where he might be now. I'll go check it out. We'll be in touch. And you go tell the people about these, damn, suckers. Something needs to be done about them.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_stalker_about_lair">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_tell_stalker_about_lair">
         <text>We need to get Beard on this. He'll figure out how to deal with the creatures.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b38_stalker_cop_try">
+    <string id="characters_voice_scenario_zaton_zat_b38_stalker_cop_try">
         <text>My specialty! And I've had some practice with lockpicking, yeah.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b39_joker_pda_record">
+    <string id="characters_voice_scenario_zaton_zat_b39_joker_pda_record">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_drink_no_more">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_drink_no_more">
         <text>Well, how's it going, stalker?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_drunk">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_drunk">
         <text>So, what do you want?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_drunk_discount">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_drunk_discount">
         <text>Did you forget something?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_no_sleep_1">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_no_sleep_1">
         <text>M-m, come on, please. Let me sleep, ok. Be a human being.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_no_sleep_2">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_no_sleep_2">
         <text>Oh, screw you. Begone. Damned fleas.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_no_sleep_3">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_no_sleep_3">
         <text>Over there. There. You pour.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_realy_drunk">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_realy_drunk">
         <text>Stop! Is this a procedural matter?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_realy_drunk_discount">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_realy_drunk_discount">
         <text>Ah-ah-ah, he-he-he, it's you. Well, come on in.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_see_produce_62">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_see_produce_62">
         <text>What? Six-two? N-no way!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_1">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_sleep_1">
         <text>*Sleeping*</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_2">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_sleep_2">
         <text>I'm telling you. Not enough energy. Not enough.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_3">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_sleep_3">
         <text>*Sleeping*</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sleep_4">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_sleep_4">
         <text>Guys, where are you going? Oh, come on. I'm staying, I'm staying.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_sober">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_sober">
         <text>M-m-m, good.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_take_first_dose">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_take_first_dose">
         <text>Well, so my hands don't shake!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_take_second_dose">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_take_second_dose">
         <text>This is... So the work goes well!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b3_tech_take_third_dose">
+    <string id="characters_voice_scenario_zaton_zat_b3_tech_take_third_dose">
         <text>Well, m-gm, for the common cause!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b40_merc_combat">
+    <string id="characters_voice_scenario_zaton_zat_b40_merc_combat">
         <text>Alright, kill the freak!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b40_merc_go_away_1">
+    <string id="characters_voice_scenario_zaton_zat_b40_merc_go_away_1">
         <text>Turn around, stalker. You've got nothing to do here.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b40_merc_go_away_2">
+    <string id="characters_voice_scenario_zaton_zat_b40_merc_go_away_2">
         <text>Stalker, get out of here before we tear your legs off.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b42_controller_warning_1">
+    <string id="characters_voice_scenario_zaton_zat_b42_controller_warning_1">
         <text>Get out of here, man.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b42_controller_warning_2">
+    <string id="characters_voice_scenario_zaton_zat_b42_controller_warning_2">
         <text>Leave while you're still intact.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_1">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_1">
         <text>Greetings, stalker. Decided to place an order?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_2">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_2">
         <text>Hello. Want to order something?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_3">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_3">
         <text>Hi. Need some merchandise?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_1">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_1">
         <text>The goods will come, don't worry. Just later.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_2">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_2">
         <text>Come back later. The goods haven't arrived yet.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_3">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_not_ready_3">
         <text>The order isn't ready yet. Come back later, ok?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_1">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_1">
         <text>Order completed. Pick up your merchandise.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_2">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_2">
         <text>I have the goods. You can pick them up.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_3">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_greeting_order_ready_3">
         <text>Pick up the goods, stalker. I've done my job.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b51_stalker_nimble_order">
+    <string id="characters_voice_scenario_zaton_zat_b51_stalker_nimble_order">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_1">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_1">
         <text>That's it, sucker. Heh, fuck, seriously, get out of here while we're being nice. Or we'll change our minds.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_2">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_2">
         <text>Why are you hanging around? I told you, get the fuck out of here fast.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_3">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_after_pay_snd_3">
         <text>No, you seriously crossed the line, you fucking moron. I'll bury you right now, understand me?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_1">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_1">
         <text>Freeze, you scarecrow! Freeze or I'll kill you right now, understand?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_2">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_2">
         <text>Boys, he doesn't respect us! Let's kill him!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_3">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_kill_actor_snd_3">
         <text>Fuck, boys, he's just greedy. Doesn't want to hand over his piece.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_see_actor">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_see_actor">
         <text>Opa-cha! That's the sucker with the nice piece. Hey you, stop, don't move.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b52_port_bandits_stand_still_snd">
+    <string id="characters_voice_scenario_zaton_zat_b52_port_bandits_stand_still_snd">
         <text>Hey, you stop, I told you. I'll come over myself.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on">
+    <string id="characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on">
         <text>Don't be scared, come on, come on. Forward!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on_continue">
+    <string id="characters_voice_scenario_zaton_zat_b53_artefact_hunter_2_come_on_continue">
         <text>See, I told you the suit would hold up. Keep moving!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b53_artefact_hunter_help">
+    <string id="characters_voice_scenario_zaton_zat_b53_artefact_hunter_help">
         <text>Stalker, help!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_bandits_see_actor">
+    <string id="characters_voice_scenario_zaton_zat_b5_bandits_see_actor">
         <text>Hey, what the hell is that?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_bandit_dealer_speak_1">
+    <string id="characters_voice_scenario_zaton_zat_b5_bandit_dealer_speak_1">
         <text>So, we have some artifacts. We can get more like that. And what we need is rifles and gear that's tip-top. You understand?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_angry">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_angry">
         <text>You brought a tail, idiots.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_1">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_1">
         <text>So, show me.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_2">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_bandit_speak_2">
         <text>Alright, here's the deal, boys. What Duty has, I have too. Rifles and gear - no problem. Quality as always - you won't find better.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_kill_bandits">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_kill_bandits">
         <text>Kill them. I don't need witnesses.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_see_clients">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_see_clients">
         <text>And here they are.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_to_actor_fire">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_to_actor_fire">
         <text>Kill everyone.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_wait_clients">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_wait_clients">
         <text>We wait here. The clients will be here soon.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_want_speak_with_actor">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_want_speak_with_actor">
         <text>Need to talk to you, stalker.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_dealer_who_there">
+    <string id="characters_voice_scenario_zaton_zat_b5_dealer_who_there">
         <text>Who's there now?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_stalkers_all_clear_go">
+    <string id="characters_voice_scenario_zaton_zat_b5_stalkers_all_clear_go">
         <text>Yeah. Well now it's all clear. Let's kill them.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_stalkers_refuse_talk">
+    <string id="characters_voice_scenario_zaton_zat_b5_stalkers_refuse_talk">
         <text>Ask the senior.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_stalkers_watch_out_sentry">
+    <string id="characters_voice_scenario_zaton_zat_b5_stalkers_watch_out_sentry">
         <text>Don't let them see you.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_sultan_angry">
+    <string id="characters_voice_scenario_zaton_zat_b5_sultan_angry">
         <text>Stalkers?! What the fuck?!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b5_sultan_kill_stalkers">
+    <string id="characters_voice_scenario_zaton_zat_b5_sultan_kill_stalkers">
         <text>Boys, kill them!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_1">
+    <string id="characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_1">
         <text>If we're alive, we'll cross paths.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_2">
+    <string id="characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_farewell_2">
         <text>Get going. We'll talk later.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_1">
+    <string id="characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_1">
         <text>Opa. Appeared.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_2">
+    <string id="characters_voice_scenario_zaton_zat_b7_bandit_boss_sultan_greeting_2">
         <text>And who's this coming to us?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_attack">
+    <string id="characters_voice_scenario_zaton_zat_b7_raiders_attack">
         <text>Here we go!</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_ready_to_go">
+    <string id="characters_voice_scenario_zaton_zat_b7_raiders_ready_to_go">
         <text>What are you dawdling for? We've been waiting for you for a real long time.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_sneak_confuse">
+    <string id="characters_voice_scenario_zaton_zat_b7_raiders_sneak_confuse">
         <text>What the hell? Is that them hiding or something?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raiders_to_boss">
+    <string id="characters_voice_scenario_zaton_zat_b7_raiders_to_boss">
         <text>Hey, there's something, uh, Sultan has a talk for you.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raider_after_bad">
+    <string id="characters_voice_scenario_zaton_zat_b7_raider_after_bad">
         <text>Alright, alright, he's killed. And you, fuck, what were you staring at, Yermolay, huh?</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raider_after_ok">
+    <string id="characters_voice_scenario_zaton_zat_b7_raider_after_ok">
         <text>Alright, he's killed. Fuck, you really killed them great.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_1">
+    <string id="characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_1">
         <text>We'll get them now.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_2">
+    <string id="characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_2">
         <text>Quiet, boys.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_3">
+    <string id="characters_voice_scenario_zaton_zat_b7_raider_sneak_comments_3">
         <text>Don't worry, we're a fucking crew.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_stalkers_attack">
+    <string id="characters_voice_scenario_zaton_zat_b7_stalkers_attack">
         <text>Kill them.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_stalker_after_bad">
+    <string id="characters_voice_scenario_zaton_zat_b7_stalker_after_bad">
         <text>We killed the freaks. And you, I see, weren't too eager to fight.</text>
     </string>
-    <string id="$characters_voice_scenario_zaton_zat_b7_stalker_after_ok">
+    <string id="characters_voice_scenario_zaton_zat_b7_stalker_after_ok">
         <text>We killed the freaks. Thanks for your help.</text>
     </string>
 </string_table>

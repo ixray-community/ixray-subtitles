@@ -1,807 +1,807 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_actor_introduce">
+    <string id="characters_voice_scenario_pripyat_pri_a15_actor_introduce">
         <text>Майор Дегтярев. СБУ. Прибыл для расследования провала операции «Фарватер».</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_actor_introduce_squad">
+    <string id="characters_voice_scenario_pripyat_pri_a15_actor_introduce_squad">
         <text>Сталкеры помогли добраться до Припяти.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_actor_leave_him">
+    <string id="characters_voice_scenario_pripyat_pri_a15_actor_leave_him">
         <text>Оставь, капитан. Пусть идёт.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_actor_need_talk_with_commander">
+    <string id="characters_voice_scenario_pripyat_pri_a15_actor_need_talk_with_commander">
         <text>У меня есть информация для Ковальского. Проведите меня к нему.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_army_go">
+    <string id="characters_voice_scenario_pripyat_pri_a15_army_go">
         <text>Следуйте за мной.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_army_go_with_me">
+    <string id="characters_voice_scenario_pripyat_pri_a15_army_go_with_me">
         <text>Хорошо. Следуйте за мной.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_army_hide_weapon">
+    <string id="characters_voice_scenario_pripyat_pri_a15_army_hide_weapon">
         <text>Оружие на землю! Быстро!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_army_joke">
+    <string id="characters_voice_scenario_pripyat_pri_a15_army_joke">
         <text>Да... Дружная компания.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_army_leave">
+    <string id="characters_voice_scenario_pripyat_pri_a15_army_leave">
         <text>Ладно, хрен с ним.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_army_stop">
+    <string id="characters_voice_scenario_pripyat_pri_a15_army_stop">
         <text>Ты! Стоять!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_army_who_a_you">
+    <string id="characters_voice_scenario_pripyat_pri_a15_army_who_a_you">
         <text>Ты кто такой? Зачем тебе полковник?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_sokolov_conjecture">
+    <string id="characters_voice_scenario_pripyat_pri_a15_sokolov_conjecture">
         <text>Так и знал, что тут не всё так просто.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_sokolov_introduce">
+    <string id="characters_voice_scenario_pripyat_pri_a15_sokolov_introduce">
         <text>Не стреляйте! Я - лейтенант Соколов! Скат-4, второй пилот! Следую на точку Б-28!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_sokolov_wonder">
+    <string id="characters_voice_scenario_pripyat_pri_a15_sokolov_wonder">
         <text>Ты знаешь Ковальского?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_vano_speech_one">
+    <string id="characters_voice_scenario_pripyat_pri_a15_vano_speech_one">
         <text>А вы думали просто так здесь ходим, да? Зачем сразу ствол, дорогой? Не видишь, что-ли, мы свои, мы с товарищем... Э-э, мы через всё прошли! Долгий дорога была!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_wanderer_about_actor">
+    <string id="characters_voice_scenario_pripyat_pri_a15_wanderer_about_actor">
         <text>Мне всё равно - кто на кого работает.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_zulus_go">
+    <string id="characters_voice_scenario_pripyat_pri_a15_zulus_go">
         <text>И с СБУ тоже.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_zulus_not_me">
+    <string id="characters_voice_scenario_pripyat_pri_a15_zulus_not_me">
         <text>Без меня.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_zulus_no_business_with_army">
+    <string id="characters_voice_scenario_pripyat_pri_a15_zulus_no_business_with_army">
         <text>У меня с военным дел нет.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a15_zulus_wonder">
+    <string id="characters_voice_scenario_pripyat_pri_a15_zulus_wonder">
         <text>СБУ? Какого хрена?!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_army_1_talk_to_commander_1">
+    <string id="characters_voice_scenario_pripyat_pri_a16_army_1_talk_to_commander_1">
         <text>Товарищ майор, если что нужно - вы обратитесь к полковнику.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_army_1_talk_to_commander_2">
+    <string id="characters_voice_scenario_pripyat_pri_a16_army_1_talk_to_commander_2">
         <text>Вам наверное к полковнику нужно, товарищ майор. Не ко мне.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_army_2_talk_to_commander_1">
+    <string id="characters_voice_scenario_pripyat_pri_a16_army_2_talk_to_commander_1">
         <text>Если что, обращайтесь к полковнику Ковальскому.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_army_2_talk_to_commander_2">
+    <string id="characters_voice_scenario_pripyat_pri_a16_army_2_talk_to_commander_2">
         <text>Вы с Ковальским поговорите, товарищ майор.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_army_3_talk_to_commander_1">
+    <string id="characters_voice_scenario_pripyat_pri_a16_army_3_talk_to_commander_1">
         <text>Вам не ко мне, товарищ майор. Вам к Ковальскому.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_army_3_talk_to_commander_2">
+    <string id="characters_voice_scenario_pripyat_pri_a16_army_3_talk_to_commander_2">
         <text>Товарищ майор, вы... Вы с Ковальским поговорите.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_base_alarm">
+    <string id="characters_voice_scenario_pripyat_pri_a16_base_alarm">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_base_megaphone_1">
+    <string id="characters_voice_scenario_pripyat_pri_a16_base_megaphone_1">
         <text>Майор, если тебе нетрудно - спрячь оружие.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_base_megaphone_2">
+    <string id="characters_voice_scenario_pripyat_pri_a16_base_megaphone_2">
         <text>Послушай, майор. Убери оружие, нападать не будем. Слово офицера.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_base_megaphone_3">
+    <string id="characters_voice_scenario_pripyat_pri_a16_base_megaphone_3">
         <text>Майор, будь человеком. Убери ты свою пукалку к чертовой матери. Тут у всех нервы и так на пределе.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a16_base_relax">
+    <string id="characters_voice_scenario_pripyat_pri_a16_base_relax">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_kovalsky_after_surge">
+    <string id="characters_voice_scenario_pripyat_pri_a17_kovalsky_after_surge">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_kovalsky_surge_phase_1">
+    <string id="characters_voice_scenario_pripyat_pri_a17_kovalsky_surge_phase_1">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_kovalsky_surge_phase_2">
+    <string id="characters_voice_scenario_pripyat_pri_a17_kovalsky_surge_phase_2">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_monolith_preacher">
+    <string id="characters_voice_scenario_pripyat_pri_a17_monolith_preacher">
         <text>Благодарим тебя за то, что раскрыл слугам твоим козни врагов наших. Озари сиянием твоим души тех, кто отдал жизнь во исполнение воли твоей. В бой, защитники Монолита! В бой! Отомстим за павших братьев наших! Да будет благословенно вечное их единение с Монолитом! Смерть! Лютая смерть тем, кто отвергает его священную силу!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_actor_dont_hide">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_actor_dont_hide">
         <text>Они вас так заметят, товарищ майор.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_after_monolith_clear">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_after_monolith_clear">
         <text>Всё чисто. Пошли.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_1">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_1">
         <text>Подождём, пока дойдут до центра двора.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_2">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_2">
         <text>Есть цель.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_3">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_3">
         <text>Уходят!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_4">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_attack_now_4">
         <text>Не тупим, нас сейчас засекут. Огонь!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_order_hide1">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_order_hide1">
         <text>Айс на крышу. Остальные за мной.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_order_hide2">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_order_hide2">
         <text>Всем занять позиции.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_ready_to_fire">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_ready_to_fire">
         <text>Ждём команды на атаку, товарищ майор.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_to_prapor">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_commander_to_prapor">
         <text>Херня какая-то. Им кто-то сливает наши планы? Да, нужно доложить Ковальскому.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_monolith_ambush">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_monolith_ambush">
         <text>Засада! В укрытие!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_nice_shoot">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_nice_shoot">
         <text>Отличный выстрел, товарищ майор.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_order_to_check">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_order_to_check">
         <text>Проверим их. Aйс, ты прикрываешь.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_prapor_to_commander">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_prapor_to_commander">
         <text>Слушай, а засранцы эти про нас знали.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_sniper_out">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_sniper_out">
         <text>Aйс, ты уснул!?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a17_recon_squad_talk_with_commander">
+    <string id="characters_voice_scenario_pripyat_pri_a17_recon_squad_talk_with_commander">
         <text>Спросите лучше у капитана.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_actor_report">
+    <string id="characters_voice_scenario_pripyat_pri_a18_actor_report">
         <text>Полковник, тут какая-то чертовщина творится. Внутри здания была толпа монолитовцев, будто бы в трансе. Уставились в кучу мусора и разговаривали с ней. Мусор я обследовал и обнаружилось интересное: это нечто вроде антенны. Такое впечатление, что с её помощи кто-то связывается с монолитовцами. И вот эти сеансы они воспринимают, как божие откровения.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_kovalskiy_guard">
+    <string id="characters_voice_scenario_pripyat_pri_a18_kovalskiy_guard">
         <text>Всё это очень странно. Кто-то явно управляет этими фанатиками. Ладно, об этом потом.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_kovalskiy_squad">
+    <string id="characters_voice_scenario_pripyat_pri_a18_kovalskiy_squad">
         <text>Всё это очень странно. Кто-то явно управляет этими фанатиками. Ладно, об этом потом. Часовой все ещё не объявился, если найдешь его - сразу же сообщи. Конец связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_monolith_pray_1">
+    <string id="characters_voice_scenario_pripyat_pri_a18_monolith_pray_1">
         <text>Монолит, мы не слышим тебя.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_monolith_pray_2">
+    <string id="characters_voice_scenario_pripyat_pri_a18_monolith_pray_2">
         <text>Почему ты покинул нас, Монолит.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_monolith_pray_3">
+    <string id="characters_voice_scenario_pripyat_pri_a18_monolith_pray_3">
         <text>Мы ждём твоих приказов, Монолит.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_shelly_hello">
+    <string id="characters_voice_scenario_pripyat_pri_a18_shelly_hello">
         <text>Лейтенант Скеля, прибыл в ваше распоряжение.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_sokolov_fight">
+    <string id="characters_voice_scenario_pripyat_pri_a18_sokolov_fight">
         <text>Ёханный бабай, сколько их тут?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_sokolov_hello">
+    <string id="characters_voice_scenario_pripyat_pri_a18_sokolov_hello">
         <text>Знаешь, я тут подумал. С тобой вроде безопаснее.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_sokolov_on_place">
+    <string id="characters_voice_scenario_pripyat_pri_a18_sokolov_on_place">
         <text>Вот мы и на месте.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_vano_fight">
+    <string id="characters_voice_scenario_pripyat_pri_a18_vano_fight">
         <text>Стреляй их, пока не очухались.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a18_vano_hello">
+    <string id="characters_voice_scenario_pripyat_pri_a18_vano_hello">
         <text>Я как узнал тебе помощь нужна. Сразу в добровольцы записался, так что давай, джигит. Веди.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_actor_about_next_task">
+    <string id="characters_voice_scenario_pripyat_pri_a20_actor_about_next_task">
         <text>У разведгруппы были данные о месте скопления Монолита. В записях упоминается магазин «Книги».</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_actor_no_data">
+    <string id="characters_voice_scenario_pripyat_pri_a20_actor_no_data">
         <text>У разведгруппы оставались о наблюдении за монолитовцами. Никаких крупных скоплении нет, только патрули.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_actor_report_about_squad">
+    <string id="characters_voice_scenario_pripyat_pri_a20_actor_report_about_squad">
         <text>Я нашёл группы. Все мертвы. Их кто-то расстрелял, но следов никаких.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_about_sentry">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_about_sentry">
         <text>Не могу понять. Как у них получилось напасть настолько внезапно? Да и ещё никаких следов. Странно. Майор, мы только что запилинговали сигнал часового. Судя по координатам, он где-то в районе Гастронома. Проверь, что там, но на рожон лезть не надо. Полагаюсь на тебя, майор. Конец связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_ask_check_recon_squad">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_ask_check_recon_squad">
         <text>Майор, надо найти разведгруппу. Выяснить, что случилось... Гх, чертовщина какая-то. Ты это, майор, ты поаккуратнее там и всё время держи связь.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_give_next_task_1">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_give_next_task_1">
         <text>Это фанатики, черт бы их драл. Нужно с ними разобраться.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_give_next_task_1_a21_sentry_task">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_give_next_task_1_a21_sentry_task">
         <text>Это фанатики, черт бы их драл. И прямо одно за другим: у нас часовой пропал, на связь не выходит и тоже никаких следов. Пора нам добраться до этих ублюдков.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_send_reinforcement">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_send_reinforcement">
         <text>Лады, я тебе вышлю двух бойцов. Они будут ждать возле объекта. Конец связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_send_reinforcement_a21_about_sentry">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_send_reinforcement_a21_about_sentry">
         <text>Лады, я тебе вышлю двух бойцов. Они будут ждать возле объекта. Да ещё: только что запилинговали сигнал часового. По координатам, он где-то возле Гастронома. По возможности глянь, что там. В общем, я полагаюсь на тебя, майор. Конец связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_talk_in_radio">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_talk_in_radio">
         <text>Группа, группа, приём. Что там у вас происходит?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_colonel_task_done">
+    <string id="characters_voice_scenario_pripyat_pri_a20_colonel_task_done">
         <text>Не могу понять. Как у них получилось напасть настолько внезапно? Да и ещё никаких следов. Странно. Мне надо обдумать дальнейшие действия, майор. На связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_communication_with_recon_squad">
+    <string id="characters_voice_scenario_pripyat_pri_a20_communication_with_recon_squad">
         <text>О, разведгруппа вышла на связь.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_recon_squad_attacked">
+    <string id="characters_voice_scenario_pripyat_pri_a20_recon_squad_attacked">
         <text>Нет! Что за херня? Стой! Стой, мля! Ух, мать твою! Эй, кто-нибудь уберите этого! Н-не... Гхм, а!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_1">
+    <string id="characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_1">
         <text>Это же надо такое: до Припяти дойти без проиcшествии. И как ты только путь нашёл? Ума не приложу.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_2">
+    <string id="characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_2">
         <text>Сложното тут ничего нет. Сноровка нужна и малость удачи, вот нам и повезло. А то может Зона наградила за терпения. Я же с учёными вон сколько торчал.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_3">
+    <string id="characters_voice_scenario_pripyat_pri_a20_sokolov_with_garick_new_way_to_pripyat_3">
         <text>Да... Герман меня тоже успел достать.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_actor_to_base_find_and_terminate_controller">
+    <string id="characters_voice_scenario_pripyat_pri_a21_actor_to_base_find_and_terminate_controller">
         <text>Часовой мёртв. Вел себя неадекватно: атаковал меня. Возле точки обнаружен и уничтожен контролёр.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_actor_to_base_find_controller">
+    <string id="characters_voice_scenario_pripyat_pri_a21_actor_to_base_find_controller">
         <text>Часовой мёртв. Вел себя неадекватно: атаковал меня. Возле точки обнаружен контролёр, пришлось отойти.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_actor_to_base_terminate_controller">
+    <string id="characters_voice_scenario_pripyat_pri_a21_actor_to_base_terminate_controller">
         <text>Контролёр уничтожен.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_base_to_actor_find_and_terminate_controller">
+    <string id="characters_voice_scenario_pripyat_pri_a21_base_to_actor_find_and_terminate_controller">
         <text>Понял тебя, майор. Видно контролёр взял парня за мозги. Жаль, отличный был парень. И с разведгруппой видимо та же петрушка, из-за этой твари они друг друга атаковали. Ладно, спасибо тебе. Конец связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_base_to_actor_terminate_controller">
+    <string id="characters_voice_scenario_pripyat_pri_a21_base_to_actor_terminate_controller">
         <text>Понял тебя, майор. Видно контролёр взял парня за мозги. Черт, нужно с этим гадом что-то делать. Пока он тут - мы крепко рискуем.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_colonel_base_about_sentry">
+    <string id="characters_voice_scenario_pripyat_pri_a21_colonel_base_about_sentry">
         <text>Майор, это Ковальский. У нас снова ЧП. Подходи, расскажу в подробностях.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_colonel_give_sentry_task">
+    <string id="characters_voice_scenario_pripyat_pri_a21_colonel_give_sentry_task">
         <text>Майор, это Ковальский. У нас снова ЧП. Часовой не отвечает на вызовы. Знаешь, где Гастроном был? Так вот, сигнал его маячка идёт как раз оттуда. Ты проверь по возможности. Конец связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_colonel_lets_talk">
+    <string id="characters_voice_scenario_pripyat_pri_a21_colonel_lets_talk">
         <text>Ага, майор. Ну входи-входи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_sentr_crazy_1">
+    <string id="characters_voice_scenario_pripyat_pri_a21_sentr_crazy_1">
         <text>Отцепись от меня! Уйди!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a21_sentr_crazy_2">
+    <string id="characters_voice_scenario_pripyat_pri_a21_sentr_crazy_2">
         <text>Нет! Нет! Не-ет!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a22_actor_to_base_find_squad_member">
+    <string id="characters_voice_scenario_pripyat_pri_a22_actor_to_base_find_squad_member">
         <text>Передайте полковнику, я нашёл одного из ваших ребят. Похоже, он подорвал себя гранатой. Признаков перестрелки и других следов боя не обнаружено.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a22_base_to_actor_has_rfi_coordinates">
+    <string id="characters_voice_scenario_pripyat_pri_a22_base_to_actor_has_rfi_coordinates">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a22_colonel_about_rfi_and_lost_suad">
+    <string id="characters_voice_scenario_pripyat_pri_a22_colonel_about_rfi_and_lost_suad">
         <text>Радист считает, что сигнал глушится где-то рядом. Он как раз пытается вычислить координаты. Я отправил бойцов примерно в тот район, но они пропали. Даже личные радиомаячки не определяются.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a22_colonel_about_situation">
+    <string id="characters_voice_scenario_pripyat_pri_a22_colonel_about_situation">
         <text>Майор, мы в полной жопе. С момента крушения вертолётов, это уже не операция. Абсурд. Нас обложили, связи с центром нет. И улучшения ситуации не предвидится. Эвакуации по воздуху ждать не приходится. Вертолёты опять не прилетели. А с такими потерями среди ребят скоро и эвакуировать некого будет. Контроль над ситуации утерян. Нам до зарезу нужна связь с центром.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a22_colonel_give_task">
+    <string id="characters_voice_scenario_pripyat_pri_a22_colonel_give_task">
         <text>Одна из твоих задач, майор. Установить связь с центром. В нашей ситуации, я полагаю, это становится первостепенным. И ещё личная просьба: разыщи моих бойцов. Добро?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a22_colonel_to_actor_need_talk">
+    <string id="characters_voice_scenario_pripyat_pri_a22_colonel_to_actor_need_talk">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a25_actor_all_doors_locked">
+    <string id="characters_voice_scenario_pripyat_pri_a25_actor_all_doors_locked">
         <text>Я подошёл к зданию, но все входы заблокированы.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a25_kovalski_take_explosive">
+    <string id="characters_voice_scenario_pripyat_pri_a25_kovalski_take_explosive">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_actor_scene_end">
+    <string id="characters_voice_scenario_pripyat_pri_a28_actor_scene_end">
         <text>Стрелок и личный состав группы Скат убиты. Готовьтесь к отлёту.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_actor_scene_end_when_strelok_dead">
+    <string id="characters_voice_scenario_pripyat_pri_a28_actor_scene_end_when_strelok_dead">
         <text>Всё: Стрелок убит. Готовьтесь к отлёту.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_1">
         <text>Здесь майор Дегтярев. Связь хорошая.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_2">
         <text>На данный момент удалось получить документы об экспериментах на территории Зоны. Кроме того, к нам пришёл сталкер, который побывал на ЧАЭС. Кличка: Стрелок. Он готов с нами сотрудничать.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_without_heli_info">
+    <string id="characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_without_heli_info">
         <text>Стрелок утверждает, что вертолёты попали в аномалии. После каждого выброса их расположение меняются, но это не было учтено при составлении карт для операции «Фарватер».</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_with_heli_info">
+    <string id="characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_with_heli_info">
         <text>Есть. Я получил достоверные данные, сведения от Стрелка только подтверждают их. Вертолёты были поражены аномалиями, расположения которых изменилось во время выброса. Это не было учтено при составлении карты перед операции, поэтому десант погиб.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_actor_to_strelok">
+    <string id="characters_voice_scenario_pripyat_pri_a28_actor_to_strelok">
         <text>Давай в вертушку. Надеюсь, оно того стоило.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_1">
         <text>Как запрыгнем в вертушку - тогда и поговорим, лады?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_2">
         <text>Успеется ещё поговорить. Что-то неспокойно мне. Хватит ли патронов, если что?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_3">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_about_evacuation_3">
         <text>Ну что? Спасибо дорогой нашей прачечной, ничего так получилась база. Теперь быстрее к вертушкам и домой.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_about_surge_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_about_surge_1">
         <text>Давай потом, а? А то от этого выброса челюсти сводит.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_about_surge_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_about_surge_2">
         <text>Ещё один выброс. Тьфу, надоело.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_about_surge_3">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_about_surge_3">
         <text>Черт, как в окопе перед танковой атакой.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_confusion">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_confusion">
         <text>А? Что? Уходим!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_its_here">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_its_here">
         <text>Оно здесь!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_surge_talk_1_first">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_surge_talk_1_first">
         <text>Да... А я когда-то думал, что капец - это ливень в Карпатах.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_surge_talk_1_second">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_surge_talk_1_second">
         <text>Хе, теперь бы это для тебя сошло за солнечные ванны на курорте.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_surge_talk_2_first">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_surge_talk_2_first">
         <text>Тряхануло-то как. Может какая-нибудь умная голова придумает какой-нибудь громоотвод от выброса.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_surge_talk_2_second">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_surge_talk_2_second">
         <text>Мечтатель. Выбросоотвод ему подавай.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_surge_talk_3_first">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_surge_talk_3_first">
         <text>М-м-м, каждый раз под выброс голова так трещит.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_surge_talk_3_second">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_surge_talk_3_second">
         <text>Выходит ты у нас метеозависимый.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_what_is_that">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_what_is_that">
         <text>Что это было?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_zombied_first">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_zombied_first">
         <text>Командир! Зомбированные!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_army_zombied_in_building">
+    <string id="characters_voice_scenario_pripyat_pri_a28_army_zombied_in_building">
         <text>Там в здании около десятка зомбированных.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_center_to_colonel_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_center_to_colonel_1">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_center_to_colonel_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_center_to_colonel_2">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_center_to_colonel_3">
+    <string id="characters_voice_scenario_pripyat_pri_a28_center_to_colonel_3">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_about_heli">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_about_heli">
         <text>Долетели черти. Все-таки долетели. Стрелок, ты был прав.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_about_snork">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_about_snork">
         <text>Нет времени! Всем проверить оружие! Огонь открывать без команды.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_actor_talk">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_actor_talk">
         <text>Майор, можно тебя на пару слов.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_after_surge">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_after_surge">
         <text>Так, выброс похоже прошёл. Лейтенант, свяжись с центром.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_cannot_wait">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_cannot_wait">
         <text>Майор, мы не можем больше ждать.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_clear_the_deck">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_clear_the_deck">
         <text>Приготовиться к бою.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_close_by">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_close_by">
         <text>Ну, последний рывок!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_evacuation">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_evacuation">
         <text>Отряд, выдвигаемся.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_fire_will">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_fire_will">
         <text>Бойцы, стрелять по усмотрению. Вперёд!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_go_left">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_go_left">
         <text>Бойцы, уходим влево. Прикрывайте друг друга.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_instructions">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_instructions">
         <text>Ну что бойцы всё уловили? Слушай мой приказ: в пути не расходиться, держаться группой, сталкера беречь, как зеницу ока. Вопросы есть? Ну и отлично. Готовимся к отправке.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_ok_go_here">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_ok_go_here">
         <text>Давай в арку!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_ready_to_go">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_ready_to_go">
         <text>Всем быть начеку! Приказы выполнять мгновенно и чётко. Мы в двух шагах от точки эвакуации. Пошли!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_see_helicopter">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_see_helicopter">
         <text>Черт, это монолитовцы! Бойцы, патронов не жалеть, выбор цели свободный. Продолжать продвижения к вертолётам.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_strelok_out">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_strelok_out">
         <text>Черт, Стрелок погиб. Если жить хотим - надо пробиваться. Вперёд!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_to_center_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_to_center_1">
         <text>Выброс, товарищ генерал. Во время него связь невозможна.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_to_center_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_to_center_2">
         <text>Да.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_to_center_3">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_to_center_3">
         <text>Вас понял.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor">
         <text>Майор, ты где? Нам нужно доставить Стрелка на точку!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_go">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_go">
         <text>Майор, мы вынуждены продолжать движение.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_long">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_long">
         <text>Майор, мы не сможем ждать тебя долго.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_return">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_wait_actor_return">
         <text>Ну что? Двинули дальше.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_we_close">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_we_close">
         <text>Мы на подходе!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_will_time">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_will_time">
         <text>Вас понял, ребята, постараемся успеть!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_zombied_attack">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_zombied_attack">
         <text>Теперь любой зомбированный в Припяти знает, что мы здесь. Надо двигаться быстрее, отряд бегом.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_colonel_zombied_first">
+    <string id="characters_voice_scenario_pripyat_pri_a28_colonel_zombied_first">
         <text>Уходим! Отряд направо вдоль здания бегом, марш!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_continuation">
+    <string id="characters_voice_scenario_pripyat_pri_a28_continuation">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_evac_come_close">
+    <string id="characters_voice_scenario_pripyat_pri_a28_evac_come_close">
         <text>Товарищ майор, мы под плотным огнём. Противника опознать не можем, долго не продержимся!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_evac_com_cant_wait">
+    <string id="characters_voice_scenario_pripyat_pri_a28_evac_com_cant_wait">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_evac_com_helicopter_run_time">
+    <string id="characters_voice_scenario_pripyat_pri_a28_evac_com_helicopter_run_time">
         <text>Скат, больше ждать не можем, через минуту идём на взлёт.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_evac_com_ready">
+    <string id="characters_voice_scenario_pripyat_pri_a28_evac_com_ready">
         <text>Майор, мы готовы взлетать.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_evac_com_scene_end_when_strelok_dead">
+    <string id="characters_voice_scenario_pripyat_pri_a28_evac_com_scene_end_when_strelok_dead">
         <text>Вас понял.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_evac_com_to_helicopter">
+    <string id="characters_voice_scenario_pripyat_pri_a28_evac_com_to_helicopter">
         <text>К вертушкам! Быстре!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_evac_com_where_you">
+    <string id="characters_voice_scenario_pripyat_pri_a28_evac_com_where_you">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_medic_about_snork">
+    <string id="characters_voice_scenario_pripyat_pri_a28_medic_about_snork">
         <text>Опять эти твари, может пойдем в обход здания?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_1">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_10">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_10">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_11_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_11_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_11_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_11_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_12_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_12_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_12_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_12_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_13_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_13_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_13_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_13_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_14_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_14_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_14_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_14_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_15_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_15_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_15_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_15_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_16">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_16">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_17">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_17">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_18_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_18_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_18_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_18_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_19_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_19_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_19_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_19_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_2">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_20_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_20_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_20_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_20_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_3">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_3">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_c">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_4_c">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_5_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_5_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_5_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_5_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_c">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_6_c">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_7_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_7_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_7_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_7_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_8_a">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_8_a">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_8_b">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_8_b">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_outro_phrase_9">
+    <string id="characters_voice_scenario_pripyat_pri_a28_outro_phrase_9">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_signaller_after_surge_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_signaller_after_surge_1">
         <text>Так точно.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_signaller_after_surge_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_signaller_after_surge_2">
         <text>Центр на связи.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_1">
+    <string id="characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_1">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_2">
+    <string id="characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_2">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_3">
+    <string id="characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_3">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_5">
+    <string id="characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_5">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_strelok_dont_stop">
+    <string id="characters_voice_scenario_pripyat_pri_a28_strelok_dont_stop">
         <text>Не останавливаться! Бегом!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_strelok_go_over_anomaly">
+    <string id="characters_voice_scenario_pripyat_pri_a28_strelok_go_over_anomaly">
         <text>Впереди ещё зомби.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_a28_strelok_run">
+    <string id="characters_voice_scenario_pripyat_pri_a28_strelok_run">
         <text>Бежим.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b301_zulus_after_fight">
+    <string id="characters_voice_scenario_pripyat_pri_b301_zulus_after_fight">
         <text>Неплохо постреляли.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b301_zulus_hello_in_combat">
+    <string id="characters_voice_scenario_pripyat_pri_b301_zulus_hello_in_combat">
         <text>Прижмись к стене. Эти твари выскакивают со всех сторон.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_1">
+    <string id="characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_1">
         <text>Получите твари!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_2">
+    <string id="characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_2">
         <text>Что думали, за дешево возьмёте?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_3">
+    <string id="characters_voice_scenario_pripyat_pri_b301_zulus_surrounded_3">
         <text>Вот уроды!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_ask_about_burning_antenn">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_ask_about_burning_antenn">
         <text>Известный сталкер. Это же ты отключил Выжигатель?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_check_signal">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_check_signal">
         <text>Я проверю.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_dont_see_anyone">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_dont_see_anyone">
         <text>Я никого не вижу.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_emission_starts">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_emission_starts">
         <text>Начинается выброс!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_go">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_go">
         <text>Хорошо, зайду.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_it_is_underground">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_it_is_underground">
         <text>Так он под землёй.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_need_center_to_know">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_need_center_to_know">
         <text>При первой возможности нужно сообщить об этом в центр.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_understand">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_understand">
         <text>Понятно.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_we_have_problems">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_we_have_problems">
         <text>У нас неприятности. Вертолёты разбиваются. По неизвестной причине.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_actor_wondered">
+    <string id="characters_voice_scenario_pripyat_pri_b305_actor_wondered">
         <text>Ясно.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_army_what_freezer">
+    <string id="characters_voice_scenario_pripyat_pri_b305_army_what_freezer">
         <text>Ха, нифига себе. Нет, такого я ещё не слышал. Надо же, в холодильнике.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_about_garik">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_about_garik">
         <text>Да ещё Гарик ушёл на станцию Янов. Просил передать, что несколько дней его не будет.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_about_garik_vano">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_about_garik_vano">
         <text>Да ещё - Вано просил передать, что ушёл с Гариком на Янов. Сказал: с сувенирами вернётся.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_about_strelok_1">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_about_strelok_1">
         <text>Спасибо за помощь. Там полковник просил тебя зайти.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_give_coordinates">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_give_coordinates">
         <text>Так точно, имеется, товарищ полковник. Но сигнал переодически исчезает, и его источник движется.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_give_new_coordinates">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_give_new_coordinates">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_glad">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_glad">
         <text>Ого, вот это да. Неужто вернулся. Мы уж думали, что всё: не увидим больше нашего доктора.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_ok">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_ok">
         <text>Ладно.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_order_agree">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_order_agree">
         <text>Есть, товарищ полковник.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_signal_lost">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_signal_lost">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_signal_next_to_actor">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_signal_next_to_actor">
         <text>Появился. Совсем рядом с тобой.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_source_is_near">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_source_is_near">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_strange_signal">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_strange_signal">
         <text>Товарищ полковник, недалеко от базы обнаружен источник радиосигнала. Передача зашифрована, оперативно расшифровать не удалось.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_what_freezer">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_what_freezer">
         <text>Каком холодильнике? Где ты вообще холодильник нашёл?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_what_happen">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_what_happen">
         <text>Так что всё-таки случилось?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_what_next">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_what_next">
         <text>Каком это таком?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kirilov_where_you_been">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kirilov_where_you_been">
         <text>Так что? Ты где был?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_about_anomaly_map">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_about_anomaly_map">
         <text>Да у нас была подробная карта пролёта мимо аномалий. Вертолёты под завязку начинили защитой от выбросов.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_about_deal">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_about_deal">
         <text>Пока эта самая причина не выяснена, вертолётов больше не будет. Придётся идти до края Зоны на своих двоих.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_ask_coordinates">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_ask_coordinates">
         <text>Координаты имеются, лейтенант?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_attack_case_prepare">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_attack_case_prepare">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_let_center_know">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_let_center_know">
         <text>После выброса я сразу же свяжусь с командованием.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_news">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_news">
         <text>Вышел на связь начальник штаба. Я доложил обстановку, передал собранную информацию. Вертолётов пока не будет. Нам предлагают закрепиться на занятых позициях и ждать распоряжений. При штабе сейчас состоят наблюдатели из СБУ, так что ты сможешь поговорить со своими.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_order_kirilov">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_order_kirilov">
         <text>Лейтенант, при первой возможности установи связь со штабом.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_talk_in_safe_place">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_talk_in_safe_place">
         <text>Пошли, поговорим в укрытии.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_think_of_attack">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_think_of_attack">
         <text>Опять монолитовцы.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_who_are_you">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_who_are_you">
         <text>Ты кто такой?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_kovalskiy_wondered">
+    <string id="characters_voice_scenario_pripyat_pri_b305_kovalskiy_wondered">
         <text>И что теперь?</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_medik_dont_know_what_say">
+    <string id="characters_voice_scenario_pripyat_pri_b305_medik_dont_know_what_say">
         <text>Хм, даже не знаю, как сказать.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_medik_excuse">
+    <string id="characters_voice_scenario_pripyat_pri_b305_medik_excuse">
         <text>Где нашёл, где нашёл. Я бы посмотрел, чтобы ты нашёл в таком состоянии.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_medik_in_freezer">
+    <string id="characters_voice_scenario_pripyat_pri_b305_medik_in_freezer">
         <text>Не поверишь, в холодильнике.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_medik_talk_later">
+    <string id="characters_voice_scenario_pripyat_pri_b305_medik_talk_later">
         <text>Да, было кое-чего. Как-нибудь потом.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_strelok_about_anomaly_randomize">
+    <string id="characters_voice_scenario_pripyat_pri_b305_strelok_about_anomaly_randomize">
         <text>Странно. Странно, что вы ещё не заметили. После выбросов расположение аномалий обычно меняется: некоторые рассасываются, зато появляются новые. Ваша карта устарела ещё до записи на диск.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_strelok_about_heli">
+    <string id="characters_voice_scenario_pripyat_pri_b305_strelok_about_heli">
         <text>Причина самая простая. В воздухе, особенно ближе к центру Зоны, аномалий не меньше, чем на земле.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_strelok_about_zone_destroying">
+    <string id="characters_voice_scenario_pripyat_pri_b305_strelok_about_zone_destroying">
         <text>Было дело... Только план не сработал. Я пришёл встретиться с вашим начальством. У меня есть информация, которая поможет взять под контроль и уничтожить Зону.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_strelok_give_up">
+    <string id="characters_voice_scenario_pripyat_pri_b305_strelok_give_up">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_strelok_how_to_get_away">
+    <string id="characters_voice_scenario_pripyat_pri_b305_strelok_how_to_get_away">
         <text>Выбросы не происходит подряд, один за другим. Если вы сможете просканировать местность сразу после выброса и засечь расположение аномалий, до следующего выброса вертолёты успеют забрать всех.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b305_strelok_introduse">
+    <string id="characters_voice_scenario_pripyat_pri_b305_strelok_introduse">
         <text>Я - Стрелок.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_both_done_end">
+    <string id="characters_voice_scenario_pripyat_pri_b35_both_done_end">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_envoy_sighted">
+    <string id="characters_voice_scenario_pripyat_pri_b35_envoy_sighted">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_kovalski_calls_guide">
+    <string id="characters_voice_scenario_pripyat_pri_b35_kovalski_calls_guide">
         <text>Кириллов, это Ковальский. Нужно проводить майора.</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_merc_leader_sighted">
+    <string id="characters_voice_scenario_pripyat_pri_b35_merc_leader_sighted">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_primary_target_down">
+    <string id="characters_voice_scenario_pripyat_pri_b35_primary_target_down">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_primary_target_lost_end">
+    <string id="characters_voice_scenario_pripyat_pri_b35_primary_target_lost_end">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_rendevous_done">
+    <string id="characters_voice_scenario_pripyat_pri_b35_rendevous_done">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_rendevous_in_process">
+    <string id="characters_voice_scenario_pripyat_pri_b35_rendevous_in_process">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_rendevous_started">
+    <string id="characters_voice_scenario_pripyat_pri_b35_rendevous_started">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_secondary_target_down">
+    <string id="characters_voice_scenario_pripyat_pri_b35_secondary_target_down">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_secondary_target_lost_end">
+    <string id="characters_voice_scenario_pripyat_pri_b35_secondary_target_lost_end">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
-    <string id="$characters_voice_scenario_pripyat_pri_b35_targets_lost_end">
+    <string id="characters_voice_scenario_pripyat_pri_b35_targets_lost_end">
         <text>this text has not been translated - TRANSLATE THIS SHIT!</text>
     </string>
 </string_table>
