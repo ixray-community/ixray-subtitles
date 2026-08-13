@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_meet_greet_1">
+		<text>Здрав буди, выбросоустойчивый! Как насчёт выпить-закусить?..</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_meet_greet_2">
+		<text>Здравствуй-здравствуй, пришелец с того света!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_meet_greet_3">
+		<text>Какие люди на нашем болоте!..</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1">
+		<text>Ты заходи, если потрепаться охота придёт.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_meet_bye_2">
+		<text>Ну, как будешь у нас на Болотах, то, как грится, милости просю!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_meet_bye_3">
+		<text>Заходи ещё. А то скукотища тут, потрепаться целыми днями не с кем…</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_1">
+		<text>Да-да?</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_2">
+		<text>(Напевает под нос) М-м-м-хм-м-м... извините. Я и не заметил, как Вы вошли.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_3">
+		<text>Это Вы? Что ж, день добрый.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_1">
+		<text>Если что – Вы знаете, где можно меня найти.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_2">
+		<text>Хм-м… Что ж, если это всё, то я, пожалуй, займусь своей работой.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_3">
+		<text>Я буду очень рад, если мои выводы окажутся полезными для всех нас.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_greet_1">
+		<text>Есть какие-то вопросы ко мне, наёмник?</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_greet_2">
+		<text>Рад тебя видеть. Есть какие-то вопросы?</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_greet_3">
+		<text>С чем пожаловал, наёмник?</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4">
+		<text>Ну надо же! Как раз о тебе думал, а ты тут как тут!..</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_bye_1">
+		<text>Ну что ж, будут новости – заходи!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_bye_2">
+		<text>До встречи!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_bye_3">
+		<text>Не пропадай надолго. Возможно, скоро нам понадобится твоя помощь.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_meet_bye_4">
+		<text>Обязательно заходи, если выяснишь что-то важное!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1">
+		<text>Запомни: хороший стрелок тот, у которого ствол говорит только по делу.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tech_meet_bye_2">
+		<text>Будет ещё какая проблема – подходи. Хорошим людям я всегда помогу!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tech_meet_bye_3">
+		<text>Ну, ни пуха ни пера!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tech_meet_greet_1">
+		<text>Если есть что починить, давай сюда.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tech_meet_greet_2">
+		<text>Апгрейд или ремонт? Всё захреначим... синей изолентой, х-ха!..</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tech_meet_greet_3">
+		<text>Учти: проблемы с железом я устраняю на раз, но кривые руки хозяину не правлю.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_meet_bye_1">
+		<text>Попутного ветра!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_meet_bye_2">
+		<text>Доброй тебе дороги.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_meet_bye_3">
+		<text>Будешь неподалёку – заглядывай.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_meet_greet_1">
+		<text>С возвращением, друг!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_meet_greet_2">
+		<text>Приветствую!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_meet_greet_3">
+		<text>Вот молодец, живой пришёл! Рад тебя видеть.</text>
+	</string>
+</string_table>
