@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="characters_voice_scenario_hospital_expl_door">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_hospital_hospital_gunfire_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_hospital_hospital_sniper_1">
+        <text>TEXT</text>
+    </string>
+</string_table>

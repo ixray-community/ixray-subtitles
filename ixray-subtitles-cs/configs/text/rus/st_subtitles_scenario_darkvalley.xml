@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_poterya_controlya">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_ambush_end">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_darkvalley_val_killer_trep">
+        <text>TEXT</text>
+    </string>
+</string_table>

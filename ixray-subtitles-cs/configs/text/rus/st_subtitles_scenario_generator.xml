@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="characters_voice_scenario_generator_actor_no_time">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_generator">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_commander_defence">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_commander_forward">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_commander_story_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_commander_story_1b">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_commander_story_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_commander_surge">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_kill_snork">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_scientist_passage">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_scientist_snork_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_scientist_snork_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_scientist_snork_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_surprise">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_target_reached">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_generator_uno_target_reply">
+        <text>TEXT</text>
+    </string>
+</string_table>

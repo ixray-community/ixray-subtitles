@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_conc_camp_blockpost_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_call_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_a_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_b_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_smuggler_done_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_b_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_1_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_2_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_3_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_captive_leader_reward_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_ambush_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_looked_at_dead_camp_a">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_looked_at_dead_camp_b">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_meet_greet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_meet_greet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_meet_greet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_dead_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_messenger_thanks_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_quester_looked_at_dead_camp">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_digger_traitor_attack_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_1_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_2_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_3_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_4_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_4">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_1_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_2_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_3_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_1_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_2_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_3_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_1_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_2_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_pda_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_pda_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_return_1_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_return_2_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_return_3_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_garbage_gar_stalker_group_talk">
+        <text>TEXT</text>
+    </string>
+</string_table>

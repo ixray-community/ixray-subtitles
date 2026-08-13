@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="characters_voice_scenario_military_mil_enter_second">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_enter_wait_actor_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_enter_wait_actor_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_enter_wait_actor_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_freedom_com_finish_task_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_freedom_com_radio_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_freedom_com_task_pda">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_rnd_radio_4">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_rnd_radio_5">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_stalker_radio_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_military_mil_stalker_radio_3">
+        <text>TEXT</text>
+    </string>
+</string_table>

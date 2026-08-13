@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_main_hole_actor_arrive">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_secret_trader_meet_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_agr_secret_trader_meet_bye_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_4">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_5">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_6">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_1">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_2">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_3">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_underground_agru_radio">
+        <text>TEXT</text>
+    </string>
+    <string id="characters_voice_scenario_agroprom_underground_agru_waterfall">
+        <text>TEXT</text>
+    </string>
+</string_table>
