@@ -1,0 +1,3 @@
+name: ixray-subtitles-cop
+platform: cop
+depends: ixray-subtitles-base
