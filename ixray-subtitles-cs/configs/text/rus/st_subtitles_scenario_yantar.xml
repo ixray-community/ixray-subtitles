@@ -1,36 +1,21 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-	<string id="characters_voice_scenario_yantar_psy_voices_1_l">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_psy_voices_1_r">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_give_orders">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_give_orders_1_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_give_orders_2_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_sakharov_meet_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_sakharov_meet_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_sakharov_meet_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_sakharov_meet_bye_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_sakharov_meet_bye_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_yantar_yan_sakharov_meet_bye_3">
-        <text>TEXT</text>
-    </string>
+	<string id="characters_voice_scenario_yantar_yan_sakharov_meet_1">
+		<text>Здравствуйте, молодой человек!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_sakharov_meet_2">
+		<text>Приветствую на нашей научной базе!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_sakharov_meet_3">
+		<text>С чем пожаловали в мою скромную лабораторию?</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_sakharov_meet_bye_1">
+		<text>Всего наилучшего!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_sakharov_meet_bye_2">
+		<text>Рад был с вами пообщаться!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_sakharov_meet_bye_3">
+		<text>Заходите ещё!</text>
+	</string>
 </string_table>

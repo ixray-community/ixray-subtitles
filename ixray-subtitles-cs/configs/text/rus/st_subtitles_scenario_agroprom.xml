@@ -1,138 +1,135 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_1">
-        <text>TEXT</text>
-    </string>
+		<text>Ты как, заработать желаешь? Или наоборот – на выпивку наличные спустить?</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_2">
+		<text>Рад приветствовать в лучшем баре Зоны!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_3">
+		<text>Подходи, сталкер! Поправь здоровье!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_1">
+		<text>Заходи словом перекинуться, когда снова тут появишься.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_2">
+		<text>Всегда рад полсушать тех, кому есть что рассказать.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_3">
+		<text>Ты заходи ещё, не забывай Колобка!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_1">
+		<text>Чего тебе, наёмник?</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_2">
+		<text>А, представитель народа! Что, какие-то проблемы?</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_3">
+		<text>Есть разговор? Слушаю.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_1">
+		<text>Иди.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_2">
+		<text>Счастливо.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_3">
+		<text>Будь здоров.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_1">
+		<text>Ну, чего тебе?</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_2">
+		<text>Что ещё?</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_3">
+		<text>Ну не дадут отдохнуть! Всё ходят и ходят… прямо как мёдом им намазано!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_1">
+		<text>Всё, бывай!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_2">
+		<text>Уходишь? Ну, наконец-то…</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_3">
+		<text>Неужели ты меня покидаешь? Боже, какое счастье!..</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_1">
+		<text>Есть желание пострелять?</text>
+	</string>
     <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_2">
-        <text>TEXT</text>
+		<text>Готов проверить, какой из тебя стрелок?</text>
     </string>
     <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_3">
-        <text>TEXT</text>
+		<text>Подходим, кто в Зоне не навоевался, не стесняемся! Мишени сдачи не дают!..</text>
     </string>
     <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_1">
-        <text>TEXT</text>
+		<text>Да ты своими результатами просто порвал старика...</text>
     </string>
     <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_2">
-        <text>TEXT</text>
+		<text>Если накопится на сердце злость, заглядывай: это дело хорошо на мишенях срывать…</text>
     </string>
     <string id="characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_3">
-        <text>TEXT</text>
+		<text>А неплохие пострелушки ты тут устроил…</text>
     </string>
     <string id="characters_voice_scenario_agroprom_agr_main_hole_actor_arrive">
-        <text>TEXT</text>
+        <text>Сталкер, мы тебя ждали! Подходи, объясню что к чему.</text>
     </string>
     <string id="characters_voice_scenario_agroprom_agr_secret_trader_meet_1">
-        <text>TEXT</text>
+		<text>Что привело тебя сюда, наёмник?</text>
     </string>
     <string id="characters_voice_scenario_agroprom_agr_secret_trader_meet_bye_1">
-        <text>TEXT</text>
+		<text>Ни пуха ни пера тебе!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_1">
-        <text>TEXT</text>
+        <text>Не дрейфь! Спокойно...</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_2">
-        <text>TEXT</text>
+        <text>Так, нормально всё.</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_1">
-        <text>TEXT</text>
+        <text>Что это?</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_2">
-        <text>TEXT</text>
+        <text>Слышал, нет?</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_3">
-        <text>TEXT</text>
+        <text>Что за шум?</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_1">
-        <text>TEXT</text>
+        <text>Кровосос!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_2">
-        <text>TEXT</text>
+        <text>Тварь проклятая!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_3">
-        <text>TEXT</text>
+        <text>Ух, мразь!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_4">
-        <text>TEXT</text>
+        <text>Да что это?!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_5">
-        <text>TEXT</text>
+        <text>Внимание!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_6">
-        <text>TEXT</text>
+        <text>Оружие к бою!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_1">
-        <text>TEXT</text>
+        <text>Сдохни, тварь!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_2">
-        <text>TEXT</text>
+        <text>Вон он!</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_1">
-        <text>TEXT</text>
+        <text>Что, опять?</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_2">
-        <text>TEXT</text>
+        <text>Хоть бы в этот раз обошлось...</text>
     </string>
     <string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_3">
-        <text>TEXT</text>
+        <text>Послышалось?</text>
     </string>
     <string id="characters_voice_scenario_agroprom_underground_agru_radio">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_agroprom_underground_agru_waterfall">
-        <text>TEXT</text>
+        <text>-Всем привет, это Стрелок. Никак не ожидал, что Доктор сумеет меня так быстро поставить на ноги. Значит так. До меня дошли слухи, что кто-то пронюхал про наши успехи и активно ищет контакта. Чую, не к добру это. Нужно поторопиться со следующим выходом к центру.\n-Здорово Стрелок! Рад что ты жив. Слушай, мы с Клыком нашли все детали и собрали два дешифратора. Оба в схроне недалеко от выжигателя. Заберём их и пойдём к центру.\n-Призрак, дружище, вот это действительно отличная новость! Значит слушайте план: по катакомбам нам точно не обломится, так что остаётся один вариант: идти через выжигатель. Я направляюсь к Сахарову за одной штукой, которая поможет нам сохранить свои мозги в целости. Ждите меня на Военных складах.</text>
     </string>
 </string_table>

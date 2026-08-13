@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-    <string id="characters_voice_scenario_red_forest_red_bridge_finished_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_3">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_scenario_red_forest_red_forester_hello_bye_0">
-        <text>TEXT</text>
+		<text>Доброго пути, сынок!</text>
     </string>
     <string id="characters_voice_scenario_red_forest_red_forester_hello_bye_1">
-        <text>TEXT</text>
+		<text>Не забывай старика!</text>
     </string>
     <string id="characters_voice_scenario_red_forest_red_forester_hello_bye_2">
-        <text>TEXT</text>
+		<text>Прямой дороги тебе, парень!</text>
     </string>
     <string id="characters_voice_scenario_red_forest_red_forester_meet_hello_0">
-        <text>TEXT</text>
+        <text>Здорово, живая душа!</text>
     </string>
     <string id="characters_voice_scenario_red_forest_red_forester_meet_hello_1">
-        <text>TEXT</text>
+		<text>Что, молодо-зелено? Чего ты тут ищешь?</text>
     </string>
     <string id="characters_voice_scenario_red_forest_red_forester_meet_hello_2">
-        <text>TEXT</text>
+		<text>Случайным гостем забрел ко мне, или как?</text>
     </string>
 </string_table>

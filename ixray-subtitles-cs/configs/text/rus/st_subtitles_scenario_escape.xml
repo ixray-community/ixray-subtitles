@@ -1,243 +1,96 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-	<string id="characters_voice_scenario_escape_comandir_megafon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_14">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_15">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_16">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_17">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_comandir_megafon_9">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_driver_talk_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_driver_talk_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_driver_talk_3">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_scenario_escape_esc_military_prisoner_meet_1">
-        <text>TEXT</text>
+		<text>Чё вылупился, как в зоопарке?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_military_prisoner_meet_2">
-        <text>TEXT</text>
+		<text>Чё, интересно, да? У-у, как вы все запарили…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_military_prisoner_meet_3">
-        <text>TEXT</text>
+		<text>Ну радуйся, радуйся! Халецкий в клетке!..</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_military_prisoner_meet_bye_1">
-        <text>TEXT</text>
+		<text>Иди, иди, наёмник!..</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_military_prisoner_meet_bye_2">
-        <text>TEXT</text>
+		<text>Баба с возу – кобыла в курсе дела…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_military_prisoner_meet_bye_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_no_1_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_no_2_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_no_3_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_yes_1_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_yes_2_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_yes_3_pda">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_3">
-        <text>TEXT</text>
+		<text>Вали, вали! До первой аномалии…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_1">
-        <text>TEXT</text>
+		<text>Ага! Прямо тебе древнегреческая трагедия: живая душа в царстве смерти!</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_2">
-        <text>TEXT</text>
+		<text>Высшие силы послали тебя!.. Правда, я пока не знаю, на кой фиг...</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_bye_1">
-        <text>TEXT</text>
+		<text>Что же… работай, наёмник!</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_bye_2">
-        <text>TEXT</text>
+		<text>Думаю, ты не так прост, как кажешься…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_bye_3">
-        <text>TEXT</text>
+		<text>Ну, иди. Удачи тебе в твоих делах!..</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_mechanic_meet_1">
-        <text>TEXT</text>
+		<text>Что-то починить требуется?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_mechanic_meet_2">
-        <text>TEXT</text>
+		<text>Решил улучшить что или поломку исправить?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_mechanic_meet_3">
-        <text>TEXT</text>
+		<text>Чем тебе помочь?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_1">
-        <text>TEXT</text>
+		<text>Если что ещё понадобится – заходи.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_2">
-        <text>TEXT</text>
+		<text>Извини, если не сильно помог.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_3">
-        <text>TEXT</text>
+		<text>Найдешь какие детали для апгрейда – подтаскивай, помозгуем…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_1">
-        <text>TEXT</text>
+		<text>Выбирай, сталкер, что тебе нужно.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_2">
-        <text>TEXT</text>
+		<text>Выбор у меня небогатый, зато цены не кусаются.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_3">
-        <text>TEXT</text>
+		<text>Что могу предложить хорошему приятелю… смотри сам!</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_bye_1">
-        <text>TEXT</text>
+		<text>Если не нашел, чего искал – извиняй…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_bye_2">
-        <text>TEXT</text>
+		<text>Заходи попозже! Может, разживусь чем к тому времени.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_bye_3">
-        <text>TEXT</text>
+		<text>Приятно иметь дело с честным сталкером!</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_trader_greet_1">
-        <text>TEXT</text>
+		<text>Есть что-то стоящее?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_trader_greet_2">
-        <text>TEXT</text>
+		<text>Как дела?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_trader_greet_3">
-        <text>TEXT</text>
+		<text>Ну, здорово.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_trader_greet_4">
-        <text>TEXT</text>
+		<text>Что притащил?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_trader_wait_1">
-        <text>TEXT</text>
+		<text>Ну, чего стоишь?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_trader_wait_2">
-        <text>TEXT</text>
+		<text>Ты говори давай, с чем пришёл.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_trader_wait_3">
-        <text>TEXT</text>
+		<text>Не стесняйся, выкладывай, зачем пришёл.</text>
     </string>
-    <string id="characters_voice_scenario_escape_esc_trader_wait_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_scenario_escape_megafon_alarm_9">
-        <text>TEXT</text>
-    </string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_4">
+		<text>Ты что, уснул, что ли? </text>
+	</string>
 </string_table>

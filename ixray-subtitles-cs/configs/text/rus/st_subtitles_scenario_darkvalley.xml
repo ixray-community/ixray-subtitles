@@ -1,111 +1,108 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-	<string id="characters_voice_scenario_darkvalley_val_antenna_poterya_controlya">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_ambush_end">
-        <text>TEXT</text>
+        <text>-Центр! Свобода уже у тоннеля!\n-Всё, накрылась операция. Подрывай тоннель к чёрту!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1">
-        <text>TEXT</text>
+		<text>Подходи! Бесплатно угощаю за твои наличные!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_2">
-        <text>TEXT</text>
+		<text>Поправить здоровье? Тогда ты правильно попал, чувак!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_3">
-        <text>TEXT</text>
+		<text>Держи пять, братишка! Подымим? Или ты за традиционный расслабон?</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_1">
-        <text>TEXT</text>
+		<text>Заходи на следующей неделе. Обещают такую дурь подвезти – улёт!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_2">
-        <text>TEXT</text>
+		<text>Захочешь выпить – подруливай! Я всегда на месте…</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_3">
-        <text>TEXT</text>
+		<text>Ну, будь, чувак! Жаль, не раскумарились мы с тобой...</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_1">
-        <text>TEXT</text>
+		<text>Ну кто там ещё? Некогда мне, некогда!..</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_2">
-        <text>TEXT</text>
+		<text>Ёлки, бардак и проходной двор… Кто пустил?!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_3">
-        <text>TEXT</text>
+		<text>Снова кому-то от меня что-то нужно? Ну и денёк…</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_1">
-        <text>TEXT</text>
+		<text>Ходят тут... всякие.</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_2">
-        <text>TEXT</text>
+		<text>Не отвлекай меня по пустякам – занят я!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_3">
-        <text>TEXT</text>
+		<text>Иди лучше монстров стрелять, а то людей от работы отвлекаешь…</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_1">
-        <text>TEXT</text>
+		<text>Здорово, сталкер!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_2">
-        <text>TEXT</text>
+		<text>О, кормилец! С чем пришёл?</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_3">
-        <text>TEXT</text>
+		<text>Сломалось что-то?</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_1">
-        <text>TEXT</text>
+        <text>Будь здоров, парень.</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_2">
-        <text>TEXT</text>
+        <text>Будут проблемы, пожелания - обращайся.</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_3">
-        <text>TEXT</text>
+        <text>Удачи тебе, сталкер!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_1">
-        <text>TEXT</text>
+        <text>Но пасаран!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_2">
-        <text>TEXT</text>
+        <text>Приветствую в моей скромной берлоге!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_3">
-        <text>TEXT</text>
+        <text>Проходи, сталкер.</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_1">
-        <text>TEXT</text>
+        <text>Ну всё, поговорили. Теперь за дело.</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_2">
-        <text>TEXT</text>
+        <text>Удачи! Будет полезная информация, приходи.</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_3">
-        <text>TEXT</text>
+        <text>Удачи! Заходи, если чего.</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_1">
-        <text>TEXT</text>
+        <text>-Ашот, братишка, подгони затворную раму!\n-Двадцать долларс!\n-Ну ты и жаба! Ладно, получи у комменданта!\n-Ни понял?!\n-Ну так что, Ашот?\n-Слышишь тебе нада не мне да? Ты шевели капытами!\n-Ну ты и мудила... Всё равно ведь нифига не делаешь!\n-Слушай, а ни пашол бы ты...\n-Кончай трындеть! Превратили понимаешь базу в восточный базар...</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_2">
-        <text>TEXT</text>
+        <text>-Слышишь Кулибин, тут ствол резаный падагнали, глянишь?\n-Двадцать долларс!\n-Эй слышишь, вчирашний хохма уже не хохма!\n-Ладно, неси сюда свой ствол!\n-Мне лавку ненаково оставить, падайди ты а?\n-Ну тогда можешь засунуть этот ствол себе в...\n-Так Ашот, Яр! А ну заткнулись оба! Задрали своим трёпом, сил нет...</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_3">
-        <text>TEXT</text>
+        <text>-Яр!\n-Ну?\n-А щто у миня йесть?\n-Ну и что там у тебя есть?\n-Захади пасмотришь!\n-Да у тебя даже бабам смотреть нечего! Заходи у меня посмотришь, или тебе отсюда показать?\n-Извини дарагой, у миня микраскопа нету...\n-Так вы там что, совсем охренели? Пиписьками в бане меряться будете, а сейчас заткнулись оба, ясно?!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_1">
-        <text>TEXT</text>
+		<text>Слюшай, павизло тибе сигодня, дарагой! Только сичас купилю задорага, пирадам задиошива!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_2">
-        <text>TEXT</text>
+		<text>Эй, падхади, если таргаваться умеешь!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_3">
-        <text>TEXT</text>
+		<text>Ну, паказивай, чем Зона нагирадила!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1">
-        <text>TEXT</text>
+		<text>И разашлись, как ив мори карабли!</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2">
-        <text>TEXT</text>
+		<text>Ай, маладец! Ай, абманул Ашота! Будит Ашот с табой типерь вынимательнее...</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_3">
-        <text>TEXT</text>
+		<text>Я тебе адин умный вещь скажу, только ти не абижайса. Слюшай, дениги – не главное, панимаешь, да? Иди, дарагой…</text>
     </string>
     <string id="characters_voice_scenario_darkvalley_val_killer_trep">
-        <text>TEXT</text>
+        <text>Чёрт! Вот это облажались! У-у-у, коммендант с-сука... трепал мать его, что на блокпосте патронов полный ноль! А свободовцы двоих наших ранили...\nХватит болтать! Заметаем следы и сваливаем.</text>
     </string>
 </string_table>
