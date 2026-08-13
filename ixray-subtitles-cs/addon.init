@@ -1,0 +1,3 @@
+name: ixray-subtitles-cs
+platform: cs
+depends: ixray-subtitles-base
