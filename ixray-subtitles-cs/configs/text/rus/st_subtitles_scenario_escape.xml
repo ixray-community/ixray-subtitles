@@ -19,19 +19,19 @@
 		<text>Вали, вали! До первой аномалии…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_1">
-		<text>Ага! Прямо тебе древнегреческая трагедия: живая душа в царстве смерти!</text>
+		<text>Прямо тебе древнегреческая трагедия: живая душа в царстве смерти!</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_2">
-		<text>Высшие силы послали тебя!.. Правда, я пока не знаю, на кой фиг...</text>
+		<text>Хочешь знать правду о Зоне? Представь себе, я тоже! Давай делиться информацией.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_bye_1">
 		<text>Что же… работай, наёмник!</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_bye_2">
-		<text>Думаю, ты не так прост, как кажешься…</text>
+		<text>Думаю, не так ты прост, как кажешься…</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_leader_meet_bye_3">
-		<text>Ну, иди. Удачи тебе в твоих делах!..</text>
+		<text>Ну, иди с богом. Удачи тебе в твоих делах!..</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_mechanic_meet_1">
 		<text>Что-то починить требуется?</text>
@@ -55,10 +55,10 @@
 		<text>Выбирай, сталкер, что тебе нужно.</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_2">
-		<text>Выбор у меня небогатый, зато цены не кусаются.</text>
+		<text>Что могу предложить?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_3">
-		<text>Что могу предложить хорошему приятелю… смотри сам!</text>
+		<text>Есть что-то на продажу?</text>
     </string>
     <string id="characters_voice_scenario_escape_esc_stalker_trader_meet_bye_1">
 		<text>Если не нашел, чего искал – извиняй…</text>
@@ -91,6 +91,6 @@
 		<text>Не стесняйся, выкладывай, зачем пришёл.</text>
     </string>
 	<string id="characters_voice_scenario_escape_esc_trader_wait_4">
-		<text>Ты что, уснул, что ли? </text>
+		<text>Ты что, уснул, что ли?</text>
 	</string>
 </string_table>
