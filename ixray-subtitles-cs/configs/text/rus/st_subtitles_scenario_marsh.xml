@@ -96,4 +96,52 @@
 	<string id="characters_voice_scenario_marsh_mar_csky_trader_meet_greet_3">
 		<text>Вот молодец, живой пришёл! Рад тебя видеть.</text>
 	</string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_comander_to_squad_1">
+        <text>Спокойно, без паники!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_comander_to_squad_2">
+        <text>Без паники, говорю!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_1">
+        <text>Что это было?</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_2">
+        <text>Слышал, нет?</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_3">
+        <text>Что шумело то?</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_after_1">
+        <text>Кровосос!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_after_2">
+        <text>Тварь проклятая!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_after_3">
+        <text>Ах ты мразь!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_after_4">
+        <text>Как же это?!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_after_5">
+        <text>Смотреть в оба!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_after_6">
+        <text>Так, мужики! По сторонам, внимательно!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_1">
+        <text>Ах ты скотина!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_2">
+        <text>Вот он где!</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_1">
+        <text>Неужели опять?</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_2">
+        <text>Только бы пронесло...</text>
+    </string>
+    <string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_3">
+        <text>Может послышалось?</text>
+    </string>
 </string_table>
