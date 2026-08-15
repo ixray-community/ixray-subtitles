@@ -11,7 +11,8 @@ subs_types = {
     npc = 1,
     actor = 2,
     obj = 3,
-    fake = 4
+    fake = 4,
+	trader = 5
 }
 
 -- private:
@@ -19,7 +20,7 @@ local subtitles_buffer = {}
 local subtitles = {}
 
 local world_space_subtitles = {}
-
+trader_is_playing = false
 local ui_class = nil
 
 -----------------------------------------------------------------------
@@ -230,6 +231,18 @@ function add_ws_subtitles_obj(sound_obj, speaker_id, section, text, delay)
     add_world_space_subtitles(sub)
 end
 
+function add_subtitles_trader(speaker_id, name, text, delay, distance)
+    local sub = Subtitle()
+    sub.type = subs_types.trader
+    sub.speaker_id = speaker_id
+    sub.name = game.translate_string(name)
+    sub.text = game.translate_string(text)
+    sub.delay = delay + time_global()
+    sub.distance = distance
+
+    add_subtitles_to_buffer(sub)
+end
+
 -----------------------------------------------------------------------
 
 function actor_on_update()
@@ -282,6 +295,14 @@ function update()
             if sub.delay < time_global() then
                 to_show = true
             end
+        elseif sub.type == subs_types.trader then
+            if sub.delay < time_global() then
+                if not trader_is_playing then
+                    remove = true
+                elseif not speaker_is_far_away(sub.speaker_id, sub.distance) then
+                    to_show = true
+                end
+            end
         end
 
         if remove then
@@ -319,6 +340,12 @@ function update()
         elseif sub.type == subs_types.fake then
             if sub.time < time_global() then
                 remove = true
+            end
+        elseif sub.type == subs_types.trader then
+            if not trader_is_playing then
+                remove = true
+            elseif speaker_is_far_away(sub.speaker_id, sub.distance) then
+                to_buffer = true
             end
         end
 

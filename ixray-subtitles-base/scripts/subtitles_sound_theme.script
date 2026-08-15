@@ -5,6 +5,8 @@ function on_game_start()
 	RegisterScriptCallback("on_actor_sound_play", this.on_actor_sound_play)
 	RegisterScriptCallback("on_object_sound_init", this.on_object_sound_init)
 	RegisterScriptCallback("on_object_sound_play", this.on_object_sound_play)
+	RegisterScriptCallback("on_trader_sound_play", this.on_trader_sound_play)
+	RegisterScriptCallback("on_trader_sound_end", this.on_trader_sound_end)
 end
 
 --------------------------------------------------------
@@ -126,4 +128,17 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
 
         subtitles.add_ws_subtitles_obj(ref_binder.snd_obj, obj_id, ref_binder.ws_section, text, ref_binder.ws_subs_delay)
 	end
+end
+
+-- TRADER (sidor, forester)
+function on_trader_sound_play(ref_binder, snd)
+	local name = ref_binder.object:character_name()
+	local text = snd:gsub("\\", "_")
+
+	subtitles.trader_is_playing = true
+	subtitles.add_subtitles_trader(ref_binder.object:id(), name, text, subtitles.CONFIG.SHOW_DELAY, subtitles.CONFIG.MAX_DISTANCE)
+end
+
+function on_trader_sound_end()
+	subtitles.trader_is_playing = false
 end
