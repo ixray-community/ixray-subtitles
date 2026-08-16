@@ -6,6 +6,9 @@
     <string id="st_recon_name">
         <text>Разведчик</text>
     </string>
+    <string id="lim_csky_serov_name">
+        <text>Серов</text>
+    </string>
     <string id="characters_voice_human_01_bandit_fight_attack_script_attack_1">
         <text>Херачь их, пацаны!</text>
     </string>
