@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
     <string id="st_subtitles_addon_title">
-        <text>РЎСѓР±С‚РёС‚СЂС‹</text>
+        <text>Субтитры</text>
     </string>
     <string id="st_subtitles_addon_name">
         <text>Subtitles Addon</text>
     </string>
     <string id="st_subtitles_show_group">
-        <text>РџРѕРєР°Р·С‹РІР°С‚СЊ СЃСѓР±С‚РёС‚СЂС‹</text>
+        <text>Показывать субтитры</text>
     </string>
     <string id="st_subtitles_show">
-        <text>Р­РєСЂР°РЅРЅС‹Рµ СЃСѓР±С‚РёС‚СЂС‹</text>
+        <text>Экранные субтитры</text>
     </string>
     <string id="st_ws_subtitles_show">
-        <text>РЎСѓР±С‚РёС‚СЂС‹ РІ РјРёСЂРѕРІРѕРј РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРµ</text>
+        <text>Субтитры в мировом пространстве</text>
     </string>
 </string_table>
