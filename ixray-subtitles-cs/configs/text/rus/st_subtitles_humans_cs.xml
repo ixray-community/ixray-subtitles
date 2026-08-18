@@ -166,457 +166,431 @@
 
 
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_1">
-        <text>TEXT</text>
+        <text>Зашибём!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_10">
-        <text>TEXT</text>
+        <text>Держи от меня!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_11">
-        <text>TEXT</text>
+        <text>На! Хватай!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_12">
-        <text>TEXT</text>
+        <text>Вот так!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_13">
-        <text>TEXT</text>
+        <text>Так тебе! Сволочь!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_14">
-        <text>TEXT</text>
+        <text>Кушай, скотина!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_2">
-        <text>TEXT</text>
+        <text>Ух, мать вашу!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_3">
-        <text>TEXT</text>
+        <text>Кончай гадов!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_4">
-        <text>TEXT</text>
+        <text>Выноси сволочей!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_5">
-        <text>TEXT</text>
+        <text>Бей ублюдков!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_6">
-        <text>TEXT</text>
+        <text>Кладём их всех!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_7">
-        <text>TEXT</text>
+        <text>Получи, гад!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_8">
-        <text>TEXT</text>
+        <text>На! Жри!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_9">
-        <text>TEXT</text>
+        <text>На! Получай!</text>
     </string>
 
 
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_relax_1">
-        <text>TEXT</text>
+        <text>Вроде тихо всё.</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_relax_2">
-        <text>TEXT</text>
+        <text>Похоже всех завалили!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_relax_3">
-        <text>TEXT</text>
+        <text>Все, отбой!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_wait_1">
-        <text>TEXT</text>
+        <text>Не высовываться!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_wait_2">
-        <text>TEXT</text>
+        <text>Смотреть в оба!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_wait_3">
-        <text>TEXT</text>
+        <text>Так! Сидим, ждем!</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_wait_4">
-        <text>TEXT</text>
+        <text>Где же вы гады лазите?</text>
     </string>
     <string id="characters_voice_human_01_csky_fight_post_combat_wait_wait_5">
-        <text>TEXT</text>
+        <text>Держать оборону!</text>
     </string>
 
 
-    <string id="characters_voice_human_01_csky_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_csky_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_csky_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_csky_reactions_box_box_4">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_human_01_csky_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>Блин, так не смешно же!</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>А поновее ничего нет?</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Мастер!</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Молодец!</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Вот это как мёдом помазал!</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>И здорово же у тебя выходит!</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Кончай уже, рихтер.</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Всё, завязывай.</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_csky_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
     <string id="characters_voice_human_01_csky_states_idle_idle_1">
-        <text>TEXT</text>
+        <text>Ну, не знаю. Может, кому-то такой вид заработка и не подходит. А как по мне, так в самый раз. Тут, понимаешь, не просто хабар таскать. Здесь идея.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_10">
-        <text>TEXT</text>
+        <text>А я все равно не понимаю, как оно все в Зоне устроено. Начальство умное, все разобраться пытается. А мое дело маленькое, с автоматом по болотам бегать.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_11">
-        <text>TEXT</text>
+        <text>Эх, мне бы подучиться. Я бы тоже вот так вот. Исследованиями там всякими занимался, то да сё.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_12">
-        <text>TEXT</text>
+        <text>Тут главное не дрейфить. Ещё не знаешь, куда тебя судьба завтра забросит. Может, будешь потом эти дни вспоминать как самые счастливые.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_13">
-        <text>TEXT</text>
+        <text>Это что ни говори, не за хабаром по лесу шарахаться. Тут и конкуренции меньше, и цель есть. Вот только, может, не самая правильная.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_14">
-        <text>TEXT</text>
+        <text>А я так считаю, жаловаться на судьбу это никуда не годится. Дело свое делать надо. И стараться, чтобы лучше всех остальных. Вот и все.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_15">
-        <text>TEXT</text>
+        <text>Всё одно и то же. Только вернулись и снова куда-то гонят.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_16">
-        <text>TEXT</text>
+        <text>Ничего, ничего. Я еще по местам боевой славы туристов водить стану. И зарубки им на прикладе показывать буду.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_17">
-        <text>TEXT</text>
+        <text>И чего нашему начальству все не имется в последнее время. Аппаратуры, вроде, хватает, стволов тоже. Ну чего им еще?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_18">
-        <text>TEXT</text>
+        <text>Вот так задумаешься иногда. Ну, мы, понятно, деньги за работу получаем. С начальством тоже понятно. Им конкретные результаты нужны. Но неужто за всем этим не стоит что-то большее? А ведь черт его знает, что именно.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_19">
-        <text>TEXT</text>
+        <text>Если бы мы все вместе, ну хотя бы со свободовцами и вольными сталкерами объединились, мы бы отсюда к черту всех бандитов выдавили. Да и военным бы не сладко пришлось. Быстро гонор бы растеряли.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_2">
-        <text>TEXT</text>
+        <text>Смысл, смысл. Лично я особо над смыслом не задумываюсь. Есть поставленная задача, за выполнение платят нормально. Вот тебе и смысл с мотивацией.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_20">
-        <text>TEXT</text>
+        <text>Что-то невесело мне сегодня. Всё кругом грустное, все некрасивые.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_21">
-        <text>TEXT</text>
+        <text>Эти-то все, а? Присосались к Зоне, как пиявки. Лишь бы деньги, а какой ценой, все равно. А кому-то еще и власть подавай. Вон как долговцам этим сволочным.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_22">
-        <text>TEXT</text>
+        <text>Ну и суп был сегодня. Крупинка за крупинкой гоняется с дубинкой.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_23">
-        <text>TEXT</text>
+        <text>Предложил бы кто сейчас чайку хорошего. Ух, я бы не отказался. Я это дело всегда любил. А тут с чайными магазинами, ясное дело, совсем туго.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_24">
-        <text>TEXT</text>
+        <text>Жизнь - она штука странная. Мы, как ни крути, единственные, кто Зоне добра желает, и понять ее хочет не ради своей выгоды. Свобода, ученые правительственные - это все фигня. Но ведь какой закон подлости. На болото не их загнали, а нас.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_25">
-        <text>TEXT</text>
+        <text>*Напевает*</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_26">
-        <text>TEXT</text>
+        <text>Фух, блин.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_27">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_28">
-        <text>TEXT</text>
+        <text>Эх.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_29">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_3">
-        <text>TEXT</text>
+        <text>Жизнь нынче неспокойная стала. Никогда не знаешь, какой сюрприз за кустом поджидает. Да и удовольствие от работы... Не то уже.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_30">
-        <text>TEXT</text>
+        <text>М-да.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_31">
-        <text>TEXT</text>
+        <text>М-да.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_32">
-        <text>TEXT</text>
+        <text>Кхм.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_33">
-        <text>TEXT</text>
+        <text>Фух, блин.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_34">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_35">
-        <text>TEXT</text>
+        <text>Эх.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_36">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_37">
-        <text>TEXT</text>
+        <text>М-да.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_38">
-        <text>TEXT</text>
+        <text>М-да.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_39">
-        <text>TEXT</text>
+        <text>Кхм.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_4">
-        <text>TEXT</text>
+        <text>Всё течёт, всё поломалось, и ничего не меняется. Сегодня сидим себе спокойно, водочку кушаем, а завтра уже переться куда-то надо, материалы добывать.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_5">
-        <text>TEXT</text>
+        <text>Спору нет, начальству виднее. А все же хочется иногда узнать, ради чего мы все это.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_6">
-        <text>TEXT</text>
+        <text>Все же грех нам на жизнь жаловаться. Слава Богу, не с каменными топорами бегаем. Если что, за себя постоять сможем.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_7">
-        <text>TEXT</text>
+        <text>Я так понимаю, раз начальство там что-то исследует, то должна быть какая-то конкретная цель. А нам что? Мы на подхвате. Вооружены и очень, как говорится, опасны.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_8">
-        <text>TEXT</text>
+        <text>Да, тут крути, не крути, маракуй, не маракуй, а все равно выйдет так, как командиры скажут. Ну или как Зона решит.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_idle_idle_9">
-        <text>TEXT</text>
+        <text>Я со своей пушкой никогда не расстанусь. Днем в руках держу, сплю она у меня под боком. Я с ней вон говорю даже. Ну и пускай думают, что псих. А она мне, может, тысячу раз жизнь спасла.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Чего тебе, сталкер?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Тебе нужно что, сталкер?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Я тебя слушаю.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>М-да, кого только в Зону не заносит...</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Не хочешь - как хочешь.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Ух ты, беда... Говорить, наверное, не умеем?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Говори уже. Что хотел?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Давай выкладывай скорее.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>У тебя ко мне дело есть или как?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Что молчишь-то?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Чего ждёшь?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Чего тебе?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Что-то хотел?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Тебе чего надо-то?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Не в себе что ли?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Ох и зануда... Ни слова не сказал.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>Вот блин, ещё одно немое палено.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Сколько мне ещё ждать?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Эй, ты, заснул что ли?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Эй, проснись!</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Мужик, не тормози!</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Что хотел-то?</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Опусти пушку, потом поговорим.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Убери ствол, если говорить охота.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Оружие убери сперва!</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Валыну спрячь!</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Убери оружие.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Ствол убери.</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Ствол на плечо!</text>
     </string>
     <string id="characters_voice_human_01_csky_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Давай-ка без шуток. Прячь оружие.</text>
     </string>
 
 
     <string id="characters_voice_human_01_csky_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Вот анекдот...</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Вспомнил вот...</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Внимание! Анекдот...</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Вот такое знает кто?</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Чего заскучали, мужики?</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Вот послушайте, мужики.</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>А вот такое вам как?</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Всё! Музыкальная пауза.</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Идёт, значится, молодой сталкер по зоне. Тут бац, рощица. И не маленькая, а на карте её нету. Ну, зелёный туда-сюда, как быть. И соваться стрёмно, и как лучше обходить, неизвестно. Тут глянь, мужик какой-то неподалёку маячит. И ни на долговца, ни на наёмника не похож. Обрадовался, значит, молодой к нему. Так, мол, и так, а не подскажете, как бы мне рощу вот эту вот обойти? Тот и говорит. Мне тоже в ту сторону, пошли вместе. Идут себе хорошо, спокойно идут. Молодому скучно стало, он и начинает подлизываться. Вот, значит, здорово, как быть тертым сталкером. Не шугаться от каждого шороха, оружия не таскать много. У мужика того и правда ствола видно не было. Ну, тот, стало быть, начинает ржать. Да кого тут вообще бояться? Как кого удивляется молодой? Ну, это, монстров, контролёры одни чего стоят. Мужик так помолчал и говорит обиженно. Дурак ты. Если б сказал зомби или кровосос, но нас-то, контролёров, за что монстрами обзывать?</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Посадил сталкер псевдорепку. Выросла псевдорепка большая-пребольшая. Взял сталкер гранатомет и пошел ее добывать. И все бы у него наверняка получилось, если бы псевдожучки и псевдомышки не набежали.</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Попал как-то раз сталкер на экскурсию в ад. Ему черт показывает муки, которые грешники терпят. Кипящая смола, плетки, раскаленные угли, огонь кругом, вопли, серой воняет. Сталкер посмотрел на все это и говорит чертям. Ну что, чуваки, тепло у вас тут сухо, да и развлечений побольше, чем у нас на болотах. Так что я, пожалуй, тут пока останусь.</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_12">
-        <text>TEXT</text>
+        <text>Как-то раз сидим мы с мужиками в засаде. К вечеру ветер поднялся, посвистывает, завывает, холодно, трясёмся все, а пустой живот бурчит, что твоя тёща. И тут кто-то меня за плечо осторожненько так трогает. Я оборачиваюсь, а там кровосос. Ну да я не растерялся, как заору, как прыгну на него и давай ему глаза замазывать. Спрашиваете, чем кровососу глаза замазать можно? Как увидите кровососа в двух шагах, узнаете чем. Само найдется.</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Появился, значит, в зоне черный сталкер. К лагерю ночью повалялся приходить, и там сует руку в палатку и говорит... Водички... Попить! А если не дашь хлебнуть из фляжки или наружу полезешь, пришибет. Раз мужик один решил пошутить, вылез тихо из палатки, надел кожаную перчатку и полез к соседям в палатку. Полез, значит, и попрошайничает жалостно: водички, водички попить. А тут из палатки навстречу ему высовывается рука и за горло его цап! И такой сиплый голосок отзывается тихонько. А тебе моя водичка зачем нужна?!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Как-то поймали наемники сталкера. Подошли к колодцу, окунули его головой вниз по пояс. Через минуту достают и спрашивают. «Артефакты, бабло есть?» Он им «Нету». Опускает его еще раз, достали, спрашивают. «Артефакты, бабло есть?» «Да нету». Опять окунули и опять спрашивают. «Артефакты, бабло есть?» Ну, тот и не выдержал. «Блин, вы или опускайте глубже, или держите дольше. Дно мутное, ни хрена не видно».</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Возвращается опытный сталкер к своему джипу Тут раз, рядом контролер ошивается сталкер ему, пошел вон отсюда, пока цел контролер обиделся, ну, ты сдурел что ли? Нужна мне твоя развалюха сто лет. А сталкер свое гнет, я сказал, вали. Угнать, скажем, не угонишь А вот нацарапать какую-то похобень с тебя встанет!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Старый и молодой долговцы идут по зоне. Вдруг старый останавливается и шепотом говорит молодому. Тихонько иди вон к тому дереву. Головастик на цыпочках пополз, аж вспотел. Дошел и руками показывает, мол, дальше-то что делать? А бывалый как завопит радостно. Во, я же говорил, брешут, брешут, что тут аномалии!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Как-то столкнулись в подземельях Агропрома кровосос и контролер. Кровосос: Ну ты меня и напугал, чудовище! Контролер: ты на себя посмотри. Тоже мне принц прекрасный!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>Идет новичок по зоне. Замечтался, Овраг не заметил, и как покатится под откос. А внизу "мясорубка". Ну, сталкер думает, все, прощай, мама. И тут его кто-то, цоп! Смотрит. Это зомби его схватил и тянет теперь куда-то. Сталкер его и спрашивает. Зомби, это... Спасибо, что от "мясорубки" спас. А куда ты меня тащишь? А зомби ему... Контролер свежее мясо любит, фарш не любит. А еде разговаривать нельзя.</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_8">
-        <text>TEXT</text>
+        <text>Ушёл на покой старый сталкер, сидит себе у камина с ручной собачкой и читает. В греческой и римской мифологии Цербер - чудовищный трёхглавый пёс со змеиным хвостом, охраняющий вход в подземное царство. Тут пёс гав, сталкер всполошился, за стволом сразу полез, а кругом всё тихо. Он к собаке, ты чего, дружок? А тот, гав-гав-говно ваша мифология!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_jokes_joke_9">
-        <text>TEXT</text>
+        <text>Заходит сталкер в бар. Бармен, дай чего-нибудь пожрать. Бармен, значит, начинает. Ну вот, сегодня есть глаз плоти в томатном соусе, жареные лапки снорков в томатном соусе, из рыбного щупальца кровососа в томатном соусе. Сталкера аж перекосило. Ты, говорит, чего это вздумал? Людей травить? Бармена тоже перекосило. Кто?! Кричит. Я?! А сталкер. А что, я?! С грибным соусом давай! Какой нафиг томат?!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_use_abuse_1">
-        <text>TEXT</text>
+        <text>Заманал! Понял?!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_use_abuse_2">
-        <text>TEXT</text>
+        <text>Пошёл ты!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_use_abuse_3">
-        <text>TEXT</text>
+        <text>Достал ты меня!</text>
     </string>
     <string id="characters_voice_human_01_csky_talk_use_abuse_4">
-        <text>TEXT</text>
+        <text>Так меня достать!</text>
     </string>
 
 
     <string id="characters_voice_human_01_csky_threat_back_off_backoff_1">
-        <text>TEXT</text>
+        <text>Отойди-ка отсюда подальше, мужик.</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_back_off_backoff_2">
-        <text>TEXT</text>
+        <text>Сваливай отсюда, хлопец, ясно?</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_back_off_backoff_3">
-        <text>TEXT</text>
+        <text>Не стой тут, уходи.</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_back_off_backoff_4">
-        <text>TEXT</text>
+        <text>Давай, отваливай по-хорошему, лады?</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_back_off_backoff_5">
-        <text>TEXT</text>
+        <text>Торчат тут всякие... Проходи-проходи давай!</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_back_off_backoff_6">
-        <text>TEXT</text>
+        <text>Шёл бы ты отсюда прямо сейчас, а?!</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
+        <text>Оружие убрал!</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
+        <text>Оружие опусти, мужик!</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
+        <text>Не балуй, оружие спрячь!</text>
     </string>
     <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_dolg_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_reactions_box_box_4">
-        <text>TEXT</text>
+        <text>Мужик, ты оружие-то спрячь.</text>
     </string>
 
 
@@ -773,20 +747,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_freedom_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_reactions_box_box_4">
         <text>TEXT</text>
     </string>
 
@@ -1569,20 +1529,6 @@
     </string>
 
 
-    <string id="characters_voice_human_01_stalker_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_reactions_box_box_4">
-        <text>TEXT</text>
-    </string>
-
-
     <string id="characters_voice_human_01_stalker_states_meet_meet_comander_start_1">
         <text>TEXT</text>
     </string>
@@ -1888,496 +1834,470 @@
 
 
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_1">
-        <text>TEXT</text>
+        <text>Кроши!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_10">
-        <text>TEXT</text>
+        <text>Получай!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_11">
-        <text>TEXT</text>
+        <text>На! Получи!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_12">
-        <text>TEXT</text>
+        <text>Вот тебе!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_13">
-        <text>TEXT</text>
+        <text>Получи, скотина!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_14">
-        <text>TEXT</text>
+        <text>Вот так! Будешь знать!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_15">
-        <text>TEXT</text>
+        <text>Так тебе, сволочь!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_16">
-        <text>TEXT</text>
+        <text>Кушай, скотина!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_2">
-        <text>TEXT</text>
+        <text>Кончай гадов!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_3">
-        <text>TEXT</text>
+        <text>Выноси сволочей!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_4">
-        <text>TEXT</text>
+        <text>Бей ублюдков!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_5">
-        <text>TEXT</text>
+        <text>Кладем их всех!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_6">
-        <text>TEXT</text>
+        <text>Бей их!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_7">
-        <text>TEXT</text>
+        <text>Вали отморозков!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_8">
-        <text>TEXT</text>
+        <text>Порвем их!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_attack_script_attack_9">
-        <text>TEXT</text>
+        <text>На тебе! На!</text>
     </string>
 
 
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_relax_1">
-        <text>TEXT</text>
+        <text>Всё, отбой!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_relax_2">
-        <text>TEXT</text>
+        <text>Похоже закончили. Всем отдыхать!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_relax_3">
-        <text>TEXT</text>
+        <text>Закончили!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_wait_1">
-        <text>TEXT</text>
+        <text>Не высовываться! Могут новые появиться!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_wait_2">
-        <text>TEXT</text>
+        <text>Смотреть в оба!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_wait_3">
-        <text>TEXT</text>
+        <text>Так! Сидим, ждем!</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_wait_4">
-        <text>TEXT</text>
+        <text>Где же вы гады лазите?</text>
     </string>
     <string id="characters_voice_human_02_csky_fight_post_combat_wait_wait_5">
-        <text>TEXT</text>
+        <text>Пока остаемся на месте! Не торопимся!</text>
     </string>
 
 
-    <string id="characters_voice_human_02_csky_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_csky_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_csky_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_csky_reactions_box_box_4">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_human_02_csky_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>Блин, так не смешно же!</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>А поновее ничего нет?</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Где смеяться-то? Не понял.</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
+        <text>Ну да, как анекдот, так обязательно бородатый надо.</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_joke_reaction_joke_5">
-        <text>TEXT</text>
+        <text>Старьё.</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Мастер!</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Молодец!</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Класс!</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Вот это как мёдом помазал!</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>И здорово же у тебя выходит!</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Кончай уже, рихтер.</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Всё, завязывай.</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_7">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_csky_reactions_story_laughter_8">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
     <string id="characters_voice_human_02_csky_states_idle_idle_1">
-        <text>TEXT</text>
+        <text>Ну, не знаю. Может, кому-то такой вид заработка и не подходит. А как по мне, так в самый раз. Тут, понимаешь, не просто хабар таскать. Здесь идея.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_10">
-        <text>TEXT</text>
+        <text>Я со своей пушкой никогда не расстанусь. Днем в руках держу, сплю она у меня под боком. Я с ней вон говорю даже. Ну и пускай думают, что псих. А она мне, может, тысячу раз жизнь спасла.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_11">
-        <text>TEXT</text>
+        <text>А я все равно не понимаю, как оно все в Зоне устроено. Начальство умное, все разобраться пытается. А мое дело маленькое, с автоматом по болотам бегать.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_12">
-        <text>TEXT</text>
+        <text>Эх, мне бы подучиться. Я бы тоже вот так вот. Исследованиями там всякими занимался, то да сё.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_13">
-        <text>TEXT</text>
+        <text>Тут главное не дрейфить. Ещё не знаешь, куда тебя судьба завтра забросит. Может, будешь потом эти дни вспоминать как самые счастливые.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_14">
-        <text>TEXT</text>
+        <text>Это что ни говори, не за хабаром по лесу шарахаться. Тут и конкуренции меньше, и цель есть. Вот только, может, не самая правильная.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_15">
-        <text>TEXT</text>
+        <text>А я так считаю, жаловаться на судьбу это никуда не годится. Дело свое делать надо. И стараться, чтобы лучше всех остальных. Вот и все.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_16">
-        <text>TEXT</text>
+        <text>Всё одно и то же. Только вернулись и снова куда-то гонят.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_17">
-        <text>TEXT</text>
+        <text>Ничего, ничего. Я еще по местам боевой славы туристов водить стану. И зарубки им на прикладе показывать буду.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_18">
-        <text>TEXT</text>
+        <text>И чего нашему начальству все не имется в последнее время. Аппаратуры, вроде, хватает, стволов тоже. Ну чего им еще?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_19">
-        <text>TEXT</text>
+        <text>Вот так задумаешься иногда. Ну, мы, понятно, деньги за работу получаем. С начальством тоже понятно. Им конкретные результаты нужны. Но неужто за всем этим не стоит что-то большее? А ведь черт его знает, что именно.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_2">
-        <text>TEXT</text>
+        <text>Смысл, смысл. Лично я особо над смыслом не задумываюсь. Есть поставленная задача, за выполнение платят нормально. Вот тебе и смысл с мотивацией.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_20">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_21">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_22">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_23">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_24">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_25">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_26">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_27">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_28">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_29">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_3">
-        <text>TEXT</text>
+        <text>Жизнь нынче неспокойная стала. Никогда не знаешь, какой сюрприз за кустом поджидает. Да и удовольствие от работы... Не то уже.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_30">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_31">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_32">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_33">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_34">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_35">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_36">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_37">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_38">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_39">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_4">
-        <text>TEXT</text>
+        <text>Всё течёт, всё поломалось, и ничего не меняется. Сегодня сидим себе спокойно, водочку кушаем, а завтра уже переться куда-то надо, материалы добывать.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_40">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_41">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_5">
-        <text>TEXT</text>
+        <text>Спору нет, начальству виднее. А все же хочется иногда узнать, ради чего мы все это.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_6">
-        <text>TEXT</text>
+        <text>Что за люди пошли? Вечно им охота, понимаешь, до истины докопаться. А ты поймай её, истину эту.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_7">
-        <text>TEXT</text>
+        <text>Все же грех нам на жизнь жаловаться. Слава Богу, не с каменными топорами бегаем. Если что, за себя постоять сможем.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_8">
-        <text>TEXT</text>
+        <text>Я так понимаю, раз начальство там что-то исследует, то должна быть какая-то конкретная цель. А нам что? Мы на подхвате. Вооружены и очень, как говорится, опасны.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_idle_idle_9">
-        <text>TEXT</text>
+        <text>Да, тут крути, не крути, маракуй, не маракуй, а все равно выйдет так, как командиры скажут. Ну или как Зона решит.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Здорово. Чего тебе, сталкер?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Тебе чего, сталкер?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Я тебя слушаю.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>М-да, кого только в Зону не заносит...</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Не хочешь - как хочешь.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Говорить, наверное, не умеем?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Говори уже. Что хотел?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Давай выкладывай скорее.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>У тебя ко мне дело есть или как?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Что молчишь-то?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Чего ждёшь? Говори уже.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Привет, сталкер!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Здорово! Тебе чего?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Привет, сталкер! Что скажешь?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Не в себе что ли?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Ох и зануда... Ни слова не говорит.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>Чёрт, ещё одно немое палено.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Ну и сколько мне ещё ждать?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Эй, ты! Заснул что ли?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Эй, проснись!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Мужик, не тормози!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Что-то хотел?</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Опусти пушку, потом поговорим.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Убери оружие, если поговорить хочешь.</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Сперва оружие убери, тогда и поговорим!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Спрячь ты уже свою пушку!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Убери оружие!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Ствол-то убери!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Ствол на плечо!</text>
     </string>
     <string id="characters_voice_human_02_csky_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Давай-ка без шуток. Убирай оружие!</text>
     </string>
 
 
     <string id="characters_voice_human_02_csky_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Вот анекдот...</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Вспомнил вот...</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Внимание! Анекдот...</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Вот такое знает кто?</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Чего заскучали, мужики?</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Вот послушайте, мужики.</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>А вот такое вам как?</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Всё! Музыкальная пауза.</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_intros_intro_music_5">
-        <text>TEXT</text>
+        <text>Ну, поехали?!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Встречаются как-то двое сталкеров, один другому. Ты Васю помнишь? Ну того, который каждому рассказывал, как он в лётные три раза поступал. Помню, а чего? Так он это, на днях в трамплин вляпался. Ой блин... Вот так, сбылась, можно сказать, у человека мечта. Полетел!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Летит, значит, нива со сталкерами по зоне, аномалии обходит на бешеной скорости, встречных монстров на бампер принимает, влетает на блок пост, проходит его, чуть не столкнувшись с БТР, уносится по дороге прочь от зоны. Пассажиры в полной прострации, а водила спокойно так, одной рукой вертит баранку, в другой держит бутылку пива время от времени из горла отхлёбывает. Тут один сталкер малость очухался, ну ты даёшь, говорит, ты где так водить научился. А водила смеётся, это что, вот я раньше в Киеве на маршрутке работал...</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Как-то один мажор присытился своей халявной жизнью. Захотелось ему экстрима. Затарился он, значит, самым навороченным броником, валыну наикрутейшую купил, навешал на нее все, что только можно, гайки вообще у ювелира заказал, платиновые. В общем, запаковался по полной. Ну, и отправился в зону. В наглую проехал через блокпост, часовому на ходу пачку баксов кинул. Едет, значит, по зоне, Хеннесси из горла хлещет, колонки какую-то попсу шпарит. В общем, как обычно, чувствует себя хозяином жизни. А тут вдруг, опа, хриплый голос в мозгу. Слышишь, пацан, звукурить есть?</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_12">
-        <text>TEXT</text>
+        <text>Учит, значит, опытный сталкер новичка, как оно в зоне жить.Как что делать, чтобы в неприятные ситуации не влипнуть.Молодой спрашивает.А представьте такое дело.Вот идем мы с вами по зоне.И тут со всех сторон монстры.Все, какие только есть.А у нас только один патрон на двоих.У вас в стволе.Вы как тогда поступите?Сами застрелитесь, а меня на растерзание оставите? Или меня застрелите, а сами как-то выкручиваться будете? Старый сталкер, не раздумывая.Говно вопрос.Тебя, конечно за то что накаркал.</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_13">
-        <text>TEXT</text>
+        <text>Заползает пьяный сталкер в бар на карачках, поворачивает к стене и начинает ползти вверх.Перелазит на потолок, потом по другой стене сползает к стойке.Заказывает бутылку водки, выпивает, достает из рюкзака артефакт, закусывает.После этого разворачивается и выползает из бара.Один сталкер обалдел, ну и говорит другому, ты видал?А тот ему, ага, закусил, падла.Не те уже времена.Раньше порядочный сталкер артефактом занюхивал.</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_14">
-        <text>TEXT</text>
+        <text>Сталкер поздно ночью домой приходит.Пьяный в дрова.Жена ему.Опять с девками в кабаках пил?Сталкер, да ты чё?Какие девки?Патруль около зоны замёл.На блокпосту три часа шмонали.Еле упросил, чтоб отпустили.И ты, значит, сразу водяры от радости нажрался, сволочь.Да какой нажрался?Я же радиацию выводил.Не домой же тащить.Оправдывается, значит, сталкер.А жена всё не унимается.Ну ладно, а засосы на шее?Это все кровосос, выскочил из-за угла, да как схватит, а у меня с собой только пистолет, еле ноги унес.Тут жена его как треснет по голове сковородкой.Ах ты сволочь! Вследующий раз своего кровососа встретишь, передай: такая помада уже не в моде!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_15">
-        <text>TEXT</text>
+        <text>Вошли два новичка в зону.Не успели и пару шагов сделать, как на них кровосос напал.Новички ясное дело оружие с перепугу побросали, и как рванут в разные стороны.Кровосос одного из них выбрал и погнался за ним.Тот на дерево, а кровосос за ним.Второй новичок возвращается, хватает ствол и давай, значит, в кровососа стрелять.Бах!У кровососа правое яйцо в сторону.Тварь, значит, от боли ревет, но по дереву дальше лезет.Тут снова бах!Левое яйцо в сторону.У кровососа кровища хлечит, но он все равно вверх лезет, только еще злее стал.Бах!Кровососу отрывают к черту последнюю причиндалину, но он все равно не останавливается.Тут первый новичок с верхушки дерева кричит напарнику.В голову!В голову ему стреляй, придурок!Он меня не насиловать собрался!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Заблудился однажды вояка в зоне. Ну, значит, бродит туда-сюда и орёт. Люди! Кто-нибудь! Помогите! А в кустах сталкер сидит и тихо прётся. Ну да, ну да. Значит, на блокпосту по три шкуры драть? Так уроды и сволочи. А как залез в жопу, так сразу «Люди, помогите!».</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Допрашивает как-то майор на блокпосту матерого такого столкерюгу. Значит, вы признаёте, что в нетрезвом виде пытались покинуть территорию зоны и имели при себе предметы, запрещенные к выносу за её пределы? Ну, а того, значит, запарил третий час под конвоем сидеть. Он как брякнет. Так ёп... Признаю, командир, был пьяный. А был бы трезвый, в жизни мимо вас, долбодятлов, с хабаром не попёрся бы!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Стоит, значит, бывалый сталкер у перекрёстка и указатели читает. Направо аномалии и чуток хабара. Вперёд монстров немерено и средне хабара. Налево кабаки, девки и хабора дофигища. Ну, он подумал-подумал и вперёд двинулся. Думает, что-то я про это слыхал, да забыл, блин. Надо будет на баре у мужиков спросить, что за фигня такая стрёмная. Кабаки и девки.</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Заблудился как-то вояка в зоне. Идёт, значит, куда глаза глядят, и кричит, Люди! Отзовитесь кто-нибудь! Ау! Тут его кто-то догоняет и хлоп сзади по рюкзаку. Он оборачивается, а там, оп-па, кровосос стоит и хлюпает ему, значит, чего орёшь, а? Ну, Салабон уже в штаны, понятное дело, наложил, но всё-таки отвечает. Я это... Того... Заплутал. Кричу вот. Может кто-нибудь услышит? Кровосос, значит, всеми своими щупальцами облизался и говорит довольно так. Ну, я вот услышал. И чего теперь делать будем?</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Поймали наемники сталкера. Подошли к колодцу, окунули его головой вниз по пояс. Через минуту достают и спрашивают. «Артефакты, бабло есть?» Он им «Нету». Опускает его еще раз, достали, спрашивают. «Артефакты, бабло есть?» «Да нету». Опять окунули и опять спрашивают. «Артефакты, бабло есть?» Ну, тот и не выдержал. «Блин, вы или опускайте глубже, или держите дольше. Дно мутное, ни хрена не видно».</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>Возвращается опытный сталкер к своему джипу Тут раз, рядом контролер ошивается сталкер ему, пошел вон отсюда, пока цел контролер обиделся, ну, ты сдурел что ли? Нужна мне твоя развалюха сто лет. А сталкер свое гнет, я сказал, вали. Угнать, скажем, не угонишь А вот нацарапать какую-то похобень с тебя встанет!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_8">
-        <text>TEXT</text>
+        <text>В хлам пьяный сталкер в три часа ночи возвращается домой. Ну, а жена, значит, со сковородкой поджидает. Сталкер на карачках полз в квартиру, достал гайку, метнул в сторону туалета, повтыкал, пополз туда. Жена это дело молча так наблюдает. Сталкер проблевался, выполз из туалета, достал гайку, метнул в сторону спальни, повтыкал, пополз. Тут жена его со всей дури сковородкой по голове хрясь... Сталкер раз, отрубился, потом в сознание пришел, карту достал, место новой аномалии отмечает и бормочет. Вот это фортануло так фортануло!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_jokes_joke_9">
-        <text>TEXT</text>
+        <text>Пробираются, значит, по улицам Припяти двое сталкеров. Один опытный, другой новичок. Ну, новичок постоянно сверяется с картой. Бывалый только ухмыляется. Тут на одном из перекрёстков бывалый как хлопнет себя по лбу, вырвал у новичка карту, глянул. Точно! А ну, салага, давай вон к тому дому проберёмся! Пробрались. Бывалый: теперь давай в этот породняк. Зашли, поднялись по лестнице. Бывалый говорит, стоп, ломай эту дверь. Новичок с разбегу выносит дверь. Бывалый: давай в кухню, ломай вытяжку. Новичок, значит, пытается отодрать решетку от стены. Пыхтит и спрашивает так с уважением. Слышь, а что хоть за артефакт такой, что сам не смог унести? А бывалый ему, какой нахрен артефакт? Я до аварии в этой квартире жил, а в вентиляции водку от жены прятал. Давай ломай быстрее!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_use_abuse_1">
-        <text>TEXT</text>
+        <text>Так меня достать!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_use_abuse_2">
-        <text>TEXT</text>
+        <text>Задолбал уже! Понял?!</text>
     </string>
     <string id="characters_voice_human_02_csky_talk_use_abuse_3">
-        <text>TEXT</text>
+        <text>Пошёл ты!</text>
     </string>
 
 
     <string id="characters_voice_human_02_csky_threat_back_off_backoff_1">
-        <text>TEXT</text>
+        <text>Отойди-ка отсюда подальше, мужик.</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_back_off_backoff_2">
-        <text>TEXT</text>
+        <text>Сваливай отсюда, хлопец, ясно?</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_back_off_backoff_3">
-        <text>TEXT</text>
+        <text>Не стой тут, уходи.</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_back_off_backoff_4">
-        <text>TEXT</text>
+        <text>Давай, отваливай по-хорошему, лады?</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_back_off_backoff_5">
-        <text>TEXT</text>
+        <text>Торчат тут всякие... Проходи-проходи давай!</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_back_off_backoff_6">
-        <text>TEXT</text>
+        <text>Шёл бы ты отсюда прямо сейчас, а?!</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
+        <text>Оружие убрал!</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
+        <text>Оружие опусти, мужик!</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
+        <text>Не балуй, оружие спрячь!</text>
     </string>
     <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_dolg_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_reactions_box_box_4">
-        <text>TEXT</text>
+        <text>Мужик, ты оружие-то спрячь.</text>
     </string>
 
 
@@ -2534,20 +2454,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_freedom_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_reactions_box_box_4">
         <text>TEXT</text>
     </string>
 
@@ -3330,15 +3236,6 @@
     </string>
 
 
-    <string id="characters_voice_human_02_stalker_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_human_02_stalker_reactions_joke_reaction_joke_3">
         <text>TEXT</text>
     </string>
@@ -4038,437 +3935,419 @@
 
 
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_1">
-        <text>TEXT</text>
+        <text>Зашибём!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_10">
-        <text>TEXT</text>
+        <text>Держи от меня!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_11">
-        <text>TEXT</text>
+        <text>На! Хватай!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_2">
-        <text>TEXT</text>
+        <text>Ух, мать вашу!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_3">
-        <text>TEXT</text>
+        <text>Кончай гадов!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_4">
-        <text>TEXT</text>
+        <text>Выноси сволочей!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_5">
-        <text>TEXT</text>
+        <text>Бей ублюдков!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_6">
-        <text>TEXT</text>
+        <text>Кладём их всех!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_7">
-        <text>TEXT</text>
+        <text>Получи, гад!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_8">
-        <text>TEXT</text>
+        <text>На! Жри!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_attack_script_attack_9">
-        <text>TEXT</text>
+        <text>На! Получай!</text>
     </string>
 
 
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_relax_1">
-        <text>TEXT</text>
+        <text>Вроде тихо всё.</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_relax_2">
-        <text>TEXT</text>
+        <text>Похоже всех завалили!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_relax_3">
-        <text>TEXT</text>
+        <text>Все, отбой!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_wait_1">
-        <text>TEXT</text>
+        <text>Не высовываться!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_wait_2">
-        <text>TEXT</text>
+        <text>Смотреть в оба!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_wait_3">
-        <text>TEXT</text>
+        <text>Так! Сидим, ждем!</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_wait_4">
-        <text>TEXT</text>
+        <text>Где же вы гады лазите?</text>
     </string>
     <string id="characters_voice_human_03_csky_fight_post_combat_wait_wait_5">
-        <text>TEXT</text>
+        <text>Держать оборону!</text>
     </string>
 
 
-    <string id="characters_voice_human_03_csky_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_csky_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_csky_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_csky_reactions_box_box_4">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_human_03_csky_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>Блин, так не смешно же!</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>А поновее ничего нет?</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Мастер!</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Молодец!</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Вот это как мёдом помазал!</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>И здорово же у тебя выходит!</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Кончай уже, рихтер.</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Всё, завязывай.</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_csky_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
     <string id="characters_voice_human_03_csky_states_idle_idle_1">
-        <text>TEXT</text>
+        <text>И никого на горизонте. Вот и ладушки, вот и хорошо.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_10">
-        <text>TEXT</text>
+        <text>Вот дерьмо-то. День коту под хвост катится. Ни хабара, никакого приварка!</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_11">
-        <text>TEXT</text>
+        <text>Позбивались тут в стаи. Ну, точно звери по цвету шкуры. одни как разбойничали, так и разбойничают. Другие то ли нас от Зоны, то ли Зону от нас охраняют. Солдаты, блин, тоже. Человека им шлепнуть, что высморкаться.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_12">
-        <text>TEXT</text>
+        <text>Пожрать бы чего хорошего. Так ведь нету.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_13">
-        <text>TEXT</text>
+        <text>Да, настроение хуже не бывает. И гнусь кругом сплошная.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_14">
-        <text>TEXT</text>
+        <text>Эх, не тот уже хабар пошёл, не тот. Неужто завязывать пора?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_15">
-        <text>TEXT</text>
+        <text>Хм-хм-хм, да. Вот ведь как грустно все выходит.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_16">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_17">
-        <text>TEXT</text>
+        <text>Судьба... Нет, от судьбы точно никуда не скроешься. Что на роду написано, так оно и будет.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_18">
-        <text>TEXT</text>
+        <text>Новичков нынче, как собак нерезаных. И все они лучше стариков знают.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_19">
-        <text>TEXT</text>
+        <text>*Напевает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_2">
-        <text>TEXT</text>
+        <text>Ох, неохота мне за хабаром сегодня плестись. Сейчас бы дома оказаться, в гамачке да с книжкой толковой.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_20">
-        <text>TEXT</text>
+        <text>Не учатся ничему некоторые. И учиться, блин, не хотят. Кино американского насмотрелись или крышу срывает от жадности. Ты ему про аномалии, он тебе про хабар. Ни о чем думать не хотят, кроме бабок. Пока кишки по веткам не разбросает.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_21">
-        <text>TEXT</text>
+        <text>Как бы я солдат этих конченых... Второй раз весь прибыток за месяц отобрали. Скоты. На что вообще жить, если такие расклады пошли? Сидят, блин, на своих долбанных блокпостах. И на нашем горбу в рай въезжают.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_22">
-        <text>TEXT</text>
+        <text>Ах, вот если б всегда такая пруха была. Это если прикинуть... Так, ага, точно. Три-четыре таких похода, как вчера. Да если б еще хабар не хуже. И все. Завязываю с Зоной нахрен.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_23">
-        <text>TEXT</text>
+        <text>*Напевает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_24">
-        <text>TEXT</text>
+        <text>Хух, блин.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_25">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_26">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_27">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_28">
-        <text>TEXT</text>
+        <text>М-да...</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_29">
-        <text>TEXT</text>
+        <text>М-да...</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_3">
-        <text>TEXT</text>
+        <text>А все-таки накоплю я на свой домик, чтобы у речки и чтобы лес рядом. И ни радиации тебе, ни тварей, ни сволочей разных.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_30">
-        <text>TEXT</text>
+        <text>Кхм.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_31">
-        <text>TEXT</text>
+        <text>Хух, блин.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_32">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_33">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_34">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_35">
-        <text>TEXT</text>
+        <text>М-да...</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_36">
-        <text>TEXT</text>
+        <text>М-да...</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_37">
-        <text>TEXT</text>
+        <text>Кхм.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_4">
-        <text>TEXT</text>
+        <text>Пить как охота. Эх, квасу б сейчас холодного. Да чтоб в нос шибал.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_5">
-        <text>TEXT</text>
+        <text>Эх, кусок бы мяса такой здоровый, чтоб прям с вертела. Скворчащий, сочный.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_6">
-        <text>TEXT</text>
+        <text>Концентраты, блин, сплошные. А дома-то как было? Придешь вечером, а баба домашнего на стол, горячего, эх.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_7">
-        <text>TEXT</text>
+        <text>А колбасу и батоны нынче хреновые делать стали.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_8">
-        <text>TEXT</text>
+        <text>Ничего, ничего, нормалек, прорвемся. Не зря же я тут вон сколько небо копчу. И я, и друганы мои, прорвемся.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_idle_idle_9">
-        <text>TEXT</text>
+        <text>Опять сапожища хреновые подсунули. Что у них совести совсем нет у этих? За неделю подошве гаплык.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Чего тебе, сталкер?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Тебе нужно что, сталкер?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Я тебя слушаю.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>М-да, кого только в Зону не заносит...</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Не хочешь - как хочешь.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Ух ты, беда... Говорить, наверное, не умеем?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Говори уже. Что хотел?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Давай выкладывай скорее.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>У тебя ко мне дело есть или как?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Что молчишь-то?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Чего ждёшь?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Чего тебе?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Что-то хотел?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Тебе чего надо-то?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Не в себе что ли?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Ох и зануда... Ни слова не сказал.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>Вот блин, ещё одно немое палено.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Сколько мне ещё ждать?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Эй, ты, заснул что ли?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Эй, проснись!</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Мужик, не тормози!</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Что хотел-то?</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Опусти пушку, потом поговорим.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Убери ствол, если говорить охота.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Оружие убери сперва!</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Валыну спрячь!</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Убери оружие.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Ствол убери.</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Ствол на плечо!</text>
     </string>
     <string id="characters_voice_human_03_csky_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Давай-ка без шуток. Прячь оружие.</text>
     </string>
 
 
     <string id="characters_voice_human_03_csky_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Вот анекдот...</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Вспомнил вот...</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Внимание! Анекдот...</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Вот такое знает кто?</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Чего заскучали, мужики?</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Вот послушайте, мужики.</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>А вот такое вам как?</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Всё! Музыкальная пауза.</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Идёт, значится, молодой сталкер по зоне. Тут бац, рощица. И не маленькая, а на карте её нету. Ну, зелёный туда-сюда, как быть. И соваться стрёмно, и как лучше обходить, неизвестно. Тут глянь, мужик какой-то неподалёку маячит. И ни на долговца, ни на наёмника не похож. Обрадовался, значит, молодой к нему. Так, мол, и так, а не подскажете, как бы мне рощу вот эту вот обойти? Тот и говорит. Мне тоже в ту сторону, пошли вместе. Идут себе хорошо, спокойно идут. Молодому скучно стало, он и начинает подлизываться. Вот, значит, здорово, как быть тертым сталкером. Не шугаться от каждого шороха, оружия не таскать много. У мужика того и правда ствола видно не было. Ну, тот, стало быть, начинает ржать. Да кого тут вообще бояться? Как кого удивляется молодой? Ну, это, монстров, контролёры одни чего стоят. Мужик так помолчал и говорит обиженно. Дурак ты. Если б сказал зомби или кровосос, но нас-то, контролёров, за что монстрами обзывать?</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Посадил сталкер псевдорепку. Выросла псевдорепка большая-пребольшая. Взял сталкер гранатомет и пошел ее добывать. И все бы у него наверняка получилось, если бы псевдожучки и псевдомышки не набежали.</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Попал как-то раз сталкер на экскурсию в ад. Ему черт показывает муки, которые грешники терпят. Кипящая смола, плетки, раскаленные угли, огонь кругом, вопли, серой воняет. Сталкер посмотрел на все это и говорит чертям. Ну что, чуваки, тепло у вас тут сухо, да и развлечений побольше, чем у нас на болотах. Так что я, пожалуй, тут пока останусь.</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_12">
-        <text>TEXT</text>
+        <text>Как-то раз сидим мы с мужиками в засаде. К вечеру ветер поднялся, посвистывает, завывает, холодно, трясёмся все, а пустой живот бурчит, что твоя тёща. И тут кто-то меня за плечо осторожненько так трогает. Я оборачиваюсь, а там кровосос. Ну да я не растерялся, как заору, как прыгну на него и давай ему глаза замазывать. Спрашиваете, чем кровососу глаза замазать можно? Как увидите кровососа в двух шагах, узнаете чем. Само найдется.</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Появился, значит, в зоне черный сталкер. К лагерю ночью повалялся приходить, и там сует руку в палатку и говорит... Водички... Попить! А если не дашь хлебнуть из фляжки или наружу полезешь, пришибет. Раз мужик один решил пошутить, вылез тихо из палатки, надел кожаную перчатку и полез к соседям в палатку. Полез, значит, и попрошайничает жалостно: водички, водички попить. А тут из палатки навстречу ему высовывается рука и за горло его цап! И такой сиплый голосок отзывается тихонько. А тебе моя водичка зачем нужна?!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Как-то поймали наемники сталкера. Подошли к колодцу, окунули его головой вниз по пояс. Через минуту достают и спрашивают. «Артефакты, бабло есть?» Он им «Нету». Опускает его еще раз, достали, спрашивают. «Артефакты, бабло есть?» «Да нету». Опять окунули и опять спрашивают. «Артефакты, бабло есть?» Ну, тот и не выдержал. «Блин, вы или опускайте глубже, или держите дольше. Дно мутное, ни хрена не видно».</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Возвращается опытный сталкер к своему джипу Тут раз, рядом контролер ошивается сталкер ему, пошел вон отсюда, пока цел контролер обиделся, ну, ты сдурел что ли? Нужна мне твоя развалюха сто лет. А сталкер свое гнет, я сказал, вали. Угнать, скажем, не угонишь А вот нацарапать какую-то похобень с тебя встанет!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Старый и молодой долговцы идут по зоне. Вдруг старый останавливается и шепотом говорит молодому. Тихонько иди вон к тому дереву. Головастик на цыпочках пополз, аж вспотел. Дошел и руками показывает, мол, дальше-то что делать? А бывалый как завопит радостно. Во, я же говорил, брешут, брешут, что тут аномалии!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Как-то столкнулись в подземельях Агропрома кровосос и контролер. Кровосос: Ну ты меня и напугал, чудовище! Контролер: ты на себя посмотри. Тоже мне принц прекрасный!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>Идет новичок по зоне. Замечтался, Овраг не заметил, и как покатится под откос. А внизу "мясорубка". Ну, сталкер думает, все, прощай, мама. И тут его кто-то, цоп! Смотрит. Это зомби его схватил и тянет теперь куда-то. Сталкер его и спрашивает. Зомби, это... Спасибо, что от "мясорубки" спас. А куда ты меня тащишь? А зомби ему... Контролер свежее мясо любит, фарш не любит. А еде разговаривать нельзя.</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_8">
-        <text>TEXT</text>
+        <text>Ушёл на покой старый сталкер, сидит себе у камина с ручной собачкой и читает. В греческой и римской мифологии Цербер - чудовищный трёхглавый пёс со змеиным хвостом, охраняющий вход в подземное царство. Тут пёс гав, сталкер всполошился, за стволом сразу полез, а кругом всё тихо. Он к собаке, ты чего, дружок? А тот, гав-гав-говно ваша мифология!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_jokes_joke_9">
-        <text>TEXT</text>
+        <text>Заходит сталкер в бар. Бармен, дай чего-нибудь пожрать. Бармен, значит, начинает. Ну вот, сегодня есть глаз плоти в томатном соусе, жареные лапки снорков в томатном соусе, из рыбного щупальца кровососа в томатном соусе. Сталкера аж перекосило. Ты, говорит, чего это вздумал? Людей травить? Бармена тоже перекосило. Кто?! Кричит. Я?! А сталкер. А что, я?! С грибным соусом давай! Какой нафиг томат?!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_use_abuse_1">
-        <text>TEXT</text>
+        <text>Заманал! Понял?!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_use_abuse_2">
-        <text>TEXT</text>
+        <text>Пошёл ты!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_use_abuse_3">
-        <text>TEXT</text>
+        <text>Достал ты меня!</text>
     </string>
     <string id="characters_voice_human_03_csky_talk_use_abuse_4">
-        <text>TEXT</text>
+        <text>Так меня достать!</text>
     </string>
 
 
     <string id="characters_voice_human_03_csky_threat_back_off_backoff_1">
-        <text>TEXT</text>
+        <text>Отойди-ка отсюда подальше, мужик.</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_back_off_backoff_2">
-        <text>TEXT</text>
+        <text>Сваливай отсюда, хлопец, ясно?</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_back_off_backoff_3">
-        <text>TEXT</text>
+        <text>Не стой тут, уходи.</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_back_off_backoff_4">
-        <text>TEXT</text>
+        <text>Давай, отваливай по-хорошему, лады?</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_back_off_backoff_5">
-        <text>TEXT</text>
+        <text>Торчат тут всякие... Проходи-проходи давай!</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_back_off_backoff_6">
-        <text>TEXT</text>
+        <text>Шёл бы ты отсюда прямо сейчас, а?!</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
+        <text>Оружие убрал!</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
+        <text>Оружие опусти, мужик!</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
+        <text>Не балуй, оружие спрячь!</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
+        <text>Мужик, ты оружие-то спрячь.</text>
     </string>
     <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
+        <text>Стволом-то не размахивай! За спину его убери!</text>
     </string>
 
 
@@ -4545,18 +4424,6 @@
     </string>
 
 
-    <string id="characters_voice_human_03_dolg_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_box_box_4">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_1">
         <text>TEXT</text>
     </string>
@@ -4960,20 +4827,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_freedom_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_reactions_box_box_4">
         <text>TEXT</text>
     </string>
 
@@ -5713,20 +5566,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_03_monolith_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_stalker_reactions_box_box_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_reactions_box_box_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_reactions_box_box_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_reactions_box_box_4">
         <text>TEXT</text>
     </string>
 

@@ -4380,6 +4380,9 @@
     <string id="characters_voice_human_02_military_talk_jokes_joke_9">
         <text>Говорит как-то генерал рядовому. Я так вижу, рядовой, ты что-то охрененно умный? Тот такой: Кто? Я? Ну так не я же.</text>
     </string>
+    <string id="characters_voice_human_02_stalker_fight_attack_script_attack_1">
+        <text>Зашибём!</text>
+    </string>
     <string id="characters_voice_human_02_stalker_fight_attack_script_attack_10">
         <text>Держи от меня!</text>
     </string>
