@@ -1,169 +1,131 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Балабонь быстрее. Что надо?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Что нового, э?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Типа я слушаю.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Ну ты загадочный.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Слышишь ты, ошибка природы, нет базара - моргалы не мозоль. Ты понял нет?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Давай так: как прокурор нарисуется, я тебя позову с ним помолчать. Угу?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ну за что перетереть хотел?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Ты язык в жопе потерял?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Ты что, боклан, дефективный?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Слышишь, может ты дебил?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Ёханый бабай, ну терпеть не могу отмороженных.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Ну типа привет.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Что ты зеньки вылупил? Ну что надо?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Что? Ну что ты тут мельтешишь?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Вот мудак, в натуре.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Не, я первый раз такого конченого вижу.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>М-да, чтоб тебе девки так давали, как ты базаришь, олень.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Ты терпение моё испытываешь?!</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Рамсы попутал или что? Базарь уже давай.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Слышишь, ты в натуре меня уже напрягать начинаешь.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Слушай, я нервный, что ты тут из себя рыбу корчишь?</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Тебе надо что? Или не надо? Тогда вали нах!</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Ты валыной не свети, нехрен!</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Со стволом в лапах какой базар? Убери нах!</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Волыну заныкай, тогда и побазарим.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Слышишь ты, тушкан, ты запарил уже стволом размахивать.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Заныкал волыну, быренько.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Ты что охлял, на? Пушку нафиг!</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Или пушку нах, или сам вали.</text>
     </string>
     <string id="characters_voice_human_01_bandit_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Что, крутой, да? Убери волыну.</text>
     </string>
 
 
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_1">
+        <text>Подходит пацан к барыге. Типа, гранату за пятерку надо? Че, блин, ну ты гонишь. Давай. На, держи. А он за кольцо, гони две сотни. </text>
+    </string>
     <string id="characters_voice_human_01_bandit_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Едут, короче, на бэхе по Зоне реальные пацаны. Ну, значит, типа остановились отлить, только зажурчали, тут бах, из темноты кровосос такой выскакивает и орёт. Засосу! Пацаны так переглянулись спокойно, говорят, спасибо, конечно, братан, но мы только с окружной.</text>
     </string>
     <string id="characters_voice_human_01_bandit_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Встречаются, короче, три сталкера на свалке. У одного глаз выбит в натуре, у другого рожа вся так конкретно в шрамах, а у третьего пальца на ногах вообще нет. Ну, типа, стали спрашивать, у кого откуда такая красота. Первый на глаз показывает и говорит, «Это я пацанам хабар зажилил, пришлось отстреливаться». Ну, все так, типа, уважительно кивают, нормально. Второй на рожу свою тычет. Это я, типа, на стаю псевдособак нарвался. Все так, уважуха, нормально, респект. Смотрят на третьего, а тот, типа, растерялся так и молчит. Слышишь, кореш, а у тебя что с ногой случилось? Спрашивают. Да, говорит, у пацанов пахал в лагере, так трусы себе свинцовые надел, чтобы импотентом от радиации не стать. Ну, надел и что? Резинка лопнула.</text>
     </string>
-    <string id="characters_voice_human_01_bandit_talk_use_abuse_1">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_2">
+        <text>К Бодяну, когда он ещё малолетка был, типа фея подвалила. Ну и гутарит, я либо мозги дам по жизни, вообще чумовые, и память такую, мля, как у ботана в натуре, либо ты будешь правильным пацаном при делах. Ну я его типа спрашиваю, ну чё? А он мне, ну чё-чё, а я не помню чё.</text>
     </string>
-    <string id="characters_voice_human_01_bandit_talk_use_abuse_2">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_3">
+        <text>Значит, стоит, типа, сталкер у перекрёстка в Зоне и в натуре указатели читает, так будто он читать умеет, хе-хе. Направо, значит, типа, аномалии. Вперёд - монстры. Налево кабаки и девки. Ну чё, повалился вперёд, прикидывая дальше. Не кокнут? Надо, типа, у бугров будет спросить, чё за ужасы такие новые, вообще непонятные. Кабаки и девки.</text>
     </string>
-    <string id="characters_voice_human_01_bandit_talk_use_abuse_3">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_4">
+        <text>Идут в натуре двое сталкеров через лес. Старый молодому тут внезапно гутарит. Типа, давай чеши медленно вон к тому дереву. Ну, молодой почалапал. Встал, спрашивает, чё дальше? А второй тихо так по ходу спрашивает. У тебя там всё пучком или как? Ну, типа пучко. А! Зашибись! Так я и знал, что гнали про эту аномалию!</text>
     </string>
-
-
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_1">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_5">
+        <text>Значит, поцеловались конкретно в Зоне две точидлы. Из одной сталкеры вывалили, из другой. Короче, пошли тут терки, разборки, махалово конкретное. А контролер на нычке сидит и лыбу давит. О, зашибись! Сейчас поляна накроется, не стыдно и братанов, чисто, на хазу позвать.</text>
     </string>
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_2">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_6">
+        <text>Подъезжают к бару конкретно два сталкера. Один на распальцованной Тойоте, весь при понтах на цирлах. Другой на такой говёной Ниве расфигаченной. Ну, крутой выходит из тачки и видит, второй пять минут дверь захлопнуть не может. Ну, тот постоял рядом, посмотрел, говорит, кореш, ну, чё ты паришься? Чё стремаешься? Кого? Да тут вообще всегда спокойно. Я вон тачилу свою, и то не закрываю. А мужик ему, да я, типа, тоже не закрывал. Так вчера бюреры на сидуху насрали.</text>
     </string>
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_3">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_7">
+        <text>Значит, решил контролер конкретно слепого пса намострячить на задних лапах топать. А зомбяра рядом сидит и, короче, прикалывается. Типа, ты завязывай, все равно хрен у тебя что выйдет. А контролер ему, закрой хлебало, ты сталкер долбанный, тоже походу не особо слушался.</text>
     </string>
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_4">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_8">
+        <text>Идут три сталкера и типа понтуются, кто из них круче. Первый, значит, говорит «Я крутой, я трех бандюков завалил». А второй «Не, братан, я сто пудов круче, я десятерых замочил». А третий «Да ну вы, лохи конкретные, я их сотню положил». И тут, слышишь, смотрят, идет пацанчик такой усталый, в кожанке такой потертой, что-то насвистывает, типа Владимирский Централ. Сталкеры, опа, выпали на измену и по кустам заныкались. Но пацанчик их не заметил, чисто пошел дальше. А они, значит, сидят, и типа один говорит, «Слышите, пацаны, а что это за бздло?» Второй, «Не, ну в натуре бздло, что за дела?» А третий, «Чего вы на меня фару вылупили? Это я от ненависти!</text>
     </string>
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_5">
-        <text>TEXT</text>
+    <string id="characters_voice_human_01_bandit_talk_jokes_joke_9">
+        <text>Встречаются два пацана в Зоне. Один другому говорит, клёвая у тебя шапка, крыса? А тот ему в бошку, ебо! За крысу, сука, ответил!</text>
     </string>
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_bandit_threat_drop_weapon_dropweapon_9">
-        <text>TEXT</text>
-    </string>
-
+    
 
     <string id="characters_voice_human_01_csky_fight_attack_script_attack_1">
         <text>Зашибём!</text>
@@ -548,50 +510,6 @@
     <string id="characters_voice_human_01_csky_talk_jokes_joke_9">
         <text>Заходит сталкер в бар. Бармен, дай чего-нибудь пожрать. Бармен, значит, начинает. Ну вот, сегодня есть глаз плоти в томатном соусе, жареные лапки снорков в томатном соусе, из рыбного щупальца кровососа в томатном соусе. Сталкера аж перекосило. Ты, говорит, чего это вздумал? Людей травить? Бармена тоже перекосило. Кто?! Кричит. Я?! А сталкер. А что, я?! С грибным соусом давай! Какой нафиг томат?!</text>
     </string>
-    <string id="characters_voice_human_01_csky_talk_use_abuse_1">
-        <text>Заманал! Понял?!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_talk_use_abuse_2">
-        <text>Пошёл ты!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_talk_use_abuse_3">
-        <text>Достал ты меня!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_talk_use_abuse_4">
-        <text>Так меня достать!</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_csky_threat_back_off_backoff_1">
-        <text>Отойди-ка отсюда подальше, мужик.</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_back_off_backoff_2">
-        <text>Сваливай отсюда, хлопец, ясно?</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_back_off_backoff_3">
-        <text>Не стой тут, уходи.</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_back_off_backoff_4">
-        <text>Давай, отваливай по-хорошему, лады?</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_back_off_backoff_5">
-        <text>Торчат тут всякие... Проходи-проходи давай!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_back_off_backoff_6">
-        <text>Шёл бы ты отсюда прямо сейчас, а?!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_1">
-        <text>Оружие убрал!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_2">
-        <text>Оружие опусти, мужик!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_3">
-        <text>Не балуй, оружие спрячь!</text>
-    </string>
-    <string id="characters_voice_human_01_csky_threat_drop_weapon_dropweapon_4">
-        <text>Мужик, ты оружие-то спрячь.</text>
-    </string>
 
 
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_start_1">
@@ -696,59 +614,6 @@
     <string id="characters_voice_human_01_dolg_talk_jokes_joke_14">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_01_dolg_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_dolg_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_dolg_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
 
 
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_start_1">
@@ -839,59 +704,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_talk_use_abuse_4">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_freedom_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_freedom_threat_drop_weapon_dropweapon_7">
         <text>TEXT</text>
     </string>
 
@@ -1164,71 +976,6 @@
     <string id="characters_voice_human_01_killer_talk_jokes_joke_7">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_01_killer_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_threat_drop_weapon_dropweapon_9">
-        <text>TEXT</text>
-    </string>
 
 
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_2">
@@ -1311,73 +1058,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_01_military_talk_intros_intro_music_6">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_military_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_military_threat_drop_weapon_dropweapon_9">
         <text>TEXT</text>
     </string>
 
@@ -1486,48 +1166,7 @@
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_9">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_01_monolith_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_01_monolith_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_monolith_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-
+    
 
     <string id="characters_voice_human_01_stalker_states_meet_meet_comander_start_1">
         <text>TEXT</text>
@@ -1620,41 +1259,6 @@
         <text>TEXT</text>
     </string>
 
-    <string id="characters_voice_human_01_stalker_talk_use_abuse_4">
-        <text>TEXT</text>
-    </string>
-
-    <string id="characters_voice_human_01_stalker_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_stalker_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-
 
     <string id="characters_voice_human_01_zombied_states_rising_rising_1">
         <text>TEXT</text>
@@ -1677,159 +1281,128 @@
 
 
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Балабонь быстрее. Что надо?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Что нового, э?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Типа я слушаю.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Ну ты загадочный.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Слышишь ты, ошибка природы, нет базара - гляделки не мозоль. Понял нет?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Давай так: как прокурор нарисуется, я тебя позову с ним помолчать. Угу?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ну за что перетереть хотел?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Ты язык в жопе потерял?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Ты что, боклан, дефективный?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Слышишь, может ты дебил?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Ёханый бабай, ну терпеть не могу отмороженных.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Ну типа привет.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Что ты фары вылупил? Что надо?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Что? Ну что ты тут мельтешишь?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Вот мудак, в натуре.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Не, я первый раз такого ушлёпка вижу.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>Чтоб тебе девки так давали, как ты базаришь, олень!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Ты терпение моё испытываешь?!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Ты рамсы попутал или что? Базарь уже давай!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Слышишь, ты в натуре меня напрягать начинаешь.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Слушай, я нервный, что ты тут из себя рыбу корчишь?</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Тебе надо что? Или не надо? Тогда вали нах!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Ты валыной не свети, нехрен!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Со стволом в лапах какой базар? Убери нах!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Волыну заныкай, тогда и побазарим.</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Слышишь ты, тушканчик, ты запарил уже стволом размахивать!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Заныкал волыну, быро!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Ты что охлял, на? Пушку нафиг!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Или пушку нах, или сам вали!</text>
     </string>
     <string id="characters_voice_human_02_bandit_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Что, крутой, да? Убери волыну.</text>
+    </string>
+    
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_1">
+        <text>Подходит пацан к барыге. Типа, гранату за пятерку надо? Че, блин, ну ты гонишь. Давай. На, держи. А он за кольцо, гони две сотни. </text>
     </string>
     <string id="characters_voice_human_02_bandit_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Едут, короче, на бэхе по Зоне реальные пацаны. Ну, значит, типа остановились отлить, только зажурчали, тут бах, из темноты кровосос такой выскакивает и орёт. Засосу! Пацаны так переглянулись спокойно, говорят, спасибо, конечно, братан, но мы только с окружной.</text>
     </string>
     <string id="characters_voice_human_02_bandit_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Встречаются, короче, три сталкера на свалке. У одного глаз выбит в натуре, у другого рожа вся так конкретно в шрамах, а у третьего пальца на ногах вообще нет. Ну, типа, стали спрашивать, у кого откуда такая красота. Первый на глаз показывает и говорит, «Это я пацанам хабар зажилил, пришлось отстреливаться». Ну, все так, типа, уважительно кивают, нормально. Второй на рожу свою тычет. Это я, типа, на стаю псевдособак нарвался. Все так, уважуха, нормально, респект. Смотрят на третьего, а тот, типа, растерялся так и молчит. Слышишь, кореш, а у тебя что с ногой случилось? Спрашивают. Да, говорит, у пацанов пахал в лагере, так трусы себе свинцовые надел, чтобы импотентом от радиации не стать. Ну, надел и что? Резинка лопнула.</text>
     </string>
-    <string id="characters_voice_human_02_bandit_talk_use_abuse_1">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_2">
+        <text>К Бодяну, когда он ещё малолетка был, типа фея подвалила. Ну и гутарит, я либо мозги дам по жизни, вообще чумовые, и память такую, мля, как у ботана в натуре, либо ты будешь правильным пацаном при делах. Ну я его типа спрашиваю, ну чё? А он мне, ну чё-чё, а я не помню чё.</text>
     </string>
-
-
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_1">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_3">
+        <text>Значит, стоит, типа, сталкер у перекрёстка в Зоне и в натуре указатели читает, так будто он читать умеет, хе-хе. Направо, значит, типа, аномалии. Вперёд - монстры. Налево кабаки и девки. Ну чё, повалился вперёд, прикидывая дальше. Не кокнут? Надо, типа, у бугров будет спросить, чё за ужасы такие новые, вообще непонятные. Кабаки и девки.</text>
     </string>
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_2">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_4">
+        <text>Идут в натуре двое сталкеров через лес. Старый молодому тут внезапно гутарит. Типа, давай чеши медленно вон к тому дереву. Ну, молодой почалапал. Встал, спрашивает, чё дальше? А второй тихо так по ходу спрашивает. У тебя там всё пучком или как? Ну, типа пучко. А! Зашибись! Так я и знал, что гнали про эту аномалию!</text>
     </string>
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_3">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_5">
+        <text>Значит, поцеловались конкретно в Зоне две точидлы. Из одной сталкеры вывалили, из другой. Короче, пошли тут терки, разборки, махалово конкретное. А контролер на нычке сидит и лыбу давит. О, зашибись! Сейчас поляна накроется, не стыдно и братанов, чисто, на хазу позвать.</text>
     </string>
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_4">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_6">
+        <text>Подъезжают к бару конкретно два сталкера. Один на распальцованной Тойоте, весь при понтах на цирлах. Другой на такой говёной Ниве расфигаченной. Ну, крутой выходит из тачки и видит, второй пять минут дверь захлопнуть не может. Ну, тот постоял рядом, посмотрел, говорит, кореш, ну, чё ты паришься? Чё стремаешься? Кого? Да тут вообще всегда спокойно. Я вон тачилу свою, и то не закрываю. А мужик ему, да я, типа, тоже не закрывал. Так вчера бюреры на сидуху насрали.</text>
     </string>
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_5">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_7">
+        <text>Значит, решил контролер конкретно слепого пса намострячить на задних лапах топать. А зомбяра рядом сидит и, короче, прикалывается. Типа, ты завязывай, все равно хрен у тебя что выйдет. А контролер ему, закрой хлебало, ты сталкер долбанный, тоже походу не особо слушался.</text>
     </string>
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_6">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_8">
+        <text>Идут три сталкера и типа понтуются, кто из них круче. Первый, значит, говорит «Я крутой, я трех бандюков завалил». А второй «Не, братан, я сто пудов круче, я десятерых замочил». А третий «Да ну вы, лохи конкретные, я их сотню положил». И тут, слышишь, смотрят, идет пацанчик такой усталый, в кожанке такой потертой, что-то насвистывает, типа Владимирский Централ. Сталкеры, опа, выпали на измену и по кустам заныкались. Но пацанчик их не заметил, чисто пошел дальше. А они, значит, сидят, и типа один говорит, «Слышите, пацаны, а что это за бздло?» Второй, «Не, ну в натуре бздло, что за дела?» А третий, «Чего вы на меня фару вылупили? Это я от ненависти!</text>
     </string>
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_bandit_threat_drop_weapon_dropweapon_9">
-        <text>TEXT</text>
+    <string id="characters_voice_human_02_bandit_talk_jokes_joke_9">
+        <text>Встречаются два пацана в Зоне. Один другому говорит, клёвая у тебя шапка, крыса? А тот ему в бошку, ебо! За крысу, сука, ответил!</text>
     </string>
 
 
@@ -2258,47 +1831,6 @@
     <string id="characters_voice_human_02_csky_talk_jokes_joke_9">
         <text>Пробираются, значит, по улицам Припяти двое сталкеров. Один опытный, другой новичок. Ну, новичок постоянно сверяется с картой. Бывалый только ухмыляется. Тут на одном из перекрёстков бывалый как хлопнет себя по лбу, вырвал у новичка карту, глянул. Точно! А ну, салага, давай вон к тому дому проберёмся! Пробрались. Бывалый: теперь давай в этот породняк. Зашли, поднялись по лестнице. Бывалый говорит, стоп, ломай эту дверь. Новичок с разбегу выносит дверь. Бывалый: давай в кухню, ломай вытяжку. Новичок, значит, пытается отодрать решетку от стены. Пыхтит и спрашивает так с уважением. Слышь, а что хоть за артефакт такой, что сам не смог унести? А бывалый ему, какой нахрен артефакт? Я до аварии в этой квартире жил, а в вентиляции водку от жены прятал. Давай ломай быстрее!</text>
     </string>
-    <string id="characters_voice_human_02_csky_talk_use_abuse_1">
-        <text>Так меня достать!</text>
-    </string>
-    <string id="characters_voice_human_02_csky_talk_use_abuse_2">
-        <text>Задолбал уже! Понял?!</text>
-    </string>
-    <string id="characters_voice_human_02_csky_talk_use_abuse_3">
-        <text>Пошёл ты!</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_csky_threat_back_off_backoff_1">
-        <text>Отойди-ка отсюда подальше, мужик.</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_back_off_backoff_2">
-        <text>Сваливай отсюда, хлопец, ясно?</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_back_off_backoff_3">
-        <text>Не стой тут, уходи.</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_back_off_backoff_4">
-        <text>Давай, отваливай по-хорошему, лады?</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_back_off_backoff_5">
-        <text>Торчат тут всякие... Проходи-проходи давай!</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_back_off_backoff_6">
-        <text>Шёл бы ты отсюда прямо сейчас, а?!</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_1">
-        <text>Оружие убрал!</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_2">
-        <text>Оружие опусти, мужик!</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_3">
-        <text>Не балуй, оружие спрячь!</text>
-    </string>
-    <string id="characters_voice_human_02_csky_threat_drop_weapon_dropweapon_4">
-        <text>Мужик, ты оружие-то спрячь.</text>
-    </string>
 
 
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_start_1">
@@ -2403,59 +1935,6 @@
     <string id="characters_voice_human_02_dolg_talk_jokes_joke_14">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_02_dolg_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_dolg_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_dolg_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
 
 
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_start_1">
@@ -2546,59 +2025,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_talk_use_abuse_4">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_freedom_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_freedom_threat_drop_weapon_dropweapon_7">
         <text>TEXT</text>
     </string>
 
@@ -2871,71 +2297,6 @@
     <string id="characters_voice_human_02_killer_talk_jokes_joke_7">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_02_killer_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_threat_drop_weapon_dropweapon_9">
-        <text>TEXT</text>
-    </string>
 
 
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_2">
@@ -3018,73 +2379,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_02_military_talk_intros_intro_music_6">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_military_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_military_threat_drop_weapon_dropweapon_9">
         <text>TEXT</text>
     </string>
 
@@ -3193,48 +2487,7 @@
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_9">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_02_monolith_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_02_monolith_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_monolith_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-
+    
 
     <string id="characters_voice_human_02_stalker_reactions_joke_reaction_joke_3">
         <text>TEXT</text>
@@ -3376,41 +2629,6 @@
     </string>
 
 
-    <string id="characters_voice_human_02_stalker_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_stalker_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-
-
     <string id="characters_voice_human_02_zombied_fight_attack_script_attack_1">
         <text>TEXT</text>
     </string>
@@ -3489,447 +2707,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_02_zombied_states_rising_rising_6">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_14">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_15">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_attack_script_attack_9">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_relax_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_relax_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_relax_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_wait_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_wait_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_wait_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_wait_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_fight_post_combat_wait_wait_5">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_bandit_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_music_reaction_music_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_music_reaction_music_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_music_reaction_music_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_music_reaction_music_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_music_reaction_music_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_music_reaction_music_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_music_reaction_music_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_story_laughter_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_story_laughter_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_story_laughter_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_story_laughter_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_story_laughter_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_story_laughter_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_reactions_story_laughter_7">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_bandit_states_idle_idle_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_14">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_15">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_16">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_17">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_18">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_19">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_20">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_21">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_22">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_23">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_24">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_25">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_26">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_27">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_28">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_29">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_30">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_31">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_32">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_idle_idle_9">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_start_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_start_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_start_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_joke_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_joke_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_joke_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_joke_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_joke_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_music_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_music_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_music_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_intros_intro_music_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_jokes_joke_9">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_bandit_threat_drop_weapon_dropweapon_9">
         <text>TEXT</text>
     </string>
 
@@ -4302,54 +3079,6 @@
     <string id="characters_voice_human_03_csky_talk_jokes_joke_9">
         <text>Заходит сталкер в бар. Бармен, дай чего-нибудь пожрать. Бармен, значит, начинает. Ну вот, сегодня есть глаз плоти в томатном соусе, жареные лапки снорков в томатном соусе, из рыбного щупальца кровососа в томатном соусе. Сталкера аж перекосило. Ты, говорит, чего это вздумал? Людей травить? Бармена тоже перекосило. Кто?! Кричит. Я?! А сталкер. А что, я?! С грибным соусом давай! Какой нафиг томат?!</text>
     </string>
-    <string id="characters_voice_human_03_csky_talk_use_abuse_1">
-        <text>Заманал! Понял?!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_talk_use_abuse_2">
-        <text>Пошёл ты!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_talk_use_abuse_3">
-        <text>Достал ты меня!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_talk_use_abuse_4">
-        <text>Так меня достать!</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_csky_threat_back_off_backoff_1">
-        <text>Отойди-ка отсюда подальше, мужик.</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_back_off_backoff_2">
-        <text>Сваливай отсюда, хлопец, ясно?</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_back_off_backoff_3">
-        <text>Не стой тут, уходи.</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_back_off_backoff_4">
-        <text>Давай, отваливай по-хорошему, лады?</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_back_off_backoff_5">
-        <text>Торчат тут всякие... Проходи-проходи давай!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_back_off_backoff_6">
-        <text>Шёл бы ты отсюда прямо сейчас, а?!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_1">
-        <text>Оружие убрал!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_2">
-        <text>Оружие опусти, мужик!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_3">
-        <text>Не балуй, оружие спрячь!</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_4">
-        <text>Мужик, ты оружие-то спрячь.</text>
-    </string>
-    <string id="characters_voice_human_03_csky_threat_drop_weapon_dropweapon_7">
-        <text>Стволом-то не размахивай! За спину его убери!</text>
-    </string>
-
 
     <string id="characters_voice_human_03_dolg_fight_attack_script_attack_1">
         <text>TEXT</text>
@@ -4776,59 +3505,6 @@
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_9">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_03_dolg_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_dolg_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
 
 
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_start_1">
@@ -4919,59 +3595,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_talk_use_abuse_4">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_freedom_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_freedom_threat_drop_weapon_dropweapon_7">
         <text>TEXT</text>
     </string>
 
@@ -5117,72 +3740,7 @@
     <string id="characters_voice_human_03_killer_talk_jokes_joke_7">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_03_killer_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_killer_threat_drop_weapon_dropweapon_9">
-        <text>TEXT</text>
-    </string>
-
+    
 
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_2">
         <text>TEXT</text>
@@ -5264,73 +3822,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_03_military_talk_intros_intro_music_6">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_military_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_back_off_backoff_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_military_threat_drop_weapon_dropweapon_9">
         <text>TEXT</text>
     </string>
 
@@ -5527,48 +4018,7 @@
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_9">
         <text>TEXT</text>
     </string>
-    <string id="characters_voice_human_03_monolith_talk_use_abuse_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_talk_use_abuse_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_talk_use_abuse_3">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_monolith_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_monolith_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-
+    
 
     <string id="characters_voice_human_03_stalker_states_meet_meet_comander_start_1">
         <text>TEXT</text>
@@ -5658,47 +4108,6 @@
         <text>TEXT</text>
     </string>
     <string id="characters_voice_human_03_stalker_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_stalker_threat_back_off_backoff_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_back_off_backoff_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_back_off_backoff_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_back_off_backoff_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_back_off_backoff_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_back_off_backoff_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_drop_weapon_dropweapon_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_drop_weapon_dropweapon_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_drop_weapon_dropweapon_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_drop_weapon_dropweapon_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_drop_weapon_dropweapon_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_drop_weapon_dropweapon_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_stalker_threat_drop_weapon_dropweapon_7">
         <text>TEXT</text>
     </string>
 
