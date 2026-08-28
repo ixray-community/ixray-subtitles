@@ -5022,6 +5022,81 @@
     <string id="characters_voice_human_01_zombied_states_idle_idle_9">
         <text>Болит... Не надо болеть... не надо.</text>
     </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_1">
+        <text>Ура-а-а!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_2">
+        <text>Ура-а-а!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_3">
+        <text>Ура-а-а!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_4">
+        <text>Мочи-и-и!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_5">
+        <text>Мочи-и-и!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_6">
+        <text>Краши-и-и!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_7">
+        <text>Бойцы-ы-ы, вперё-ё-д!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_fight_attack_script_attack_8">
+        <text>Краши-и-и!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_1">
+        <text>*Мычит*</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_10">
+        <text>*Мычит*</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_11">
+        <text>Зона! Зона, сука! Всё равно выберусь! всё равно!</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_12">
+        <text>*Мычит* Болит... болит, ай, болит... *Мычит*</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_13">
+        <text>Скоро весна-а-а-а... тепло-о-о-о... как до-о-о-ома...</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_14">
+        <text>Найти артефакты... найти артефакты... найти артефакты... Побольше...</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_15">
+        <text>А ночью как светится!.. эхе... эхе-хе... Красиво!.. как солнце... хе... хе-хе... только холодно!..</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_16">
+        <text>Ещё немного... и домой... эх... Вот только... найти дорогу... эх...</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_17">
+        <text>Любит... Не любит... Любит!.. Не любит...</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_2">
+        <text>*Мычит*</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_3">
+        <text>*Мычит*</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_4">
+        <text>Болит... болит, ай, болит...</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_5">
+        <text>Рит, а мы скоро вернемся... Не переживай, цветик, ладно?</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_6">
+        <text>*Мычит*</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_7">
+        <text>Доча, доченька, до-очь. Какая большая стала... Скоро папа вернётся...</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_8">
+        <text>Доченька... Какая большая стала... Скоро папа вернётся...</text>
+    </string>
+    <string id="characters_voice_human_02_zombied_states_idle_idle_9">
+        <text>Болит... Не надо болеть... не надо.</text>
+    </string>
     <string id="characters_voice_human_03_stalker_fight_attack_script_attack_1">
         <text>Зашибём!</text>
     </string>
