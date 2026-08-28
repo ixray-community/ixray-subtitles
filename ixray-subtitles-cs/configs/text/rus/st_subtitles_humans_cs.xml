@@ -978,89 +978,188 @@
     </string>
 
 
+    <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_1">
+        <text>Это старый.</text>
+    </string>
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Не смешно.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Я не понял.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
+        <text>Смысле?</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_5">
-        <text>TEXT</text>
+        <text>Да-да, помню.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_6">
-        <text>TEXT</text>
+        <text>...</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_7">
-        <text>TEXT</text>
+        <text>Ха. Ха.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_joke_reaction_joke_8">
-        <text>TEXT</text>
+        <text>М-да, смешно сказал.</text>
+    </string>
+    <string id="characters_voice_human_01_military_reactions_music_reaction_music_1">
+        <text>Душевно.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Ещё что-то можешь?</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Ничего так.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Прикольно.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Молодец.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Эх, спасибо.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Клёво сбацал.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_8">
-        <text>TEXT</text>
+        <text>Ничего так слабал.</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_music_reaction_music_9">
-        <text>TEXT</text>
+        <text>Не кисло.</text>
     </string>
 
 
     <string id="characters_voice_human_01_military_reactions_story_laughter_10">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_story_laughter_8">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_military_reactions_story_laughter_9">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
+    <string id="characters_voice_human_01_military_states_idle_idle_1">
+        <text>А интересное кино получается. Контракт на два года, так? Выслуга, премиальные, то-сё. Только не помню я никого, кто эти два года до упора... Ёп! Неужто вляпался?</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_10">
+        <text>Я так чувствую, спяток килограммов я уже тут того...</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_11">
+        <text>Дичи нормальной в этой долбанной Зоне нет ни хрена. Погано. Погано.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_12">
+        <text>Эх, мяска бы копченого сейчас.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_13">
+        <text>Навернуть сейчас бы гречки с тушёнкой... Да, это я бы на раз!</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_14">
+        <text>Эх, скукотища зеленая! Какое тут всё одинаково хреновое!</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_15">
+        <text>Что с ним делать, с этим пополнением, а? Нормальные люди больше в армию не идут? Одни придурки остались?</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_16">
+        <text>Умники, ёптыть! Страховка? Да на кой хрен у нас далась тебе эта страховка, когда и хранить не будет чего? Родичам, чтобы пробухали, да? Лучше бы на руки сразу выдавали.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_17">
+        <text>Аномалии, мать! Вот это самое страшное точно. Как того сталкера... Как его зажарило... А другого по деревьям раскидало. Кусками... Не дай бог. Лучше на пулю нарваться.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_18">
+        <text>Вытяну. До конца контракта вытяну. Надо. Надо! Нет других вариантов. Зубами удержусь, а вытяну. Главное - с катушек не слететь, а то всё коту под хвост.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_19">
+        <text>Ты глянь, полгода отбарабанил, уже уговаривают, продляй, мол, контракт еще на год и все будет. Да чтобы я? Да из-за лишних звездочек. Хоть один лишний день тут парился... Ага, ищите дурака.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_2">
+        <text>Контракт этот - сволочь, задрал уже! Пашешь, как молодой из последнего призыва, бл...</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_20">
+        <text>Лучше бы я тот труп не видел... Как его тварь разделала! Что в Зоне творится? Рассказать бы кому, так не положено.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_21">
+        <text>Говорят, эти твари по ночам стали на патрули нападать. Главное, днём между собой срутся, а ночью собираются в стаи и нас кончают. Сталкеры ими управляют, что ли? Гады!</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_22">
+        <text>Сейчас, как же. Разрулешь этих уродов, что мутантов, что сталкеров. Выжечь бы эту Зону нахрен и всё! Начальство в кабинетах умное... А в отцепление оно хоть раз стояло?</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_23">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_24">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_25">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_26">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_27">
+        <text>Кхм.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_28">
+        <text>Кхм-кхм.</text>
+    </string>
     <string id="characters_voice_human_01_military_states_idle_idle_29">
-        <text>TEXT</text>
+        <text>Кхм.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_3">
+        <text>Вот кончится контракт... Месяц гудеть буду! Не меньше! И главное - девки! Девки!</text>
     </string>
     <string id="characters_voice_human_01_military_states_idle_idle_30">
-        <text>TEXT</text>
+        <text>Кхм-кхм.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_4">
+        <text>Прут и прут. С двух сторон прут. Снаружи сталкеры ломятся, а изнутри... Твари эти одни чего стоят!</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_5">
+        <text>Так ведь и без толку всё. Ну, стоим. Ну, вроде как перекрываем. А сталкеров все равно полная Зона. Откуда только такая куча идиотов берется?</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_6">
+        <text>Достало. Как меня всё достало... Твари, сталкеры эти, сволочи, аномалии гадские. Не-не-не, всё. Всё. Всё! Нехочу больше, не могу.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_7">
+        <text>За собой тут следить всё время надо. Ну и за другими тоже присматривать. Аномалии, твари эти поганые. Сталкеры, подонки. Крышу рвёт только так. Видали уже.</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_8">
+        <text>Своевременная выплата денежного содержания. Выслуга. Льготы. Хах, ну да, блин. Ещё год тут торчать! Грёбаный контракт!</text>
+    </string>
+    <string id="characters_voice_human_01_military_states_idle_idle_9">
+        <text>Где опять эти жиртресты из снабжения застряли? Сами небось сытые, а мы третий день без горячего.</text>
     </string>
     <string id="characters_voice_human_01_military_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Эх, а не сбацать чего-нибудь?</text>
     </string>
     <string id="characters_voice_human_01_military_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Эх, скушновато. Сейчас сбацаю чего-нибудь.</text>
     </string>
     <string id="characters_voice_human_01_military_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Сыграть что-нибудь, что ли?</text>
     </string>
     <string id="characters_voice_human_01_military_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Чего бы такого сыграть? А, вот, пожалуй.</text>
     </string>
     <string id="characters_voice_human_01_military_talk_intros_intro_music_5">
-        <text>TEXT</text>
+        <text>Народ, зацените.</text>
     </string>
     <string id="characters_voice_human_01_military_talk_intros_intro_music_6">
-        <text>TEXT</text>
+        <text>Мужики, музыкальная пауза, типа.</text>
     </string>
 
+    <string id="characters_voice_human_01_military_talk_jokes_joke_1">
+        <text>Заблудился сталкер, идет по лесу, значит и кричит. «Люди! Ау! Эй, кто-нибудь!» Вдруг его шлеп сзади по плечу кто-то. Он, значит, оборачивается, а там здоровенная такая страхолюдная тварюга и говорит ему печально. Ты чего тут разорался, а? Сталкер. Так я это, ну того, ну заблудился я. Думаю, может кто-нибудь услышит, вот и кричу. Тварюга вздыхает. Ну я услышала, а смысл?</text>
+    </string>
+    <string id="characters_voice_human_01_military_talk_jokes_joke_2">
+        <text>Столкнулись, значит, в Зоне как-то две Нивы. Из одной четверо сталкеров выскочили, из другой не меньше. Ну, в общем, слово за слово, мордобой пошел. Потом пальба началась. А в кустах у дороги сидит контролер и радуется. Хе-хе, да, не пропал денек зря. Сейчас дружбанов на шашлык соберу. </text>
+    </string>
+    <string id="characters_voice_human_01_military_talk_jokes_joke_3">
+        <text>Пробует, значит, контролер слепого пса научить на задних лапах стоять. Пробует, пробует, а зомби ему и говорит. Да брось ты это дело. Он ведь сейчас не слушается тебя нифига. И потом не послушается. А контролер ему. Циц, ты! Забыл, сталкер, как ты сам вначале выеживался?</text>
+    </string>
 
     <string id="characters_voice_human_01_monolith_reactions_joke_reaction_joke_1">
         <text>TEXT</text>
@@ -2495,87 +2594,187 @@
     </string>
 
 
+    <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_1">
+        <text>Это старый.</text>
+    </string>
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Не смешно.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Я не понял.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
+        <text>Смысле?</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_5">
-        <text>TEXT</text>
+        <text>Да-да, помню.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_6">
-        <text>TEXT</text>
+        <text>...</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_7">
-        <text>TEXT</text>
+        <text>Ха. Ха.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_joke_reaction_joke_8">
-        <text>TEXT</text>
+        <text>М-да, смешно сказал.</text>
+    </string>
+    <string id="characters_voice_human_02_military_reactions_music_reaction_music_1">
+        <text>Душевно.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Ещё что-то можешь?</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Ничего так.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Прикольно.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Молодец.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Эх, спасибо.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Клёво сбацал.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_8">
-        <text>TEXT</text>
+        <text>Ничего так слабал.</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_music_reaction_music_9">
-        <text>TEXT</text>
+        <text>Не кисло.</text>
     </string>
 
 
     <string id="characters_voice_human_02_military_reactions_story_laughter_10">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_story_laughter_8">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_military_reactions_story_laughter_9">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
+    <string id="characters_voice_human_02_military_states_idle_idle_1">
+        <text>А интересное кино получается. Контракт на два года, так? Выслуга, премиальные, то-сё. Только не помню я никого, кто эти два года до упора... Ёп! Неужто вляпался?</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_10">
+        <text>Я так чувствую, спяток килограммов я уже тут того...</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_11">
+        <text>Дичи нормальной в этой долбанной Зоне нет ни хрена. Погано. Погано.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_12">
+        <text>Эх, мяска бы копченого сейчас.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_13">
+        <text>Навернуть сейчас бы гречки с тушёнкой... Да, это я бы на раз!</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_14">
+        <text>Эх, скукотища зеленая! Какое тут всё одинаково хреновое!</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_15">
+        <text>Что с ним делать, с этим пополнением, а? Нормальные люди больше в армию не идут? Одни придурки остались?</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_16">
+        <text>Умники, ёптыть! Страховка? Да на кой хрен у нас далась тебе эта страховка, когда и хранить не будет чего? Родичам, чтобы пробухали, да? Лучше бы на руки сразу выдавали.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_17">
+        <text>Аномалии, мать! Вот это самое страшное точно. Как того сталкера... Как его зажарило... А другого по деревьям раскидало. Кусками... Не дай бог. Лучше на пулю нарваться.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_18">
+        <text>Вытяну. До конца контракта вытяну. Надо. Надо! Нет других вариантов. Зубами удержусь, а вытяну. Главное - с катушек не слететь, а то всё коту под хвост.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_19">
+        <text>Ты глянь, полгода отбарабанил, уже уговаривают, продляй, мол, контракт еще на год и все будет. Да чтобы я? Да из-за лишних звездочек. Хоть один лишний день тут парился... Ага, ищите дурака.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_2">
+        <text>Контракт этот - сволочь, задрал уже! Пашешь, как молодой из последнего призыва, бл...</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_20">
+        <text>Лучше бы я тот труп не видел... Как его тварь разделала! Что в Зоне творится? Рассказать бы кому, так не положено.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_21">
+        <text>Говорят, эти твари по ночам стали на патрули нападать. Главное, днём между собой срутся, а ночью собираются в стаи и нас кончают. Сталкеры ими управляют, что ли? Гады!</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_22">
+        <text>Сейчас, как же. Разрулешь этих уродов, что мутантов, что сталкеров. Выжечь бы эту Зону нахрен и всё! Начальство в кабинетах умное... А в отцепление оно хоть раз стояло?</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_23">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_24">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_25">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_26">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_27">
+        <text>Кхм.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_28">
+        <text>Кхм-кхм.</text>
+    </string>
     <string id="characters_voice_human_02_military_states_idle_idle_29">
-        <text>TEXT</text>
+        <text>Кхм.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_3">
+        <text>Вот кончится контракт... Месяц гудеть буду! Не меньше! И главное - девки! Девки!</text>
     </string>
     <string id="characters_voice_human_02_military_states_idle_idle_30">
-        <text>TEXT</text>
+        <text>Кхм-кхм.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_4">
+        <text>Прут и прут. С двух сторон прут. Снаружи сталкеры ломятся, а изнутри... Твари эти одни чего стоят!</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_5">
+        <text>Так ведь и без толку всё. Ну, стоим. Ну, вроде как перекрываем. А сталкеров все равно полная Зона. Откуда только такая куча идиотов берется?</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_6">
+        <text>Достало. Как меня всё достало... Твари, сталкеры эти, сволочи, аномалии гадские. Не-не-не, всё. Всё. Всё! Нехочу больше, не могу.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_7">
+        <text>За собой тут следить всё время надо. Ну и за другими тоже присматривать. Аномалии, твари эти поганые. Сталкеры, подонки. Крышу рвёт только так. Видали уже.</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_8">
+        <text>Своевременная выплата денежного содержания. Выслуга. Льготы. Хах, ну да, блин. Ещё год тут торчать! Грёбаный контракт!</text>
+    </string>
+    <string id="characters_voice_human_02_military_states_idle_idle_9">
+        <text>Где опять эти жиртресты из снабжения застряли? Сами небось сытые, а мы третий день без горячего.</text>
     </string>
     <string id="characters_voice_human_02_military_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Эх, а не сбацать чего-нибудь?</text>
     </string>
     <string id="characters_voice_human_02_military_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Эх, скушновато. Сейчас сбацаю чего-нибудь.</text>
     </string>
     <string id="characters_voice_human_02_military_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Сыграть что-нибудь, что ли?</text>
     </string>
     <string id="characters_voice_human_02_military_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Чего бы такого сыграть? А, вот, пожалуй.</text>
     </string>
     <string id="characters_voice_human_02_military_talk_intros_intro_music_5">
-        <text>TEXT</text>
+        <text>Народ, зацените.</text>
     </string>
     <string id="characters_voice_human_02_military_talk_intros_intro_music_6">
-        <text>TEXT</text>
+        <text>Мужики, музыкальная пауза, типа.</text>
+    </string>
+
+    <string id="characters_voice_human_02_military_talk_jokes_joke_1">
+        <text>Заблудился сталкер, идет по лесу, значит и кричит. «Люди! Ау! Эй, кто-нибудь!» Вдруг его шлеп сзади по плечу кто-то. Он, значит, оборачивается, а там здоровенная такая страхолюдная тварюга и говорит ему печально. Ты чего тут разорался, а? Сталкер. Так я это, ну того, ну заблудился я. Думаю, может кто-нибудь услышит, вот и кричу. Тварюга вздыхает. Ну я услышала, а смысл?</text>
+    </string>
+    <string id="characters_voice_human_02_military_talk_jokes_joke_2">
+        <text>Столкнулись, значит, в Зоне как-то две Нивы. Из одной четверо сталкеров выскочили, из другой не меньше. Ну, в общем, слово за слово, мордобой пошел. Потом пальба началась. А в кустах у дороги сидит контролер и радуется. Хе-хе, да, не пропал денек зря. Сейчас дружбанов на шашлык соберу. </text>
+    </string>
+    <string id="characters_voice_human_02_military_talk_jokes_joke_3">
+        <text>Пробует, значит, контролер слепого пса научить на задних лапах стоять. Пробует, пробует, а зомби ему и говорит. Да брось ты это дело. Он ведь сейчас не слушается тебя нифига. И потом не послушается. А контролер ему. Циц, ты! Забыл, сталкер, как ты сам вначале выеживался?</text>
     </string>
 
 
@@ -4051,87 +4250,187 @@
     </string>
     
 
+    <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_1">
+        <text>Это старый.</text>
+    </string>
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Не смешно.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Я не понял.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
+        <text>Смысле?</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_5">
-        <text>TEXT</text>
+        <text>Да-да, помню.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_6">
-        <text>TEXT</text>
+        <text>...</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_7">
-        <text>TEXT</text>
+        <text>Ха. Ха.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_joke_reaction_joke_8">
-        <text>TEXT</text>
+        <text>М-да, смешно сказал.</text>
+    </string>
+    <string id="characters_voice_human_03_military_reactions_music_reaction_music_1">
+        <text>Душевно.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Ещё что-то можешь?</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Ничего так.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Прикольно.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Молодец.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Эх, спасибо.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Клёво сбацал.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_8">
-        <text>TEXT</text>
+        <text>Ничего так слабал.</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_music_reaction_music_9">
-        <text>TEXT</text>
+        <text>Не кисло.</text>
     </string>
 
 
     <string id="characters_voice_human_03_military_reactions_story_laughter_10">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_story_laughter_8">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_military_reactions_story_laughter_9">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
+    <string id="characters_voice_human_03_military_states_idle_idle_1">
+        <text>А интересное кино получается. Контракт на два года, так? Выслуга, премиальные, то-сё. Только не помню я никого, кто эти два года до упора... Ёп! Неужто вляпался?</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_10">
+        <text>Я так чувствую, спяток килограммов я уже тут того...</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_11">
+        <text>Дичи нормальной в этой долбанной Зоне нет ни хрена. Погано. Погано.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_12">
+        <text>Эх, мяска бы копченого сейчас.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_13">
+        <text>Навернуть сейчас бы гречки с тушёнкой... Да, это я бы на раз!</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_14">
+        <text>Эх, скукотища зеленая! Какое тут всё одинаково хреновое!</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_15">
+        <text>Что с ним делать, с этим пополнением, а? Нормальные люди больше в армию не идут? Одни придурки остались?</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_16">
+        <text>Умники, ёптыть! Страховка? Да на кой хрен у нас далась тебе эта страховка, когда и хранить не будет чего? Родичам, чтобы пробухали, да? Лучше бы на руки сразу выдавали.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_17">
+        <text>Аномалии, мать! Вот это самое страшное точно. Как того сталкера... Как его зажарило... А другого по деревьям раскидало. Кусками... Не дай бог. Лучше на пулю нарваться.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_18">
+        <text>Вытяну. До конца контракта вытяну. Надо. Надо! Нет других вариантов. Зубами удержусь, а вытяну. Главное - с катушек не слететь, а то всё коту под хвост.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_19">
+        <text>Ты глянь, полгода отбарабанил, уже уговаривают, продляй, мол, контракт еще на год и все будет. Да чтобы я? Да из-за лишних звездочек. Хоть один лишний день тут парился... Ага, ищите дурака.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_2">
+        <text>Контракт этот - сволочь, задрал уже! Пашешь, как молодой из последнего призыва, бл...</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_20">
+        <text>Лучше бы я тот труп не видел... Как его тварь разделала! Что в Зоне творится? Рассказать бы кому, так не положено.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_21">
+        <text>Говорят, эти твари по ночам стали на патрули нападать. Главное, днём между собой срутся, а ночью собираются в стаи и нас кончают. Сталкеры ими управляют, что ли? Гады!</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_22">
+        <text>Сейчас, как же. Разрулешь этих уродов, что мутантов, что сталкеров. Выжечь бы эту Зону нахрен и всё! Начальство в кабинетах умное... А в отцепление оно хоть раз стояло?</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_23">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_24">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_25">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_26">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_27">
+        <text>Кхм.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_28">
+        <text>Кхм-кхм.</text>
+    </string>
     <string id="characters_voice_human_03_military_states_idle_idle_29">
-        <text>TEXT</text>
+        <text>Кхм.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_3">
+        <text>Вот кончится контракт... Месяц гудеть буду! Не меньше! И главное - девки! Девки!</text>
     </string>
     <string id="characters_voice_human_03_military_states_idle_idle_30">
-        <text>TEXT</text>
+        <text>Кхм-кхм.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_4">
+        <text>Прут и прут. С двух сторон прут. Снаружи сталкеры ломятся, а изнутри... Твари эти одни чего стоят!</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_5">
+        <text>Так ведь и без толку всё. Ну, стоим. Ну, вроде как перекрываем. А сталкеров все равно полная Зона. Откуда только такая куча идиотов берется?</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_6">
+        <text>Достало. Как меня всё достало... Твари, сталкеры эти, сволочи, аномалии гадские. Не-не-не, всё. Всё. Всё! Нехочу больше, не могу.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_7">
+        <text>За собой тут следить всё время надо. Ну и за другими тоже присматривать. Аномалии, твари эти поганые. Сталкеры, подонки. Крышу рвёт только так. Видали уже.</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_8">
+        <text>Своевременная выплата денежного содержания. Выслуга. Льготы. Хах, ну да, блин. Ещё год тут торчать! Грёбаный контракт!</text>
+    </string>
+    <string id="characters_voice_human_03_military_states_idle_idle_9">
+        <text>Где опять эти жиртресты из снабжения застряли? Сами небось сытые, а мы третий день без горячего.</text>
     </string>
     <string id="characters_voice_human_03_military_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Эх, а не сбацать чего-нибудь?</text>
     </string>
     <string id="characters_voice_human_03_military_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Эх, скушновато. Сейчас сбацаю чего-нибудь.</text>
     </string>
     <string id="characters_voice_human_03_military_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Сыграть что-нибудь, что ли?</text>
     </string>
     <string id="characters_voice_human_03_military_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Чего бы такого сыграть? А, вот, пожалуй.</text>
     </string>
     <string id="characters_voice_human_03_military_talk_intros_intro_music_5">
-        <text>TEXT</text>
+        <text>Народ, зацените.</text>
     </string>
     <string id="characters_voice_human_03_military_talk_intros_intro_music_6">
-        <text>TEXT</text>
+        <text>Мужики, музыкальная пауза, типа.</text>
+    </string>
+
+    <string id="characters_voice_human_03_military_talk_jokes_joke_1">
+        <text>Заблудился сталкер, идет по лесу, значит и кричит. «Люди! Ау! Эй, кто-нибудь!» Вдруг его шлеп сзади по плечу кто-то. Он, значит, оборачивается, а там здоровенная такая страхолюдная тварюга и говорит ему печально. Ты чего тут разорался, а? Сталкер. Так я это, ну того, ну заблудился я. Думаю, может кто-нибудь услышит, вот и кричу. Тварюга вздыхает. Ну я услышала, а смысл?</text>
+    </string>
+    <string id="characters_voice_human_03_military_talk_jokes_joke_2">
+        <text>Столкнулись, значит, в Зоне как-то две Нивы. Из одной четверо сталкеров выскочили, из другой не меньше. Ну, в общем, слово за слово, мордобой пошел. Потом пальба началась. А в кустах у дороги сидит контролер и радуется. Хе-хе, да, не пропал денек зря. Сейчас дружбанов на шашлык соберу. </text>
+    </string>
+    <string id="characters_voice_human_03_military_talk_jokes_joke_3">
+        <text>Пробует, значит, контролер слепого пса научить на задних лапах стоять. Пробует, пробует, а зомби ему и говорит. Да брось ты это дело. Он ведь сейчас не слушается тебя нифига. И потом не послушается. А контролер ему. Циц, ты! Забыл, сталкер, как ты сам вначале выеживался?</text>
     </string>
 
 
