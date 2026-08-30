@@ -1118,109 +1118,194 @@
         <text>Пробует, значит, контролер слепого пса научить на задних лапах стоять. Пробует, пробует, а зомби ему и говорит. Да брось ты это дело. Он ведь сейчас не слушается тебя нифига. И потом не послушается. А контролер ему. Циц, ты! Забыл, сталкер, как ты сам вначале выеживался?</text>
     </string>
 
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_1">
+        <text>Пошла жара!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_10">
+        <text>На, получай!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_11">
+        <text>На, хватай!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_12">
+        <text>Держи от меня!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_13">
+        <text>Ну, как я его?!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_14">
+        <text>Вот так! Будешь знать!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_15">
+        <text>Так тебе, гад!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_2">
+        <text>С дороги!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_3">
+        <text>Ух, мать вашу!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_4">
+        <text>Кончай гадов!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_5">
+        <text>Бей ублюдков!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_6">
+        <text>Кладём их всех!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_7">
+        <text>Мочи всех!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_8">
+        <text>Получи, гад!</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_fight_attack_script_attack_9">
+        <text>На, жри!</text>
+    </string>
+    
     <string id="characters_voice_human_01_monolith_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>М-да уж.</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Блин, так не смешно же.</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Поновее ничего нет?</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Мастер!</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Класс!</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Вот это как мёдом помазал!</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Слушай, ну классно у тебя выходит!</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Кончай уже, рихтер.</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Всё, завязывай.</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Музыкант из тебя... Ещё тот.</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_monolith_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
-
+    <string id="characters_voice_human_01_monolith_states_idle_idle_1">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_10">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_11">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_12">
+        <text>Фух.</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_13">
+        <text>Монолит.</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_2">
+        <text>М-да.</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_3">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_4">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_5">
+        <text>Фух.</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_6">
+        <text>Эх, блин.</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_7">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_8">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_01_monolith_states_idle_idle_9">
+        <text>М-да.</text>
+    </string>
 
     <string id="characters_voice_human_01_monolith_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Вспомнил вот...</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Чего я как-то слышал...</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Внимание! Выдаю шутку юмора...</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Вот такое знает кто?</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Чего заскучали, мужики?</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Послушайте, мужики.</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Вот такое вам как?</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Всё. Музыкальная пауза.</text>
     </string>
+
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Приходит новый русский к сталкеру и говорит. «Эй, слышишь, ты, мне артефакт нужен. Золотая рыбка называется. Хочу, как все братаны, на шею чтобы носить, так!» Так ведь он радиоактивный. Слышь, ты чё мне мозги паришь? Радиоактивный, радиопассивный. Я же его не в трусы засуну.</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Оставил бывалый сталкер свою машину в кустах. Только уходить. Видит, рядышком с ней уже кровосос ошивается. Ну, сталкер ему и говорит, валил бы ты отсюда, пока цел. А тот обиделся. Сто лет, мол, мне твоя машина не нужна. А сталкер ему отвечает. Машина, может, и не нужна, блин. А вот похабщину нацарапать на ней, это вы мастера.</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Встречаются два сталкера. Помнишь Васю, ну того, который еще хотел летчиком стать? Ну и че? Да он вчера в трамплин попал. Ну попал, и че? Да ничего, сбылась у человека мечта. Полетел.</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Сидят на берегу озера два сталкера. Первый говорит: брешут все по поводу радиации. Я тут уже фиг знает сколько сижу и хоть бы хны. А второй ему: точно-точно, врут собаки. Хотя вот с хвоста почему-то шерсть облизать стала. Врачу что ли показаться?</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Встречаются как-то два сталкера. Ну, один другому и говорит. На днях к "Долгу" заходил на огонек. Ну и? И остался должен. А потом зашел к "Свободе". И что? И стал свободен.</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Доктор, не могу спать. Мне снится сон будто я нахожусь запертым в саркофаге с кучей монстров и они разрывают меня на кусочки - жалуется сталкер. Это тебя контролер предупреждает. Послушай моего совета: обязательно ему бутылку занеси. Ведь для скольких сталкеров этот сон в явь превратился... А почему? На бутылку пожлобились. А за доктора спасибо, не ожидал. Отвечает контролер-бухарь.</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Висит на стене бара объявление. По поводу празднования дня сталкера организуется выход в глубину Зоны для охоты на монстров и поиска артефактов. Сбор всех сталкеров, любителей этого дела, назначен на шесть тридцать. Этого дела брать с собой по два литра.</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>Заблудился однажды вояка в зоне. Ну, значит, бродит туда-сюда и орёт. Люди! Кто-нибудь! Помогите! А в кустах сталкер сидит и тихо прётся. Ну да, ну да. Значит, на блокпосту по три шкуры драть? Так уроды и сволочи. А как залез в жопу, так сразу «Люди, помогите!».</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_8">
-        <text>TEXT</text>
+        <text>Допрашивает как-то майор на блокпосту матерого такого столкерюгу. Значит, вы признаёте, что в нетрезвом виде пытались покинуть территорию зоны и имели при себе предметы, запрещенные к выносу за её пределы? Ну, а того, значит, запарил третий час под конвоем сидеть. Он как брякнет. Так ёп... Признаю, командир, был пьяный. А был бы трезвый, в жизни мимо вас, долбодятлов, с хабаром не попёрся бы!</text>
     </string>
     <string id="characters_voice_human_01_monolith_talk_jokes_joke_9">
-        <text>TEXT</text>
+        <text>Заблудился как-то долговец в Зоне. Идёт, значит, куда глаза глядят, и кричит, Люди! Отзовитесь кто-нибудь! Ау! Тут его кто-то догоняет и хлоп сзади по рюкзаку. Он оборачивается, а там, оп-па, кровосос стоит и хлюпает ему, значит, чего орёшь, а? Ну, Салабон уже в штаны, понятное дело, наложил, но всё-таки отвечает. Я это... Того... Заплутал. Кричу вот. Может кто-нибудь услышит? Кровосос, значит, всеми своими щупальцами облизался и говорит довольно так. Ну, я вот услышал. И чего теперь делать будем?</text>
     </string>
     
     <string id="characters_voice_human_01_stalker_fight_post_combat_wait_relax_1">
@@ -2693,109 +2778,194 @@
     </string>
 
 
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_1">
+        <text>Пошла жара!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_10">
+        <text>На, получай!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_11">
+        <text>На, хватай!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_12">
+        <text>Держи от меня!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_13">
+        <text>Ну, как я его?!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_14">
+        <text>Вот так! Будешь знать!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_15">
+        <text>Так тебе, гад!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_2">
+        <text>С дороги!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_3">
+        <text>Ух, мать вашу!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_4">
+        <text>Кончай гадов!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_5">
+        <text>Бей ублюдков!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_6">
+        <text>Кладём их всех!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_7">
+        <text>Мочи всех!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_8">
+        <text>Получи, гад!</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_fight_attack_script_attack_9">
+        <text>На, жри!</text>
+    </string>
+    
     <string id="characters_voice_human_02_monolith_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>М-да уж.</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Блин, так не смешно же.</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Поновее ничего нет?</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Мастер!</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Класс!</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Вот это как мёдом помазал!</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Слушай, ну классно у тебя выходит!</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Кончай уже, рихтер.</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Всё, завязывай.</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Музыкант из тебя... Ещё тот.</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_monolith_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
-
+    <string id="characters_voice_human_02_monolith_states_idle_idle_1">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_10">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_11">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_12">
+        <text>Фух.</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_13">
+        <text>Монолит.</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_2">
+        <text>М-да.</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_3">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_4">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_5">
+        <text>Фух.</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_6">
+        <text>Эх, блин.</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_7">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_8">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_02_monolith_states_idle_idle_9">
+        <text>М-да.</text>
+    </string>
 
     <string id="characters_voice_human_02_monolith_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Вспомнил вот...</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Чего я как-то слышал...</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Внимание! Выдаю шутку юмора...</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Вот такое знает кто?</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Чего заскучали, мужики?</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Послушайте, мужики.</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Вот такое вам как?</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Всё. Музыкальная пауза.</text>
     </string>
+
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Приходит новый русский к сталкеру и говорит. «Эй, слышишь, ты, мне артефакт нужен. Золотая рыбка называется. Хочу, как все братаны, на шею чтобы носить, так!» Так ведь он радиоактивный. Слышь, ты чё мне мозги паришь? Радиоактивный, радиопассивный. Я же его не в трусы засуну.</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Оставил бывалый сталкер свою машину в кустах. Только уходить. Видит, рядышком с ней уже кровосос ошивается. Ну, сталкер ему и говорит, валил бы ты отсюда, пока цел. А тот обиделся. Сто лет, мол, мне твоя машина не нужна. А сталкер ему отвечает. Машина, может, и не нужна, блин. А вот похабщину нацарапать на ней, это вы мастера.</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Встречаются два сталкера. Помнишь Васю, ну того, который еще хотел летчиком стать? Ну и че? Да он вчера в трамплин попал. Ну попал, и че? Да ничего, сбылась у человека мечта. Полетел.</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Сидят на берегу озера два сталкера. Первый говорит: брешут все по поводу радиации. Я тут уже фиг знает сколько сижу и хоть бы хны. А второй ему: точно-точно, врут собаки. Хотя вот с хвоста почему-то шерсть облизать стала. Врачу что ли показаться?</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Встречаются как-то два сталкера. Ну, один другому и говорит. На днях к "Долгу" заходил на огонек. Ну и? И остался должен. А потом зашел к "Свободе". И что? И стал свободен.</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Доктор, не могу спать. Мне снится сон будто я нахожусь запертым в саркофаге с кучей монстров и они разрывают меня на кусочки - жалуется сталкер. Это тебя контролер предупреждает. Послушай моего совета: обязательно ему бутылку занеси. Ведь для скольких сталкеров этот сон в явь превратился... А почему? На бутылку пожлобились. А за доктора спасибо, не ожидал. Отвечает контролер-бухарь.</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Висит на стене бара объявление. По поводу празднования дня сталкера организуется выход в глубину Зоны для охоты на монстров и поиска артефактов. Сбор всех сталкеров, любителей этого дела, назначен на шесть тридцать. Этого дела брать с собой по два литра.</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>Заблудился однажды вояка в зоне. Ну, значит, бродит туда-сюда и орёт. Люди! Кто-нибудь! Помогите! А в кустах сталкер сидит и тихо прётся. Ну да, ну да. Значит, на блокпосту по три шкуры драть? Так уроды и сволочи. А как залез в жопу, так сразу «Люди, помогите!».</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_8">
-        <text>TEXT</text>
+        <text>Допрашивает как-то майор на блокпосту матерого такого столкерюгу. Значит, вы признаёте, что в нетрезвом виде пытались покинуть территорию зоны и имели при себе предметы, запрещенные к выносу за её пределы? Ну, а того, значит, запарил третий час под конвоем сидеть. Он как брякнет. Так ёп... Признаю, командир, был пьяный. А был бы трезвый, в жизни мимо вас, долбодятлов, с хабаром не попёрся бы!</text>
     </string>
     <string id="characters_voice_human_02_monolith_talk_jokes_joke_9">
-        <text>TEXT</text>
+        <text>Заблудился как-то долговец в Зоне. Идёт, значит, куда глаза глядят, и кричит, Люди! Отзовитесь кто-нибудь! Ау! Тут его кто-то догоняет и хлоп сзади по рюкзаку. Он оборачивается, а там, оп-па, кровосос стоит и хлюпает ему, значит, чего орёшь, а? Ну, Салабон уже в штаны, понятное дело, наложил, но всё-таки отвечает. Я это... Того... Заплутал. Кричу вот. Может кто-нибудь услышит? Кровосос, значит, всеми своими щупальцами облизался и говорит довольно так. Ну, я вот услышал. И чего теперь делать будем?</text>
     </string>
     
     <string id="characters_voice_human_02_stalker_fight_post_combat_wait_relax_1">
@@ -4433,198 +4603,194 @@
         <text>Пробует, значит, контролер слепого пса научить на задних лапах стоять. Пробует, пробует, а зомби ему и говорит. Да брось ты это дело. Он ведь сейчас не слушается тебя нифига. И потом не послушается. А контролер ему. Циц, ты! Забыл, сталкер, как ты сам вначале выеживался?</text>
     </string>
 
-
-    <string id="characters_voice_human_03_monolith_fight_attack_script_attack_1">
-        <text>TEXT</text>
+<string id="characters_voice_human_03_monolith_fight_attack_script_attack_1">
+        <text>Пошла жара!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_10">
-        <text>TEXT</text>
+        <text>На, получай!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_11">
-        <text>TEXT</text>
+        <text>На, хватай!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_12">
-        <text>TEXT</text>
+        <text>Держи от меня!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_13">
-        <text>TEXT</text>
+        <text>Ну, как я его?!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_14">
-        <text>TEXT</text>
+        <text>Вот так! Будешь знать!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_15">
-        <text>TEXT</text>
+        <text>Так тебе, гад!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_2">
-        <text>TEXT</text>
+        <text>С дороги!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_3">
-        <text>TEXT</text>
+        <text>Ух, мать вашу!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_4">
-        <text>TEXT</text>
+        <text>Кончай гадов!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_5">
-        <text>TEXT</text>
+        <text>Бей ублюдков!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_6">
-        <text>TEXT</text>
+        <text>Кладём их всех!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_7">
-        <text>TEXT</text>
+        <text>Мочи всех!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_8">
-        <text>TEXT</text>
+        <text>Получи, гад!</text>
     </string>
     <string id="characters_voice_human_03_monolith_fight_attack_script_attack_9">
-        <text>TEXT</text>
+        <text>На, жри!</text>
     </string>
-
-
+    
     <string id="characters_voice_human_03_monolith_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>М-да уж.</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Блин, так не смешно же.</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Поновее ничего нет?</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Мастер!</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Класс!</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Вот это как мёдом помазал!</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Слушай, ну классно у тебя выходит!</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Кончай уже, рихтер.</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Всё, завязывай.</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Музыкант из тебя... Ещё тот.</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_monolith_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
-
-
     <string id="characters_voice_human_03_monolith_states_idle_idle_1">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_10">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_11">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_12">
-        <text>TEXT</text>
+        <text>Фух.</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_13">
-        <text>TEXT</text>
+        <text>Монолит.</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_2">
-        <text>TEXT</text>
+        <text>М-да.</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_3">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_4">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_5">
-        <text>TEXT</text>
+        <text>Фух.</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_6">
-        <text>TEXT</text>
+        <text>Эх, блин.</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_7">
-        <text>TEXT</text>
+        <text>*Вздыхает*</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_8">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_03_monolith_states_idle_idle_9">
-        <text>TEXT</text>
+        <text>М-да.</text>
     </string>
-
 
     <string id="characters_voice_human_03_monolith_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Вспомнил вот...</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Чего я как-то слышал...</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Внимание! Выдаю шутку юмора...</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Вот такое знает кто?</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Чего заскучали, мужики?</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Послушайте, мужики.</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Вот такое вам как?</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Всё. Музыкальная пауза.</text>
     </string>
+
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Приходит новый русский к сталкеру и говорит. «Эй, слышишь, ты, мне артефакт нужен. Золотая рыбка называется. Хочу, как все братаны, на шею чтобы носить, так!» Так ведь он радиоактивный. Слышь, ты чё мне мозги паришь? Радиоактивный, радиопассивный. Я же его не в трусы засуну.</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Оставил бывалый сталкер свою машину в кустах. Только уходить. Видит, рядышком с ней уже кровосос ошивается. Ну, сталкер ему и говорит, валил бы ты отсюда, пока цел. А тот обиделся. Сто лет, мол, мне твоя машина не нужна. А сталкер ему отвечает. Машина, может, и не нужна, блин. А вот похабщину нацарапать на ней, это вы мастера.</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Встречаются два сталкера. Помнишь Васю, ну того, который еще хотел летчиком стать? Ну и че? Да он вчера в трамплин попал. Ну попал, и че? Да ничего, сбылась у человека мечта. Полетел.</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Сидят на берегу озера два сталкера. Первый говорит: брешут все по поводу радиации. Я тут уже фиг знает сколько сижу и хоть бы хны. А второй ему: точно-точно, врут собаки. Хотя вот с хвоста почему-то шерсть облизать стала. Врачу что ли показаться?</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Встречаются как-то два сталкера. Ну, один другому и говорит. На днях к "Долгу" заходил на огонек. Ну и? И остался должен. А потом зашел к "Свободе". И что? И стал свободен.</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Доктор, не могу спать. Мне снится сон будто я нахожусь запертым в саркофаге с кучей монстров и они разрывают меня на кусочки - жалуется сталкер. Это тебя контролер предупреждает. Послушай моего совета: обязательно ему бутылку занеси. Ведь для скольких сталкеров этот сон в явь превратился... А почему? На бутылку пожлобились. А за доктора спасибо, не ожидал. Отвечает контролер-бухарь.</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Висит на стене бара объявление. По поводу празднования дня сталкера организуется выход в глубину Зоны для охоты на монстров и поиска артефактов. Сбор всех сталкеров, любителей этого дела, назначен на шесть тридцать. Этого дела брать с собой по два литра.</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>Заблудился однажды вояка в зоне. Ну, значит, бродит туда-сюда и орёт. Люди! Кто-нибудь! Помогите! А в кустах сталкер сидит и тихо прётся. Ну да, ну да. Значит, на блокпосту по три шкуры драть? Так уроды и сволочи. А как залез в жопу, так сразу «Люди, помогите!».</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_8">
-        <text>TEXT</text>
+        <text>Допрашивает как-то майор на блокпосту матерого такого столкерюгу. Значит, вы признаёте, что в нетрезвом виде пытались покинуть территорию зоны и имели при себе предметы, запрещенные к выносу за её пределы? Ну, а того, значит, запарил третий час под конвоем сидеть. Он как брякнет. Так ёп... Признаю, командир, был пьяный. А был бы трезвый, в жизни мимо вас, долбодятлов, с хабаром не попёрся бы!</text>
     </string>
     <string id="characters_voice_human_03_monolith_talk_jokes_joke_9">
-        <text>TEXT</text>
+        <text>Заблудился как-то долговец в Зоне. Идёт, значит, куда глаза глядят, и кричит, Люди! Отзовитесь кто-нибудь! Ау! Тут его кто-то догоняет и хлоп сзади по рюкзаку. Он оборачивается, а там, оп-па, кровосос стоит и хлюпает ему, значит, чего орёшь, а? Ну, Салабон уже в штаны, понятное дело, наложил, но всё-таки отвечает. Я это... Того... Заплутал. Кричу вот. Может кто-нибудь услышит? Кровосос, значит, всеми своими щупальцами облизался и говорит довольно так. Ну, я вот услышал. И чего теперь делать будем?</text>
     </string>
     
     <string id="characters_voice_human_03_stalker_talk_jokes_joke_1">
