@@ -26,7 +26,7 @@ function on_npc_sound_init(ref_binder, snd_ini, section)
 end
 
 function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
-    if ref_binder.subs thenтекстобрезка
+    if ref_binder.subs then
         local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
 		local name = level.object_by_id(npc_id):character_name()
 		local text = snd:gsub("\\", "_")
