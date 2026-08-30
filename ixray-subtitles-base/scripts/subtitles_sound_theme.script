@@ -26,7 +26,7 @@ function on_npc_sound_init(ref_binder, snd_ini, section)
 end
 
 function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
-    if ref_binder.subs then
+    if ref_binder.subs thenтекстобрезка
         local snd = ref_binder.sound_path[npc_id][ref_binder.played_id + 1]
 		local name = level.object_by_id(npc_id):character_name()
 		local text = snd:gsub("\\", "_")
@@ -37,6 +37,10 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
 		end
 		if ref_binder.subs_text and ref_binder.subs_text ~= "" then
 			text = ref_binder.subs_text
+		else
+			if game.translate_string(text) == text then
+				text = text:match("human_%d%d_(.*)")
+			end
 		end
 
 		if ref_binder.delay_sound > 0 and ref_binder.subs_delay == 0 then
@@ -53,6 +57,10 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
 
         if ref_binder.ws_subs_text and ref_binder.ws_subs_text ~= "" then
             text = ref_binder.ws_subs_text
+		else
+			if game.translate_string(text) == text then
+				text = text:match("human_%d%d_(.*)")
+			end	
         end
 
 		if ref_binder.delay_sound > 0 and ref_binder.ws_subs_delay == 0 then
@@ -82,6 +90,10 @@ function on_actor_sound_play(ref_binder, npc, faction, point, msg)
 		end
 		if ref_binder.subs_text and ref_binder.subs_text ~= "" then
 			text = ref_binder.subs_text
+		else
+			if game.translate_string(text) == text then
+				text = text:match("human_%d%d_(.*)")
+			end
 		end
 
         subtitles.add_subtitles_actor(name, text, ref_binder.snd_obj, ref_binder.subs_delay)
@@ -113,6 +125,10 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
 		end
 		if ref_binder.subs_text and ref_binder.subs_text ~= "" then
 			text = ref_binder.subs_text
+		else
+			if game.translate_string(text) == text then
+				text = text:match("human_%d%d_(.*)")
+			end	
 		end
 
 		subtitles.add_subtitles_obj(obj_id, name, text, ref_binder.snd_obj, ref_binder.subs_delay, ref_binder.subs_distance)
@@ -124,6 +140,10 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
 
         if ref_binder.ws_subs_text and ref_binder.ws_subs_text ~= "" then
             text = ref_binder.ws_subs_text
+		else
+			if game.translate_string(text) == text then
+				text = text:match("human_%d%d_(.*)")
+			end
         end
 
         subtitles.add_ws_subtitles_obj(ref_binder.snd_obj, obj_id, ref_binder.ws_section, text, ref_binder.ws_subs_delay)
