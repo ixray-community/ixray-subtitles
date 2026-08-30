@@ -87,10 +87,6 @@ function on_actor_sound_play(ref_binder, npc, faction, point, msg)
 
         if ref_binder.subs_name and ref_binder.subs_name ~= "" then
 			name = ref_binder.subs_name
-
-			if name == "$faction$" then
-				name = faction
-			end
 		end
 		if ref_binder.subs_text and ref_binder.subs_text ~= "" then
 			text = ref_binder.subs_text
