@@ -648,94 +648,134 @@
 
 
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Что скажешь, брат?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Эй, сталкер, с чем пожаловал?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>В общем, выкладывай!</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Вот и поговорили.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Ладно, Герасим, у меня дела повожнее есть, чем с тобой молчать.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Ладно, чувак, подходи когда слова вспомнишь.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ты рассказать чего хочешь, что ли?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Ну говори уже.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Дар речи потерял или говорить разучился?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Ну ты разродишься наконец или нет?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Эй, дружище, учти, я твоего откровения целый день ждать не могу.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Здоров!</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Ну рассказывай, я весь внимание!</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Что скажешь, брат?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Да, ты знатный болтун, я смотрю.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Знаешь что? Телепай от сюда, телепат.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>Эй, да ты кого хочешь задолбаешь, чертяка.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Дружище, ну не томи.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Слушай, нечего сказать - я пойду.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>И долго ещё в гляделки играть будем?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>У меня тут дело есть, если сказать чего хочешь - говори.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Что язык проглотил? Ну и как? Вкусно?</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Не, ну это хамство. Убери оружие.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Ты это, не безобраздничай. Ствол спрячь.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Ты стрелять собрался или разговаривать? Убери ствол.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Мужик, ты уже достал своим стволом махать.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Спрячь игрушку.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Убирай валыну к черту.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Мэн, давай ты свои аргументы за спину спрячешь.</text>
     </string>
     <string id="characters_voice_human_01_freedom_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Ну не люблю я говорить под прицелом, чувак.</text>
+    </string>
+
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_1">
+        <text>Один мужик говорит врачу, доктор, я совсем перестал спать. Вот только лягу, мне сразу же снится, будто я заперт в бункере со стаей кровососов. Так, бросайте траву курить, уважаемый. Пора уже образумиться, не мальчик все-таки. Воздержание, только воздержание от любых галлюциногенов вас спасет. А за доктора спасибо. Меня, простого контролера так еще никто не называл.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_10">
+        <text>Решили как-то зомби в футбол поиграть. Разбились на команды, нашли мяч, начали. Ну, в общем, наигрались там, ухайдохались. В общем, пора по хатам. Ну, думают, мяч-то надо забрать, еще ж пригодится. Нагибается один за мячиком, а тот ему и говорит. Эй, братан, да ты че? Не надо, я сам домой приду. Вот как только тело где-то шляться перестанет, так и приду.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_11">
+        <text>Починили свободовцы танк и решили, в общем, повоевать на нем. Ну, там, одного чувака приписали, который когда-то танкистом был, он им лекцию читает. Ну, говорит народ, скажите мне, что самое главное в танке? Пушка! Ответ неправильный. Броня! Муйня! Ответ неправильный. Эх, солобоны вы, солобоны, самое главное в танке - это не усраться.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_12">
+        <text>Столкнулись как-то кровосос и контролер в подземке Агропрома. Кровосос. Ну ты урод, напугал меня! Контролер. На себя посмотри. Кровосос. Да пошел ты! А контролер берет его под контроль, нагибает над лужей. А я говорю, посмотри.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_13">
+        <text>Приходят долговцы в бар после очередного там своего крестового похода. Устали все как собаки, в кровище, в мыле. Ну, ясное дело, заказывают выпить. Походу командир рассказывает, как там намудохались с контролером, как зомбарей мочили, как мутантов душили. Тут в помещение комар залетает. Долговцы все как один срываются, и давай всех стволов по нему швалять. Бармен из-под стойки орет. «Эй, эй, вы чего?!» А командир долговцев. «Этих гадов надо маленькими убивать, пока взрослыми кровососами не стали.»</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_2">
+        <text>Заблудился как-то долговец в Зоне. Еле живой, ходит и кричит. Кто-нибудь, спасите, помогите! Честное слово, пить, курить брошу! И даже про свободовца плохого слова никогда не скажу!</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_3">
+        <text>Устроил как-то "Долг" на Кордоне жутко секретную засаду и перехватил одного сталкера. А у того полный рюкзак хабара и бадун жутчайший, и чувство раскаяния накатило. Командир, отпусти ты меня. Вот говорили мне, что пить вредно, а я не слушался. А ведь верно, да? Ежели я бы трезвый был, бы разве сунулся сюда? Вчера ж вся Зона видела, как вы на этой тропе засаду устраивали.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_4">
+        <text>Стоит сталкер у перекрестка в Зоне и читает указатели. Направо - аномалии, вперед - монстры, налево - кабаки и девки. Подумал сталкер, подумал и пошел вперед. Думает, выживу надо будет у свободовцев спросить, что за ужасы такие новые и непонятные, кабаки и девки.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_5">
+        <text>Идет молодой сталкер по Зоне и вдруг видит озеро, которого нет на карте. Он туда-сюда, потом смотрит, какой-то мужик неподалеку маячит. Ну, молодой к нему и спрашивает, уважаемый, а как бы мне озеро обойти? Тот отвечает, пошли, мне по дороге, я покажу. Ну, идут, а молодой говорит, вы, наверное, каждый кустик тут знаете, раз без оружия ходить не боитесь. Мужик смеется. А кого тут, говорит, боятся-то? Ну, монстров там всяких, зомби, контролеров. Мужик задумался и отвечает. Ладно, монстры шмонстры, это понятно. Ну, зомби тоже еще туда-сюда. Ну, а нас-то, контролеров, чего боятся?</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_6">
+        <text>Свалился на заброшенном заводе кирпич с крыши и зашиб одного мэна. Народ собрался, переживает. Блин, монстров и контролёров и так хватает, так ещё и кирпичи с крыш летят. Во фигня, не повезло чуваку, ну и так далее. Но один бывалый пригляделся и говорит. Спокуха, мужики, туда ему и дорога. Это ж зомби бродяжей. А народ ещё больше расстроился. Блин, ну чё за фигня такая? Зомби поразвелось, кирпичу упасть негде.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_7">
+        <text>Дрессирует как-то контролер слепого пса, а рядом зомби стоит и потешается. Контролер обиделся и говорит «Знаешь, сталкер, я, между прочим, еще помню, как ты сам выкабенивался. То не сделаю, это не буду. Я человек, а не крыса подопытная».</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_8">
+        <text>Встречаются, значит, двое сталкеров. Ну, один спрашивает, слышь, а где Васька? Что-то не видно его сегодня. Второй отвечает, а он за грибами пошел. И далеко пошел, а хрен его знает. Это смотря куда его грибы выведут.</text>
+    </string>
+    <string id="characters_voice_human_01_freedom_talk_jokes_joke_9">
+        <text>Встречаются два конкретно подсевших зомби. Слышь, мэн, у тебя есть чем догнаться? Йоу, чувак, мне тут один сталкер знакомый такую мощную штуку подогнал, вообще. Класс, а как вставляет? Да пять секунд и просто отпад. Офигеть, а сильно гребет? Да сталкер сказал, что до полного отрыва башки. Ууу, кайф! А называется как? А называется «Граната».</text>
     </string>
 
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_1">
@@ -2337,94 +2377,134 @@
 
 
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Что скажешь, брат?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Эй, сталкер, с чем пожаловал?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>В общем, выкладывай!</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Вот и поговорили.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Ладно, Герасим, у меня дела повожнее есть, чем с тобой молчать.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Ладно, чувак, подходи когда слова вспомнишь.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ты рассказать чего хочешь, что ли?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Ну говори уже.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Дар речи потерял или говорить разучился?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Ну ты разродишься наконец или нет?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Эй, дружище, учти, я твоего откровения целый день ждать не могу.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Здоров!</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Ну рассказывай, я весь внимание!</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Что скажешь, брат?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Да, ты знатный болтун, я смотрю.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Знаешь что? Телепай от сюда, телепат.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>Эй, да ты кого хочешь задолбаешь, чертяка.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Дружище, ну не томи.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Слушай, нечего сказать - я пойду.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>И долго ещё в гляделки играть будем?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>У меня тут дело есть, если сказать чего хочешь - говори.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Что язык проглотил? Ну и как? Вкусно?</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Не, ну это хамство. Убери оружие.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Ты это, не безобраздничай. Ствол спрячь.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Ты стрелять собрался или разговаривать? Убери ствол.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Мужик, ты уже достал своим стволом махать.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Спрячь игрушку.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Убирай валыну к черту.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Мэн, давай ты свои аргументы за спину спрячешь.</text>
     </string>
     <string id="characters_voice_human_02_freedom_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Ну не люблю я говорить под прицелом, чувак.</text>
+    </string>
+
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_1">
+        <text>Один мужик говорит врачу, доктор, я совсем перестал спать. Вот только лягу, мне сразу же снится, будто я заперт в бункере со стаей кровососов. Так, бросайте траву курить, уважаемый. Пора уже образумиться, не мальчик все-таки. Воздержание, только воздержание от любых галлюциногенов вас спасет. А за доктора спасибо. Меня, простого контролера так еще никто не называл.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_10">
+        <text>Решили как-то зомби в футбол поиграть. Разбились на команды, нашли мяч, начали. Ну, в общем, наигрались там, ухайдохались. В общем, пора по хатам. Ну, думают, мяч-то надо забрать, еще ж пригодится. Нагибается один за мячиком, а тот ему и говорит. Эй, братан, да ты че? Не надо, я сам домой приду. Вот как только тело где-то шляться перестанет, так и приду.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_11">
+        <text>Починили свободовцы танк и решили, в общем, повоевать на нем. Ну, там, одного чувака приписали, который когда-то танкистом был, он им лекцию читает. Ну, говорит народ, скажите мне, что самое главное в танке? Пушка! Ответ неправильный. Броня! Муйня! Ответ неправильный. Эх, солобоны вы, солобоны, самое главное в танке - это не усраться.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_12">
+        <text>Столкнулись как-то кровосос и контролер в подземке Агропрома. Кровосос. Ну ты урод, напугал меня! Контролер. На себя посмотри. Кровосос. Да пошел ты! А контролер берет его под контроль, нагибает над лужей. А я говорю, посмотри.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_13">
+        <text>Приходят долговцы в бар после очередного там своего крестового похода. Устали все как собаки, в кровище, в мыле. Ну, ясное дело, заказывают выпить. Походу командир рассказывает, как там намудохались с контролером, как зомбарей мочили, как мутантов душили. Тут в помещение комар залетает. Долговцы все как один срываются, и давай всех стволов по нему швалять. Бармен из-под стойки орет. «Эй, эй, вы чего?!» А командир долговцев. «Этих гадов надо маленькими убивать, пока взрослыми кровососами не стали.»</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_2">
+        <text>Заблудился как-то долговец в Зоне. Еле живой, ходит и кричит. Кто-нибудь, спасите, помогите! Честное слово, пить, курить брошу! И даже про свободовца плохого слова никогда не скажу!</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_3">
+        <text>Устроил как-то "Долг" на Кордоне жутко секретную засаду и перехватил одного сталкера. А у того полный рюкзак хабара и бадун жутчайший, и чувство раскаяния накатило. Командир, отпусти ты меня. Вот говорили мне, что пить вредно, а я не слушался. А ведь верно, да? Ежели я бы трезвый был, бы разве сунулся сюда? Вчера ж вся Зона видела, как вы на этой тропе засаду устраивали.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_4">
+        <text>Стоит сталкер у перекрестка в Зоне и читает указатели. Направо - аномалии, вперед - монстры, налево - кабаки и девки. Подумал сталкер, подумал и пошел вперед. Думает, выживу надо будет у свободовцев спросить, что за ужасы такие новые и непонятные, кабаки и девки.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_5">
+        <text>Идет молодой сталкер по Зоне и вдруг видит озеро, которого нет на карте. Он туда-сюда, потом смотрит, какой-то мужик неподалеку маячит. Ну, молодой к нему и спрашивает, уважаемый, а как бы мне озеро обойти? Тот отвечает, пошли, мне по дороге, я покажу. Ну, идут, а молодой говорит, вы, наверное, каждый кустик тут знаете, раз без оружия ходить не боитесь. Мужик смеется. А кого тут, говорит, боятся-то? Ну, монстров там всяких, зомби, контролеров. Мужик задумался и отвечает. Ладно, монстры шмонстры, это понятно. Ну, зомби тоже еще туда-сюда. Ну, а нас-то, контролеров, чего боятся?</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_6">
+        <text>Свалился на заброшенном заводе кирпич с крыши и зашиб одного мэна. Народ собрался, переживает. Блин, монстров и контролёров и так хватает, так ещё и кирпичи с крыш летят. Во фигня, не повезло чуваку, ну и так далее. Но один бывалый пригляделся и говорит. Спокуха, мужики, туда ему и дорога. Это ж зомби бродяжей. А народ ещё больше расстроился. Блин, ну чё за фигня такая? Зомби поразвелось, кирпичу упасть негде.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_7">
+        <text>Дрессирует как-то контролер слепого пса, а рядом зомби стоит и потешается. Контролер обиделся и говорит «Знаешь, сталкер, я, между прочим, еще помню, как ты сам выкабенивался. То не сделаю, это не буду. Я человек, а не крыса подопытная».</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_8">
+        <text>Встречаются, значит, двое сталкеров. Ну, один спрашивает, слышь, а где Васька? Что-то не видно его сегодня. Второй отвечает, а он за грибами пошел. И далеко пошел, а хрен его знает. Это смотря куда его грибы выведут.</text>
+    </string>
+    <string id="characters_voice_human_02_freedom_talk_jokes_joke_9">
+        <text>Встречаются два конкретно подсевших зомби. Слышь, мэн, у тебя есть чем догнаться? Йоу, чувак, мне тут один сталкер знакомый такую мощную штуку подогнал, вообще. Класс, а как вставляет? Да пять секунд и просто отпад. Офигеть, а сильно гребет? Да сталкер сказал, что до полного отрыва башки. Ууу, кайф! А называется как? А называется «Граната».</text>
     </string>
 
 
@@ -3871,94 +3951,134 @@
 
 
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Что скажешь, брат?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Эй, сталкер, с чем пожаловал?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>В общем, выкладывай!</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Вот и поговорили.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Ладно, Герасим, у меня дела повожнее есть, чем с тобой молчать.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Ладно, чувак, подходи когда слова вспомнишь.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ты рассказать чего хочешь, что ли?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Ну говори уже.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Дар речи потерял или говорить разучился?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Ну ты разродишься наконец или нет?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Эй, дружище, учти, я твоего откровения целый день ждать не могу.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Здоров!</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Ну рассказывай, я весь внимание!</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Что скажешь, брат?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Да, ты знатный болтун, я смотрю.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Знаешь что? Телепай от сюда, телепат.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>Эй, да ты кого хочешь задолбаешь, чертяка.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Дружище, ну не томи.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Слушай, нечего сказать - я пойду.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>И долго ещё в гляделки играть будем?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>У меня тут дело есть, если сказать чего хочешь - говори.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>Что язык проглотил? Ну и как? Вкусно?</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Не, ну это хамство. Убери оружие.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Ты это, не безобраздничай. Ствол спрячь.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Ты стрелять собрался или разговаривать? Убери ствол.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Мужик, ты уже достал своим стволом махать.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Спрячь игрушку.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Убирай валыну к черту.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Мэн, давай ты свои аргументы за спину спрячешь.</text>
     </string>
     <string id="characters_voice_human_03_freedom_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Ну не люблю я говорить под прицелом, чувак.</text>
+    </string>
+
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_1">
+        <text>Один мужик говорит врачу, доктор, я совсем перестал спать. Вот только лягу, мне сразу же снится, будто я заперт в бункере со стаей кровососов. Так, бросайте траву курить, уважаемый. Пора уже образумиться, не мальчик все-таки. Воздержание, только воздержание от любых галлюциногенов вас спасет. А за доктора спасибо. Меня, простого контролера так еще никто не называл.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_10">
+        <text>Решили как-то зомби в футбол поиграть. Разбились на команды, нашли мяч, начали. Ну, в общем, наигрались там, ухайдохались. В общем, пора по хатам. Ну, думают, мяч-то надо забрать, еще ж пригодится. Нагибается один за мячиком, а тот ему и говорит. Эй, братан, да ты че? Не надо, я сам домой приду. Вот как только тело где-то шляться перестанет, так и приду.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_11">
+        <text>Починили свободовцы танк и решили, в общем, повоевать на нем. Ну, там, одного чувака приписали, который когда-то танкистом был, он им лекцию читает. Ну, говорит народ, скажите мне, что самое главное в танке? Пушка! Ответ неправильный. Броня! Муйня! Ответ неправильный. Эх, солобоны вы, солобоны, самое главное в танке - это не усраться.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_12">
+        <text>Столкнулись как-то кровосос и контролер в подземке Агропрома. Кровосос. Ну ты урод, напугал меня! Контролер. На себя посмотри. Кровосос. Да пошел ты! А контролер берет его под контроль, нагибает над лужей. А я говорю, посмотри.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_13">
+        <text>Приходят долговцы в бар после очередного там своего крестового похода. Устали все как собаки, в кровище, в мыле. Ну, ясное дело, заказывают выпить. Походу командир рассказывает, как там намудохались с контролером, как зомбарей мочили, как мутантов душили. Тут в помещение комар залетает. Долговцы все как один срываются, и давай всех стволов по нему швалять. Бармен из-под стойки орет. «Эй, эй, вы чего?!» А командир долговцев. «Этих гадов надо маленькими убивать, пока взрослыми кровососами не стали.»</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_2">
+        <text>Заблудился как-то долговец в Зоне. Еле живой, ходит и кричит. Кто-нибудь, спасите, помогите! Честное слово, пить, курить брошу! И даже про свободовца плохого слова никогда не скажу!</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_3">
+        <text>Устроил как-то "Долг" на Кордоне жутко секретную засаду и перехватил одного сталкера. А у того полный рюкзак хабара и бадун жутчайший, и чувство раскаяния накатило. Командир, отпусти ты меня. Вот говорили мне, что пить вредно, а я не слушался. А ведь верно, да? Ежели я бы трезвый был, бы разве сунулся сюда? Вчера ж вся Зона видела, как вы на этой тропе засаду устраивали.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_4">
+        <text>Стоит сталкер у перекрестка в Зоне и читает указатели. Направо - аномалии, вперед - монстры, налево - кабаки и девки. Подумал сталкер, подумал и пошел вперед. Думает, выживу надо будет у свободовцев спросить, что за ужасы такие новые и непонятные, кабаки и девки.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_5">
+        <text>Идет молодой сталкер по Зоне и вдруг видит озеро, которого нет на карте. Он туда-сюда, потом смотрит, какой-то мужик неподалеку маячит. Ну, молодой к нему и спрашивает, уважаемый, а как бы мне озеро обойти? Тот отвечает, пошли, мне по дороге, я покажу. Ну, идут, а молодой говорит, вы, наверное, каждый кустик тут знаете, раз без оружия ходить не боитесь. Мужик смеется. А кого тут, говорит, боятся-то? Ну, монстров там всяких, зомби, контролеров. Мужик задумался и отвечает. Ладно, монстры шмонстры, это понятно. Ну, зомби тоже еще туда-сюда. Ну, а нас-то, контролеров, чего боятся?</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_6">
+        <text>Свалился на заброшенном заводе кирпич с крыши и зашиб одного мэна. Народ собрался, переживает. Блин, монстров и контролёров и так хватает, так ещё и кирпичи с крыш летят. Во фигня, не повезло чуваку, ну и так далее. Но один бывалый пригляделся и говорит. Спокуха, мужики, туда ему и дорога. Это ж зомби бродяжей. А народ ещё больше расстроился. Блин, ну чё за фигня такая? Зомби поразвелось, кирпичу упасть негде.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_7">
+        <text>Дрессирует как-то контролер слепого пса, а рядом зомби стоит и потешается. Контролер обиделся и говорит «Знаешь, сталкер, я, между прочим, еще помню, как ты сам выкабенивался. То не сделаю, это не буду. Я человек, а не крыса подопытная».</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_8">
+        <text>Встречаются, значит, двое сталкеров. Ну, один спрашивает, слышь, а где Васька? Что-то не видно его сегодня. Второй отвечает, а он за грибами пошел. И далеко пошел, а хрен его знает. Это смотря куда его грибы выведут.</text>
+    </string>
+    <string id="characters_voice_human_03_freedom_talk_jokes_joke_9">
+        <text>Встречаются два конкретно подсевших зомби. Слышь, мэн, у тебя есть чем догнаться? Йоу, чувак, мне тут один сталкер знакомый такую мощную штуку подогнал, вообще. Класс, а как вставляет? Да пять секунд и просто отпад. Офигеть, а сильно гребет? Да сталкер сказал, что до полного отрыва башки. Ууу, кайф! А называется как? А называется «Граната».</text>
     </string>
 
 
