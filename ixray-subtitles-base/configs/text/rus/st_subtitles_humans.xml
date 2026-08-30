@@ -5664,6 +5664,84 @@
     <string id="characters_voice_human_03_stalker_talk_use_no_weapon_4">
         <text>Нет. Так разговора не будет. Оружие убери.</text>
     </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_1">
+        <text>Мочи их!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_10">
+        <text>Есть!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_11">
+        <text>Веселе-веселей! Шевились!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_12">
+        <text>Не подставляться!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_13">
+        <text>Работаем!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_2">
+        <text>Ану с дороги!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_3">
+        <text>Вали козлов!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_4">
+        <text>Топчи!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_5">
+        <text>Порвать сволочей!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_6">
+        <text>Ну, поехали, парни!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_7">
+        <text>Давай-давай!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_8">
+        <text>А хрен тебе!</text>
+    </string>
+    <string id="characters_voice_human_01_killer_fight_attack_script_attack_9">
+        <text>Эх, поотягиваемся!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_1">
+        <text>Мочи их!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_10">
+        <text>Есть!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_11">
+        <text>Веселе-веселей! Шевились!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_12">
+        <text>Не подставляться!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_13">
+        <text>Работаем!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_2">
+        <text>Ану с дороги!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_3">
+        <text>Вали козлов!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_4">
+        <text>Топчи!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_5">
+        <text>Порвать сволочей!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_6">
+        <text>Ну, поехали, парни!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_7">
+        <text>Давай-давай!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_8">
+        <text>А хрен тебе!</text>
+    </string>
+    <string id="characters_voice_human_02_killer_fight_attack_script_attack_9">
+        <text>Эх, поотягиваемся!</text>
+    </string>
     <string id="characters_voice_human_03_killer_fight_attack_script_attack_1">
         <text>Мочи их!</text>
     </string>

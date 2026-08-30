@@ -707,274 +707,231 @@
         <text>TEXT</text>
     </string>
 
-
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_01_killer_fight_attack_script_attack_9">
-        <text>TEXT</text>
-    </string>
-
-
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>Это старый.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Не смешно.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Я не понял.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
+        <text>Смысле?</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_5">
-        <text>TEXT</text>
+        <text>Да-да, помню.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_6">
-        <text>TEXT</text>
+        <text>...</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_7">
-        <text>TEXT</text>
+        <text>Ха. Ха.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_joke_reaction_joke_8">
-        <text>TEXT</text>
+        <text>М-да, смешно сказал.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Душевно.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Ещё что-то можешь?</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Ничего так.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Прикольно.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Молодец.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Эх, спасибо.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Клёво сбацал.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_8">
-        <text>TEXT</text>
+        <text>Ничего так слабал.</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_music_reaction_music_9">
-        <text>TEXT</text>
+        <text>Не кисло.</text>
     </string>
 
 
     <string id="characters_voice_human_01_killer_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_10">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_7">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_8">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_01_killer_reactions_story_laughter_9">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
     <string id="characters_voice_human_01_killer_states_idle_idle_1">
-        <text>TEXT</text>
+        <text>Сейчас бы шашлычок, да с зеленью, да под хорошее вино.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_10">
-        <text>TEXT</text>
+        <text>А, да пошли они все, шакалы они товарищи. Веры никому нет.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_11">
-        <text>TEXT</text>
+        <text>Нет, они меня доведут, постреляю к чертям. Одна команда называется, совсем оборзели, глаз на чужой хабар класть.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_12">
-        <text>TEXT</text>
+        <text>Да, это ж надо выдумать. Против нас рыпаться. У нас разговор короткий, правила простые. Отдаешь хабар - живи. Не отдаешь - милости просим на тот свет. Ну ничего, теперь надолго запомнят.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_13">
-        <text>TEXT</text>
+        <text>Не тот нынче подъем. Раньше было, за один рейд нехило подняться можно было. Сейчас уже не то. И с заказами хорошими в последнее время хреново.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_14">
-        <text>TEXT</text>
+        <text>Нет, правильно я всё сделал. Если любая скотина будет в моих вещах копаться...</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_15">
-        <text>TEXT</text>
+        <text>Достала! Ух, и достала ж ты меня Зона! По гроб достала! Было бы где отсидеться, так негде. Никого надежного ни тут, ни там. Вот ведь судьба какая долбанная!</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_16">
-        <text>TEXT</text>
+        <text>*Напевает*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_17">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_18">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_19">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_2">
-        <text>TEXT</text>
+        <text>Как я тогда этого сталкера резал... Как художник, блин. Как Пикассо, в натуре.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_20">
-        <text>TEXT</text>
+        <text>*Чихает*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_21">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_22">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_23">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_24">
-        <text>TEXT</text>
+        <text>*Чихает*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_25">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_26">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_27">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_28">
-        <text>TEXT</text>
+        <text>*Чихает*</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_3">
-        <text>TEXT</text>
+        <text>Сейчас-сейчас, ещё не много и море, солнце, яхта, коньяк штук за десять баксов... Тёлочки самые дорогие.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_4">
-        <text>TEXT</text>
+        <text>Да, темнота бывает враг, бывает лучший друг.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_5">
-        <text>TEXT</text>
+        <text>Так. Что там у меня ещё съедобного осталось? Или перебиться пока?</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_6">
-        <text>TEXT</text>
+        <text>Хм, а вот интересно, сколько у меня в заначке скопилось? Что-то не пересчитывал давно...</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_7">
-        <text>TEXT</text>
+        <text>Нет, верить никому нельзя. Все собаки, все тебе в горло хотят вцепиться!</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_8">
-        <text>TEXT</text>
+        <text>Надо себя по ходу ставить как следует, чтобы не думали, как подлянку кинуть, чтобы обделывались все от твоего имени.</text>
     </string>
     <string id="characters_voice_human_01_killer_states_idle_idle_9">
-        <text>TEXT</text>
+        <text>Да, бабы - это вообще классно. Только тут им не место. Не, не место однозначно.</text>
     </string>
-
 
     <string id="characters_voice_human_01_killer_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Анекдот вспомнил.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Короче, анекдот.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Кстати, слышали?</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Анекдот.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_joke_5">
-        <text>TEXT</text>
+        <text>Вот в тему.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Эх, а не сбацать чего-нибудь?</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Эх, скушновато. Сейчас сбацаю чего-нибудь.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Сыграть что-нибудь, что ли?</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Чего бы такого сыграть? А, вот, пожалуй.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_music_5">
-        <text>TEXT</text>
+        <text>Народ, зацените.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_intros_intro_music_6">
-        <text>TEXT</text>
+        <text>Мужики, музыкальная пауза, типа.</text>
     </string>
 
 
     <string id="characters_voice_human_01_killer_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Приходит новый русский к сталкеру и говорит. «Эй, слышишь, ты, мне артефакт нужен. Золотая рыбка называется. Хочу, как все братаны, на шею чтобы носить, так!» Так ведь он радиоактивный. Слышь, ты чё мне мозги паришь? Радиоактивный, радиопассивный. Я же его не в трусы засуну.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Встречаются как-то двое сталкеров, один другому. Ты Васю помнишь? Ну того, который каждому рассказывал, как он в лётные три раза поступал. Помню, а чего? Так он это, на днях в трамплин вляпался. Ой блин... Вот так, сбылась, можно сказать, у человека мечта. Полетел!</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Сидят на берегу озера два сталкера. Первый говорит: брешут все по поводу радиации. Я тут уже фиг знает сколько сижу и хоть бы хны. А второй ему: точно-точно, врут собаки. Хотя вот с хвоста почему-то шерсть облизать стала. Врачу что ли показаться?</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Встречаются как-то два сталкера. Ну, один другому и говорит. На днях к "Долгу" заходил на огонек. Ну и? И остался должен. А потом зашел к "Свободе". И что? И стал свободен.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Доктор, не могу спать. Мне снится сон будто я нахожусь запертым в саркофаге с кучей монстров и они разрывают меня на кусочки - жалуется сталкер. Это тебя контролер предупреждает. Послушай моего совета: обязательно ему бутылку занеси. Ведь для скольких сталкеров этот сон в явь превратился... А почему? На бутылку пожлобились. А за доктора спасибо, не ожидал. Отвечает контролер-бухарь.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Висит на стене бара объявление. По поводу празднования дня сталкера организуется выход в глубину Зоны для охоты на монстров и поиска артефактов. Сбор всех сталкеров, любителей этого дела, назначен на шесть тридцать. Этого дела брать с собой по два литра.</text>
     </string>
     <string id="characters_voice_human_01_killer_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>В Зоне появилась новая аномалия "сталкер не пьющий". Отлечительная особенность - не употребляет спритное. Способ обнаружения - идти на усиленое пищание счетчика Гейгера.</text>
     </string>
 
 
@@ -2324,273 +2281,231 @@
     </string>
 
 
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_02_killer_fight_attack_script_attack_9">
-        <text>TEXT</text>
-    </string>
-
-
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>Это старый.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Не смешно.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Я не понял.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
+        <text>Смысле?</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_5">
-        <text>TEXT</text>
+        <text>Да-да, помню.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_6">
-        <text>TEXT</text>
+        <text>...</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_7">
-        <text>TEXT</text>
+        <text>Ха. Ха.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_joke_reaction_joke_8">
-        <text>TEXT</text>
+        <text>М-да, смешно сказал.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Душевно.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Ещё что-то можешь?</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Ничего так.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Прикольно.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Молодец.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Эх, спасибо.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Клёво сбацал.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_8">
-        <text>TEXT</text>
+        <text>Ничего так слабал.</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_music_reaction_music_9">
-        <text>TEXT</text>
+        <text>Не кисло.</text>
     </string>
 
 
     <string id="characters_voice_human_02_killer_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_10">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_7">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_8">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_02_killer_reactions_story_laughter_9">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
 
     <string id="characters_voice_human_02_killer_states_idle_idle_1">
-        <text>TEXT</text>
+        <text>Сейчас бы шашлычок, да с зеленью, да под хорошее вино.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_10">
-        <text>TEXT</text>
+        <text>А, да пошли они все, шакалы они товарищи. Веры никому нет.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_11">
-        <text>TEXT</text>
+        <text>Нет, они меня доведут, постреляю к чертям. Одна команда называется, совсем оборзели, глаз на чужой хабар класть.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_12">
-        <text>TEXT</text>
+        <text>Да, это ж надо выдумать. Против нас рыпаться. У нас разговор короткий, правила простые. Отдаешь хабар - живи. Не отдаешь - милости просим на тот свет. Ну ничего, теперь надолго запомнят.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_13">
-        <text>TEXT</text>
+        <text>Не тот нынче подъем. Раньше было, за один рейд нехило подняться можно было. Сейчас уже не то. И с заказами хорошими в последнее время хреново.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_14">
-        <text>TEXT</text>
+        <text>Нет, правильно я всё сделал. Если любая скотина будет в моих вещах копаться...</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_15">
-        <text>TEXT</text>
+        <text>Достала! Ух, и достала ж ты меня Зона! По гроб достала! Было бы где отсидеться, так негде. Никого надежного ни тут, ни там. Вот ведь судьба какая долбанная!</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_16">
-        <text>TEXT</text>
+        <text>*Напевает*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_17">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_18">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_19">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_2">
-        <text>TEXT</text>
+        <text>Как я тогда этого сталкера резал... Как художник, блин. Как Пикассо, в натуре.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_20">
-        <text>TEXT</text>
+        <text>*Чихает*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_21">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_22">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_23">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_24">
-        <text>TEXT</text>
+        <text>*Чихает*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_25">
-        <text>TEXT</text>
+        <text>*Зевает*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_26">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_27">
-        <text>TEXT</text>
+        <text>*Кашляет*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_28">
-        <text>TEXT</text>
+        <text>*Чихает*</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_3">
-        <text>TEXT</text>
+        <text>Сейчас-сейчас, ещё не много и море, солнце, яхта, коньяк штук за десять баксов... Тёлочки самые дорогие.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_4">
-        <text>TEXT</text>
+        <text>Да, темнота бывает враг, бывает лучший друг.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_5">
-        <text>TEXT</text>
+        <text>Так. Что там у меня ещё съедобного осталось? Или перебиться пока?</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_6">
-        <text>TEXT</text>
+        <text>Хм, а вот интересно, сколько у меня в заначке скопилось? Что-то не пересчитывал давно...</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_7">
-        <text>TEXT</text>
+        <text>Нет, верить никому нельзя. Все собаки, все тебе в горло хотят вцепиться!</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_8">
-        <text>TEXT</text>
+        <text>Надо себя по ходу ставить как следует, чтобы не думали, как подлянку кинуть, чтобы обделывались все от твоего имени.</text>
     </string>
     <string id="characters_voice_human_02_killer_states_idle_idle_9">
-        <text>TEXT</text>
+        <text>Да, бабы - это вообще классно. Только тут им не место. Не, не место однозначно.</text>
     </string>
-
 
     <string id="characters_voice_human_02_killer_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Анекдот вспомнил.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Короче, анекдот.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Кстати, слышали?</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Анекдот.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_joke_5">
-        <text>TEXT</text>
+        <text>Вот в тему.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Эх, а не сбацать чего-нибудь?</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Эх, скушновато. Сейчас сбацаю чего-нибудь.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Сыграть что-нибудь, что ли?</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Чего бы такого сыграть? А, вот, пожалуй.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_music_5">
-        <text>TEXT</text>
+        <text>Народ, зацените.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_intros_intro_music_6">
-        <text>TEXT</text>
+        <text>Мужики, музыкальная пауза, типа.</text>
     </string>
 
 
     <string id="characters_voice_human_02_killer_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Приходит новый русский к сталкеру и говорит. «Эй, слышишь, ты, мне артефакт нужен. Золотая рыбка называется. Хочу, как все братаны, на шею чтобы носить, так!» Так ведь он радиоактивный. Слышь, ты чё мне мозги паришь? Радиоактивный, радиопассивный. Я же его не в трусы засуну.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Встречаются как-то двое сталкеров, один другому. Ты Васю помнишь? Ну того, который каждому рассказывал, как он в лётные три раза поступал. Помню, а чего? Так он это, на днях в трамплин вляпался. Ой блин... Вот так, сбылась, можно сказать, у человека мечта. Полетел!</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Сидят на берегу озера два сталкера. Первый говорит: брешут все по поводу радиации. Я тут уже фиг знает сколько сижу и хоть бы хны. А второй ему: точно-точно, врут собаки. Хотя вот с хвоста почему-то шерсть облизать стала. Врачу что ли показаться?</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Встречаются как-то два сталкера. Ну, один другому и говорит. На днях к "Долгу" заходил на огонек. Ну и? И остался должен. А потом зашел к "Свободе". И что? И стал свободен.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Доктор, не могу спать. Мне снится сон будто я нахожусь запертым в саркофаге с кучей монстров и они разрывают меня на кусочки - жалуется сталкер. Это тебя контролер предупреждает. Послушай моего совета: обязательно ему бутылку занеси. Ведь для скольких сталкеров этот сон в явь превратился... А почему? На бутылку пожлобились. А за доктора спасибо, не ожидал. Отвечает контролер-бухарь.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Висит на стене бара объявление. По поводу празднования дня сталкера организуется выход в глубину Зоны для охоты на монстров и поиска артефактов. Сбор всех сталкеров, любителей этого дела, назначен на шесть тридцать. Этого дела брать с собой по два литра.</text>
     </string>
     <string id="characters_voice_human_02_killer_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>В Зоне появилась новая аномалия "сталкер не пьющий". Отлечительная особенность - не употребляет спритное. Способ обнаружения - идти на усиленое пищание счетчика Гейгера.</text>
     </string>
 
 
@@ -4108,145 +4023,230 @@
 
 
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
+        <text>Это старый.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
+        <text>Не смешно.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
+        <text>Я не понял.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
+        <text>Смысле?</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_5">
-        <text>TEXT</text>
+        <text>Да-да, помню.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_6">
-        <text>TEXT</text>
+        <text>...</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_7">
-        <text>TEXT</text>
+        <text>Ха. Ха.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_joke_reaction_joke_8">
-        <text>TEXT</text>
+        <text>М-да, смешно сказал.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_1">
-        <text>TEXT</text>
+        <text>Душевно.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_2">
-        <text>TEXT</text>
+        <text>Ещё что-то можешь?</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_3">
-        <text>TEXT</text>
+        <text>Ничего так.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_4">
-        <text>TEXT</text>
+        <text>Прикольно.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_5">
-        <text>TEXT</text>
+        <text>Молодец.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_6">
-        <text>TEXT</text>
+        <text>Эх, спасибо.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_7">
-        <text>TEXT</text>
+        <text>Клёво сбацал.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_8">
-        <text>TEXT</text>
+        <text>Ничего так слабал.</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_music_reaction_music_9">
-        <text>TEXT</text>
+        <text>Не кисло.</text>
     </string>
 
 
     <string id="characters_voice_human_03_killer_reactions_story_laughter_1">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_10">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_2">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_3">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_4">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_5">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_6">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_7">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_8">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
     <string id="characters_voice_human_03_killer_reactions_story_laughter_9">
-        <text>TEXT</text>
+        <text>*Смеётся*</text>
     </string>
 
+
+    <string id="characters_voice_human_03_killer_states_idle_idle_1">
+        <text>Сейчас бы шашлычок, да с зеленью, да под хорошее вино.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_10">
+        <text>А, да пошли они все, шакалы они товарищи. Веры никому нет.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_11">
+        <text>Нет, они меня доведут, постреляю к чертям. Одна команда называется, совсем оборзели, глаз на чужой хабар класть.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_12">
+        <text>Да, это ж надо выдумать. Против нас рыпаться. У нас разговор короткий, правила простые. Отдаешь хабар - живи. Не отдаешь - милости просим на тот свет. Ну ничего, теперь надолго запомнят.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_13">
+        <text>Не тот нынче подъем. Раньше было, за один рейд нехило подняться можно было. Сейчас уже не то. И с заказами хорошими в последнее время хреново.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_14">
+        <text>Нет, правильно я всё сделал. Если любая скотина будет в моих вещах копаться...</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_15">
+        <text>Достала! Ух, и достала ж ты меня Зона! По гроб достала! Было бы где отсидеться, так негде. Никого надежного ни тут, ни там. Вот ведь судьба какая долбанная!</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_16">
+        <text>*Напевает*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_17">
+        <text>*Зевает*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_18">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_19">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_2">
+        <text>Как я тогда этого сталкера резал... Как художник, блин. Как Пикассо, в натуре.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_20">
+        <text>*Чихает*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_21">
+        <text>*Зевает*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_22">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_23">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_24">
+        <text>*Чихает*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_25">
+        <text>*Зевает*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_26">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_27">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_28">
+        <text>*Чихает*</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_3">
+        <text>Сейчас-сейчас, ещё не много и море, солнце, яхта, коньяк штук за десять баксов... Тёлочки самые дорогие.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_4">
+        <text>Да, темнота бывает враг, бывает лучший друг.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_5">
+        <text>Так. Что там у меня ещё съедобного осталось? Или перебиться пока?</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_6">
+        <text>Хм, а вот интересно, сколько у меня в заначке скопилось? Что-то не пересчитывал давно...</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_7">
+        <text>Нет, верить никому нельзя. Все собаки, все тебе в горло хотят вцепиться!</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_8">
+        <text>Надо себя по ходу ставить как следует, чтобы не думали, как подлянку кинуть, чтобы обделывались все от твоего имени.</text>
+    </string>
+    <string id="characters_voice_human_03_killer_states_idle_idle_9">
+        <text>Да, бабы - это вообще классно. Только тут им не место. Не, не место однозначно.</text>
+    </string>
 
     <string id="characters_voice_human_03_killer_talk_intros_intro_joke_1">
-        <text>TEXT</text>
+        <text>Анекдот вспомнил.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_joke_2">
-        <text>TEXT</text>
+        <text>Короче, анекдот.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_joke_3">
-        <text>TEXT</text>
+        <text>Кстати, слышали?</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_joke_4">
-        <text>TEXT</text>
+        <text>Анекдот.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_joke_5">
-        <text>TEXT</text>
+        <text>Вот в тему.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_music_1">
-        <text>TEXT</text>
+        <text>Эх, а не сбацать чего-нибудь?</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_music_2">
-        <text>TEXT</text>
+        <text>Эх, скушновато. Сейчас сбацаю чего-нибудь.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_music_3">
-        <text>TEXT</text>
+        <text>Сыграть что-нибудь, что ли?</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_music_4">
-        <text>TEXT</text>
+        <text>Чего бы такого сыграть? А, вот, пожалуй.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_music_5">
-        <text>TEXT</text>
+        <text>Народ, зацените.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_intros_intro_music_6">
-        <text>TEXT</text>
+        <text>Мужики, музыкальная пауза, типа.</text>
     </string>
 
 
     <string id="characters_voice_human_03_killer_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Приходит новый русский к сталкеру и говорит. «Эй, слышишь, ты, мне артефакт нужен. Золотая рыбка называется. Хочу, как все братаны, на шею чтобы носить, так!» Так ведь он радиоактивный. Слышь, ты чё мне мозги паришь? Радиоактивный, радиопассивный. Я же его не в трусы засуну.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Встречаются как-то двое сталкеров, один другому. Ты Васю помнишь? Ну того, который каждому рассказывал, как он в лётные три раза поступал. Помню, а чего? Так он это, на днях в трамплин вляпался. Ой блин... Вот так, сбылась, можно сказать, у человека мечта. Полетел!</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Сидят на берегу озера два сталкера. Первый говорит: брешут все по поводу радиации. Я тут уже фиг знает сколько сижу и хоть бы хны. А второй ему: точно-точно, врут собаки. Хотя вот с хвоста почему-то шерсть облизать стала. Врачу что ли показаться?</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Встречаются как-то два сталкера. Ну, один другому и говорит. На днях к "Долгу" заходил на огонек. Ну и? И остался должен. А потом зашел к "Свободе". И что? И стал свободен.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Доктор, не могу спать. Мне снится сон будто я нахожусь запертым в саркофаге с кучей монстров и они разрывают меня на кусочки - жалуется сталкер. Это тебя контролер предупреждает. Послушай моего совета: обязательно ему бутылку занеси. Ведь для скольких сталкеров этот сон в явь превратился... А почему? На бутылку пожлобились. А за доктора спасибо, не ожидал. Отвечает контролер-бухарь.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Висит на стене бара объявление. По поводу празднования дня сталкера организуется выход в глубину Зоны для охоты на монстров и поиска артефактов. Сбор всех сталкеров, любителей этого дела, назначен на шесть тридцать. Этого дела брать с собой по два литра.</text>
     </string>
     <string id="characters_voice_human_03_killer_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>В Зоне появилась новая аномалия "сталкер не пьющий". Отлечительная особенность - не употребляет спритное. Способ обнаружения - идти на усиленое пищание счетчика Гейгера.</text>
     </string>
     
 
