@@ -978,6 +978,531 @@
     <string id="characters_voice_human_01_dolg_talk_jokes_joke_9">
         <text>Приходит раз свободовец к медику на «Янов». И жалуется, мол, плохо ему в последнее время. Костоправ, значит, посмотрел его всего. И говорит: Ну что... Придётся тебе полечиться. Травки попить. У свободовца аж глаза на лоб полезли: Ты, доктор, гонишь! Ты мне ещё скажи... шприцы покурить.</text>
     </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_1">
+        <text>Мясо!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_10">
+        <text>На, гад! На!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_11">
+        <text>На тебе! На!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_12">
+        <text>А вот тебе!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_13">
+        <text>На тебе!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_14">
+        <text>Получай!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_15">
+        <text>Жри, сволочь!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_2">
+        <text>Уничтожить врага!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_3">
+        <text>Зачистим в ноль!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_4">
+        <text>Клади всех!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_5">
+        <text>Вали их!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_6">
+        <text>Вали гадов!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_7">
+        <text>Вот так вот!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_8">
+        <text>В точку!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_9">
+        <text>Продырявил гада!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_relax_1">
+        <text>Отработали! Вольно!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_relax_2">
+        <text>Бой окончен!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_relax_3">
+        <text>Всё! Отдыхаем!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_1">
+        <text>Без команды не расслабляться!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_2">
+        <text>Всем быть на готове!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_3">
+        <text>Осмотреться!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_4">
+        <text>Не спать! Ждём противника!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_5">
+        <text>Держать позиции!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_kill_wounded_1">
+        <text>Лови гостинец.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_kill_wounded_2">
+        <text>А это на посошок.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_kill_wounded_3">
+        <text>А вот тебе шиш.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_kill_wounded_4">
+        <text>Отходную не заказывали?</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_kill_wounded_5">
+        <text>Жить-то как охота, верно?</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_medkit_1">
+        <text>Терпи, брат. Сейчас чиниться будем.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_medkit_2">
+        <text>Тихо-тихо, я уже тут. Подремонтируем тебя малёха и всё будет нормально.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_medkit_3">
+        <text>Всё-всё, не стони, не стони. Сейчас помогу.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_1">
+        <text>*Корчится от боли*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_2">
+        <text>*Корчится от боли*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_3">
+        <text>*Корчится от боли*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_4">
+        <text>*Корчится от боли*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_5">
+        <text>Чёрт, как это я? Как же так, а ребят?</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_6">
+        <text>Хана... Хана мне.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_7">
+        <text>*Корчится от боли*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_heavy_help_8">
+        <text>*Корчится от боли*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_thanx_thanx_1">
+        <text>Вот это выручил.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_thanx_thanx_2">
+        <text>Спасибо, друг.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_thanx_thanx_3">
+        <text>Извини, что припахал.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_thanx_thanx_4">
+        <text>Спасибо, парень.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_thanx_thanx_5">
+        <text>Спасибо, друг. Спасибо.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_help_wounded_thanx_thanx_6">
+        <text>Слушай я... Спасибо тебе.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_1">
+        <text>Ну и в чём тут соль?</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_2">
+        <text>А хорошо! ха-ха-ха.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_3">
+        <text>Сто лет ему в обед и вот такая борода.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_4">
+        <text>Слушай, завязывал бы ты хохмить, ну задолбало, честное слово.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_1">
+        <text>Ой, хорошо.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_2">
+        <text>Ну порадовал-порадовал.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_3">
+        <text>Могёшь!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_4">
+        <text>Мастер, ну!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_5">
+        <text>Самому что ли играть научиться...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_6">
+        <text>Ну это ты как-то не вовремя.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_7">
+        <text>А и правда ничего.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_story_laughter_1">
+        <text>*Смеётся*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_story_laughter_2">
+        <text>*Смеётся*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_story_laughter_3">
+        <text>*Смеётся*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_reactions_story_laughter_4">
+        <text>*Смеётся*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_1">
+        <text>Эх. Завалиться бы сейчас подрыхнуть минут так на шестьсот.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_10">
+        <text>И как там мои? Что там у них? Знать бы.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_11">
+        <text>А группа моя... Никого уже. Никого.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_12">
+        <text>Ну и ухайдокался я. В полный ноль. А раскисать пока нельзя... Ох, нельзя.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_13">
+        <text>Вот как вернемся, кто жив останется...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_14">
+        <text>Зона... Да мы все теперь в Зоне. С головы до ног. Я без карты уже по ней где хочешь могу.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_15">
+        <text>А зверьё тут... Да и люди не особо лучше.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_16">
+        <text>Ну, если повезет. Найдем тех, кто все это устроил, и поговорим. Душевно так поговорим. По-мужски.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_17">
+        <text>У солдата вечность впереди. Ты её со старостью не путай. Кукушка. Хреново тут с кукушками. Спросить не у кого.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_18">
+        <text>Вот зверьё, ему всегда хорошо. Нашёл поляну с грибами, тут тебе и стол. А ты таскай на себе паёк, если в рейд на неделю.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_19">
+        <text>Нет, ну Свобода... Анекдот, натурально. Набежало в Зону дебилов накуренных. Хотя в боевых вопросах они неплохо понимают... Ничего не скажешь.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_2">
+        <text>Эх. Вот вернусь, после такого везде хорошо будет, в любой дыре.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_20">
+        <text>Эх, погода, погода, что ж ты такая переменчивая?</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_21">
+        <text>*Зевает* Что, защитник человечества, спать хочешь? Нельзя, нельзя. Люди надеются на тебя. Как же... Надеются... Нифига они про нас не знают. Да и хрен с ней, со славой. Разобраться бы с этой Зоной.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_22">
+        <text>Чёрт, ну ведь какие уроды... Свобода всем даром. Какая тут свобода? Выпустить тварей за периметр? Сами шизанутые, так в сторонку отойдите, не мешайте работать.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_23">
+        <text>Нет, ну чего этим свободовцам надо? Чтобы зону не трогали? Да как такое можно нетронутым оставлять? Это же не заповедник, блин, тут смерть кругом.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_24">
+        <text>Ах, если бы уроды всякие не мешались... Может, мы Зону уже и вычистили бы до самого донышка.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_25">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_26">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_27">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_28">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_29">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_3">
+        <text>Однако дерьмово ситуевина складывается. Сколько уже тут паримся, а подмоги почти никакой.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_30">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_31">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_32">
+        <text>*Зевает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_33">
+        <text>*Зевает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_34">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_35">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_36">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_37">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_38">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_39">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_4">
+        <text>Ох, сколько тут ещё дряни всякой... Чистить и чистить.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_40">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_41">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_42">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_43">
+        <text>*Кашляет*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_44">
+        <text>*Зевает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_45">
+        <text>*Зевает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_46">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_47">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_48">
+        <text>*Вздыхает*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_49">
+        <text>Да уж, дожили... Со Свободой, чтобы её... в одной песочнице сидеть... Эх, найти бы бункер поцеле. Да сделай там базу, чтобы по всем правилам.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_5">
+        <text>Так и надо было побольше галет запасти. Ведь как знал.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_50">
+        <text>Ох, а руки-то, руки как чешутся, кому-нибудь из Свободы морду набить. И били, всю жизнь били, а теперь, видишь, нельзя. Приказ. Да ну их к чертям такие приказы.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_51">
+        <text>Ой, чую я, братцы, нехорошее скоро будет что-то, ой, нехорошее...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_52">
+        <text>А места ведь тут совсем дикие. Ну, направили ребят проход в Припять искать. И ни тебе ребят, ни следов, как в воду ушли. С концами.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_53">
+        <text>Надо будет патронов побольше с собой взять. Чёрт его знает, какая тут нечисть на дороге попадется.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_6">
+        <text>Ёлки-палки, опять забыл старые закладки проверить, как бы не пошуровал в них кто.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_7">
+        <text>Ух, пожрать бы сейчас основательно.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_8">
+        <text>Нет, всё равно. Пока Зону не сделаем, не уйдем отсюда. Право у нас такого нет. Не дай бог в мир такое выползет...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_idle_idle_9">
+        <text>Да, вот она, работа - других защищать. Узнать бы ещё, кто за весь этот цирк ответить должен.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_bad_1">
+        <text>М-да уж... Снаряги как на том бедуине.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_bad_2">
+        <text>Бедноват ты, однако, был, парень.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_bad_3">
+        <text>Тьфу ты.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_begin_1">
+        <text>А нука-нука...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_begin_2">
+        <text>Поглядим чем ты богатый.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_begin_3">
+        <text>Проверим, что там у тебя.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_good_1">
+        <text>Неплохо.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_good_2">
+        <text>Нормально.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_loot_loot_good_3">
+        <text>Хорошо, что пошарить не поленился.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_hello_1">
+        <text>Чего расскажешь хорошего?</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_hello_2">
+        <text>Ну, здорово!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_hello_3">
+        <text>Время дорого. Рассказывай.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_hide_weapon_1">
+        <text>Оружие прибери, дружище.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_hide_weapon_2">
+        <text>Оружие спрячь.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_hide_weapon_3">
+        <text>Оружие за спину!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_default_1">
+        <text>Нет, сейчас не поговорим.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_default_2">
+        <text>Поговорить не получится, извини.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_default_3">
+        <text>Я не могу сейчас разговаривать.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_fight_1">
+        <text>В другой раз поговорим!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_fight_2">
+        <text>В другой раз поговорим!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_fight_3">
+        <text>Потом, потом поговорим, потом!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_talk_leader_1">
+        <text>По всем вопросам - к командиру отряда.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_talk_leader_2">
+        <text>Со всеми вопросами - к командиру.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_talk_leader_3">
+        <text>Иди с командиром говори.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_weapon_1">
+        <text>Убери свою пушку, тогда и разговор будет!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_weapon_2">
+        <text>Так, или пушку убери, или дуй отсюда!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_meet_meet_use_no_weapon_3">
+        <text>Когда оружие спрячешь, тогда и поговорим.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_1">
+        <text>Вот, блин!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_2">
+        <text>Какя же ты гадина, а!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_3">
+        <text>Отцепись ты!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_4">
+        <text>Хитёр гад!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_5">
+        <text>Задолбал, сволочь!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_6">
+        <text>Пристал, дуреман!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_7">
+        <text>Всё, достал!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_human_panic_human_8">
+        <text>Да пошёл ты!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_monster_panic_monster_1">
+        <text>Чёрт, зараза!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_monster_panic_monster_2">
+        <text>Вот сволочь!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_monster_panic_monster_3">
+        <text>Ах ты ж ёлки!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_monster_panic_monster_4">
+        <text>Развелось вас, мля!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_panic_monster_panic_monster_5">
+        <text>Отцепись, мразь!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_sleep_sleep_1">
+        <text>*Храпит*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_sleep_sleep_2">
+        <text>*Храпит*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_states_sleep_sleep_3">
+        <text>*Храпит*</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_1">
+        <text>Ну вот значит...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_2">
+        <text>А вот чего я ещё слышал...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_3">
+        <text>Короче, хохман...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_4">
+        <text>А такое слышали?</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_1">
+        <text>А теперь музыкальная пауза!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_2">
+        <text>Сейчас я вам сыграю. Чтоб сыгрть-то...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_3">
+        <text>Эх, без музыки и радости нет...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_4">
+        <text>Сейчас будет музыка.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_5">
+        <text>Вот, послушайте.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_1">
+        <text>Накопил, значит, сталкер денег. Купил себе домик у речки. Обмыл это дело. Утром с бодуна заходит в сарай... Бьётся о косяк. Наступает на грабли. Отскакивает. Подскользается на коровьей какашке. Падает в свиное корыто... В это время лопата со стены срывается и бьет его по горбу. Оклемался сталкер в сарае и шепчет: И пусть мне после этого... Кто-то ещё расскажет, что аномалии только в Зоне существуют.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_10">
+        <text>Пошла группа свободовцев в рейд. Шли-шли. Решили привал сделать. Присели. Ну и обкурились. И как давай садить в белый свет! Стреляли, пока всё не выстреляли. Как затихло - из кустов сталкер-одиночка обалдевший поднимается... Вы что это, ребята? Да ты что, мужик... Мы же еле отбились! От этих... Ну как их... Э-э... О! Эти! Вороны! Вороны, точняк! Чего? Ага. Знаешь? Агрессивные такие... Страшные! С клювами...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_2">
+        <text>Сидят два свободовца. Курят. Тут вбегает такса одного из них. Другой спрашивает: Что-то у твоей собаки ноги какие-то короткие... Тот посмотрел внимательно: Да не. До земли, вроде, достают...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_3">
+        <text>Два свободовца, значит, сидят и размышляют: По-моему. Нужно хорошенько напиться, чтобы принять решение... А другой ему: А по-моему... чтобы напиться, никакого решения принимать не нужно.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_4">
+        <text>Бредёт кровосос по лесу: жрать охота. Ну как назло. Ни одного сталкера вокруг. А навстречу ему другой кровосос бежит... И кровь по морде аж стекает. Ну первый к нему: О-о-ой... Свезло тебе... Где это ты так?! А тот отвечает: Видишь дерево на холме? Толстое. Вижу. А я вот не увидел...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_5">
+        <text>Один свободовец говорит другому: Знаешь... Я больше никогда-никогда в жизни не буду есть грибы. Это почему же? Да я им вчера обещал...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_6">
+        <text>Сидят два свободовца. Покурили. Один другому говорит: Такую тему слышал... Трава в два раза жизнь уменьшает! Это как? Ну вот тебе сколько лет? Ну, типа, двадцать пять. Ну во! А без травы уже полсотни было!</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_7">
+        <text>Сидят, значит, на взгорке два свободовца. Укуренные, ясное дело, до зелёных веников. Тут раз. Кровосос на них из кустов. Первый свободовец услышал шум. Поднял голову... И обомлел. Ёпта... Кровосос. Второй тоже так голову подымает и говорит задумчиво: О блин... Такая же херня.</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_8">
+        <text>Сидит свободовец на улице в Лиманске. Солнышко греет. Он на нём дремлет. Тут видит: сталкер идёт. И прям на аномалию «Карусель». Свободовец ему: Дядя... Слышишь? Ты дядя... Это... Опа...</text>
+    </string>
+    <string id="characters_voice_human_03_dolg_talk_jokes_joke_9">
+        <text>Приходит раз свободовец к медику на «Янов». И жалуется, мол, плохо ему в последнее время. Костоправ, значит, посмотрел его всего. И говорит: Ну что... Придётся тебе полечиться. Травки попить. У свободовца аж глаза на лоб полезли: Ты, доктор, гонишь! Ты мне ещё скажи... шприцы покурить.</text>
+    </string>
     <string id="characters_voice_human_01_freedom_fight_attack_script_attack_1">
         <text>Эх гробы подорожают!</text>
     </string>

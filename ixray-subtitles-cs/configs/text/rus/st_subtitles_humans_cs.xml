@@ -513,106 +513,137 @@
 
 
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Спокойно. Чем могу помочь, сталкер?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Чего расскажешь хорошего?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Какие новости, сталкер?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Нормально пообщались.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Ладно, будем считать что поговорили.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Всё время коту под хвост.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ты рассказывай с чем пришёл.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Тебе язык отрезали что ли?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Ну ты будешь говорить что-то?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Слушай, не отнимай мое время. Говори скорее, что надо?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Моё терпение на пределе.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Как жизнь?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Ну, здорово.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Время дорого. Рассказывай.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Понятно. Глухонемой.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Отлично помолчал. Талант.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>М-да, и откуда такие берутся?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Ой, не томи, выкладывай.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Так и будешь стоять и молчать?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Говори быстрее, времени не особо.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Я ждать уже утомился.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>И сколько мне ждать?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Так, парень, оружие спрячь.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Сталкер, оружие за спину.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Убери свою пушку, тогда и разговор будет.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Оружие убери, я сказал!</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Нет, так разговора не выйдет. Спрячь пукалку сначала.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Спрячь оружие, сталкер.</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Что, не можешь со стволом растаться?</text>
     </string>
     <string id="characters_voice_human_01_dolg_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Так, или пушку убери, или дуй отсюда.</text>
+    </string>
+
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_1">
+        <text>Встречаются двое сталкеров. Слышь, а ты про Васю, ну того, который в детстве еще хотел летчиком стать, знаешь? А че с ним? Да он вчера в трамплин попал. Опа. Сбылась, можно сказать, у человека заветная мечта. Полетел!</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_10">
+        <text>Попадает сталкер в ад. Чёрт при проходной начинает втирать, как теперь сильно мучиться придётся. Сначала, мол, изваляют в дерьме, потом сунут в чан с кипящей смолой, потом в горло зальют жидкую серу, потом... Тут его сталкер обрывает, старичок, я понял, программа стандартная, лечебные грязи там, ванна, потом можно завалиться в бар. Ты мне лучше скажи, где на вашем курорте пострелять можно, а то все навыки растеряю.</text>
     </string>
     <string id="characters_voice_human_01_dolg_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Идет веселый долговец, окровавленной лопатой помахивает. А на встречу ему другой долговец. «Откуда идешь, браток?» «С похорон». «А че ж такой веселый?» «Свободовцев хоронил». «Ну а лопата почему в крови?» «Так три раза выкапывались, гады!».</text>
     </string>
     <string id="characters_voice_human_01_dolg_talk_jokes_joke_12">
-        <text>TEXT</text>
+        <text>Ну, значит, подваливает один мужик к сталкеру и говорит, эй, друг, а достань-ка мне щенка псевдособаки. Сталкер ему, ты сдурел, что ли? Жить надоело? Он же тебя в секунду порвет. Да ты не понял, говорит мужик. Я же не себе, я тёще на подарок.</text>
     </string>
     <string id="characters_voice_human_01_dolg_talk_jokes_joke_13">
-        <text>TEXT</text>
+        <text>Заходит кровосос в бар. Кровавую Мэри мне. Ну, бармен, как положено, томатный сок наливает, сверху водочкой покрывает, тот все это залпом выпивает, блюет, и все это летит бармену в лицо, на стойку, на бутылки. Бармен, это что за дерьмо? Тот утерся, обрезик достал. Что-то странные вы кровососы стали. Вместо крови вам теперь сок томатный подавай. А вот за беспорядок придется ответить.</text>
     </string>
     <string id="characters_voice_human_01_dolg_talk_jokes_joke_14">
-        <text>TEXT</text>
+        <text>На краю саркофага стоят два контролера. Первый так сокрушенно. «Во блин! Штаны упали!» Второй так посмотрел на него и говорит равнодушно. «Ну и хрен с ними!» А первый со вздохом таким. «Ах, тут и оно!».</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_2">
+        <text>Сталкер пришел к костоправу, жалуется. «Доктор, совсем спать не могу. Как засну, сразу видится, будто в саркофаге меня с кучей монстров заперли». «У-у-у, это вас, судя по всему, контролер предупреждает». «Значит, как в следующий раз в поле пойдете, не забудьте бутылку ему оставить, а не то...» «Благодарю, доктор! Обязательно, обязательно!» «Да не за что!» - говорит контролер. «Вот за доктора, это да, это спасибо! Порадовал старика.»</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_3">
+        <text>Стоит сталкер у перекрестка в Зоне и указатели читает. Направо - аномалии. Вперед - монстры. Налево - кабаки и девки. Подумал сталкер, подумал и пошел вперед. Думает, выживу, надо будет у бывалых спросить, что за ужасы такие новые и непонятные - кабаки и девки.</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_4">
+        <text>Заблудился сталкер. Идет и кричит. Люди! Ау! Эй, кто-нибудь! Вдруг его шлеп сзади по плечу кто-то. Он оборачивается, а там здоровенная такая, ну, страхолюдная тварюга. И говорит ему печально. Ты чего тут разорался? Сталкер. Так я это, того, заблудился я. Думаю, может, хоть кто услышит. Тварюга вздыхает. Ну, я услышала. А смысл?</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_5">
+        <text>Идет молодой сталкер по Зоне. Вдруг озеро, которого на карте нету. Он туда-сюда, а потом смотрит, какой-то мужик неподалеку маячит. Ну, молодой к нему и спрашивает. Уважаемый, как бы мне это озеро-то обойти? Тот отвечает. Пошли, мне по дороге, покажу. Ну, идут-идут, а молодой спрашивает. Вы, наверное, каждый кустик тут знаете, раз без оружия ходить не боитесь. Мужик смеется. Кого тут, говорит, бояться-то? Ну, монстров там всяких, зомби, контролеров. Мужик подумал-подумал, да и говорит, ладно, монстры, шмонстры, это понятно, зомби еще туда-сюда, но нас-то, контролеров, чего бояться-то?</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_6">
+        <text>Сорвался как-то на базе у свободовцев кусок шифера с крыши. Зашибло кого-то. Как всегда, собралась куча народу. Все сочувствуют. Ну да, это же легче, чем шифер нормально прибить. Вот, мол, не повезло мужику. Потом пригляделись. А то не мужик, а зомби. Прямо на территорию забрел. И что думаете, стали они за голову хвататься и посты усиливать? Ни хрена! Стали еще сильнее убиваться. Это ж надо ужас какой! Развелось, мол, твари, и плюнуть некуда. Так до сих пор и убиваются.</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_7">
+        <text>Не разъехались в Зоне наемники и бандюки. Ну, повыскакивали, стволы подоставали, пошла пальба. А контролер, что у перекрестка засел, доволен. Вот, мол, как удачно место я выбрал. Давно хотел на настоящие пацанские разборки поглядеть.</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_8">
+        <text>Паркуются в лесочке на баре двое сталкеров. Первый крутой такой весь, аж из ушей лезет, на лендровере, ну или типа того. Второй замухрышистый, на драной ниве. Ну и начинает крутой прикалываться, глядя как тот, все никак дверцу помятую захлопнуть не может. Кричит ему, мужик, что ты со своей развалюхой морочишься? Кому она нужна? Ты бы еще противоугонку поставил, комик. Я вон свою и то не закрываю, кого тут бояться? Ну, второй молчит, а двери кое-как все-таки закрыл. Возвращается он, значит, из бара, а крутой молча стоит у своей машины, как окаменел, и только в салон смотрит. Сталкер подходит, тоже смотрит, а потом сочувственно так. Да, приятель, не повезло. У меня вот тоже такое как-то случилось. Не закрыл дверей, так бюреры залезли и засрали все в усмерть.</text>
+    </string>
+    <string id="characters_voice_human_01_dolg_talk_jokes_joke_9">
+        <text>Посадил как-то дед репку в Зоне. И выросла репка большая-пребольшая. Такая большая, что если б не ствол, хрен бы дед от нее отбился.</text>
     </string>
 
 
@@ -2171,106 +2202,137 @@
 
 
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Спокойно. Чем могу помочь, сталкер?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Чего расскажешь хорошего?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Какие новости, сталкер?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Нормально пообщались.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Ладно, будем считать что поговорили.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Всё время коту под хвост.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ты рассказывай с чем пришёл.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Тебе язык отрезали что ли?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Ну ты будешь говорить что-то?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Слушай, не отнимай мое время. Говори скорее, что надо?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Моё терпение на пределе.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Как жизнь?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Ну, здорово.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Время дорого. Рассказывай.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Понятно. Глухонемой.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Отлично помолчал. Талант.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>М-да, и откуда такие берутся?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Ой, не томи, выкладывай.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Так и будешь стоять и молчать?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Говори быстрее, времени не особо.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Я ждать уже утомился.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>И сколько мне ждать?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Так, парень, оружие спрячь.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Сталкер, оружие за спину.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Убери свою пушку, тогда и разговор будет.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Оружие убери, я сказал!</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Нет, так разговора не выйдет. Спрячь пукалку сначала.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Спрячь оружие, сталкер.</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Что, не можешь со стволом растаться?</text>
     </string>
     <string id="characters_voice_human_02_dolg_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Так, или пушку убери, или дуй отсюда.</text>
+    </string>
+
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_1">
+        <text>Встречаются двое сталкеров. Слышь, а ты про Васю, ну того, который в детстве еще хотел летчиком стать, знаешь? А че с ним? Да он вчера в трамплин попал. Опа. Сбылась, можно сказать, у человека заветная мечта. Полетел!</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_10">
+        <text>Попадает сталкер в ад. Чёрт при проходной начинает втирать, как теперь сильно мучиться придётся. Сначала, мол, изваляют в дерьме, потом сунут в чан с кипящей смолой, потом в горло зальют жидкую серу, потом... Тут его сталкер обрывает, старичок, я понял, программа стандартная, лечебные грязи там, ванна, потом можно завалиться в бар. Ты мне лучше скажи, где на вашем курорте пострелять можно, а то все навыки растеряю.</text>
     </string>
     <string id="characters_voice_human_02_dolg_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Идет веселый долговец, окровавленной лопатой помахивает. А на встречу ему другой долговец. «Откуда идешь, браток?» «С похорон». «А че ж такой веселый?» «Свободовцев хоронил». «Ну а лопата почему в крови?» «Так три раза выкапывались, гады!».</text>
     </string>
     <string id="characters_voice_human_02_dolg_talk_jokes_joke_12">
-        <text>TEXT</text>
+        <text>Ну, значит, подваливает один мужик к сталкеру и говорит, эй, друг, а достань-ка мне щенка псевдособаки. Сталкер ему, ты сдурел, что ли? Жить надоело? Он же тебя в секунду порвет. Да ты не понял, говорит мужик. Я же не себе, я тёще на подарок.</text>
     </string>
     <string id="characters_voice_human_02_dolg_talk_jokes_joke_13">
-        <text>TEXT</text>
+        <text>Заходит кровосос в бар. Кровавую Мэри мне. Ну, бармен, как положено, томатный сок наливает, сверху водочкой покрывает, тот все это залпом выпивает, блюет, и все это летит бармену в лицо, на стойку, на бутылки. Бармен, это что за дерьмо? Тот утерся, обрезик достал. Что-то странные вы кровососы стали. Вместо крови вам теперь сок томатный подавай. А вот за беспорядок придется ответить.</text>
     </string>
     <string id="characters_voice_human_02_dolg_talk_jokes_joke_14">
-        <text>TEXT</text>
+        <text>На краю саркофага стоят два контролера. Первый так сокрушенно. «Во блин! Штаны упали!» Второй так посмотрел на него и говорит равнодушно. «Ну и хрен с ними!» А первый со вздохом таким. «Ах, тут и оно!».</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_2">
+        <text>Сталкер пришел к костоправу, жалуется. «Доктор, совсем спать не могу. Как засну, сразу видится, будто в саркофаге меня с кучей монстров заперли». «У-у-у, это вас, судя по всему, контролер предупреждает». «Значит, как в следующий раз в поле пойдете, не забудьте бутылку ему оставить, а не то...» «Благодарю, доктор! Обязательно, обязательно!» «Да не за что!» - говорит контролер. «Вот за доктора, это да, это спасибо! Порадовал старика.»</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_3">
+        <text>Стоит сталкер у перекрестка в Зоне и указатели читает. Направо - аномалии. Вперед - монстры. Налево - кабаки и девки. Подумал сталкер, подумал и пошел вперед. Думает, выживу, надо будет у бывалых спросить, что за ужасы такие новые и непонятные - кабаки и девки.</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_4">
+        <text>Заблудился сталкер. Идет и кричит. Люди! Ау! Эй, кто-нибудь! Вдруг его шлеп сзади по плечу кто-то. Он оборачивается, а там здоровенная такая, ну, страхолюдная тварюга. И говорит ему печально. Ты чего тут разорался? Сталкер. Так я это, того, заблудился я. Думаю, может, хоть кто услышит. Тварюга вздыхает. Ну, я услышала. А смысл?</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_5">
+        <text>Идет молодой сталкер по Зоне. Вдруг озеро, которого на карте нету. Он туда-сюда, а потом смотрит, какой-то мужик неподалеку маячит. Ну, молодой к нему и спрашивает. Уважаемый, как бы мне это озеро-то обойти? Тот отвечает. Пошли, мне по дороге, покажу. Ну, идут-идут, а молодой спрашивает. Вы, наверное, каждый кустик тут знаете, раз без оружия ходить не боитесь. Мужик смеется. Кого тут, говорит, бояться-то? Ну, монстров там всяких, зомби, контролеров. Мужик подумал-подумал, да и говорит, ладно, монстры, шмонстры, это понятно, зомби еще туда-сюда, но нас-то, контролеров, чего бояться-то?</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_6">
+        <text>Сорвался как-то на базе у свободовцев кусок шифера с крыши. Зашибло кого-то. Как всегда, собралась куча народу. Все сочувствуют. Ну да, это же легче, чем шифер нормально прибить. Вот, мол, не повезло мужику. Потом пригляделись. А то не мужик, а зомби. Прямо на территорию забрел. И что думаете, стали они за голову хвататься и посты усиливать? Ни хрена! Стали еще сильнее убиваться. Это ж надо ужас какой! Развелось, мол, твари, и плюнуть некуда. Так до сих пор и убиваются.</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_7">
+        <text>Не разъехались в Зоне наемники и бандюки. Ну, повыскакивали, стволы подоставали, пошла пальба. А контролер, что у перекрестка засел, доволен. Вот, мол, как удачно место я выбрал. Давно хотел на настоящие пацанские разборки поглядеть.</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_8">
+        <text>Паркуются в лесочке на баре двое сталкеров. Первый крутой такой весь, аж из ушей лезет, на лендровере, ну или типа того. Второй замухрышистый, на драной ниве. Ну и начинает крутой прикалываться, глядя как тот, все никак дверцу помятую захлопнуть не может. Кричит ему, мужик, что ты со своей развалюхой морочишься? Кому она нужна? Ты бы еще противоугонку поставил, комик. Я вон свою и то не закрываю, кого тут бояться? Ну, второй молчит, а двери кое-как все-таки закрыл. Возвращается он, значит, из бара, а крутой молча стоит у своей машины, как окаменел, и только в салон смотрит. Сталкер подходит, тоже смотрит, а потом сочувственно так. Да, приятель, не повезло. У меня вот тоже такое как-то случилось. Не закрыл дверей, так бюреры залезли и засрали все в усмерть.</text>
+    </string>
+    <string id="characters_voice_human_02_dolg_talk_jokes_joke_9">
+        <text>Посадил как-то дед репку в Зоне. И выросла репка большая-пребольшая. Такая большая, что если б не ствол, хрен бы дед от нее отбился.</text>
     </string>
 
 
@@ -3673,430 +3735,138 @@
         <text>Заходит сталкер в бар. Бармен, дай чего-нибудь пожрать. Бармен, значит, начинает. Ну вот, сегодня есть глаз плоти в томатном соусе, жареные лапки снорков в томатном соусе, из рыбного щупальца кровососа в томатном соусе. Сталкера аж перекосило. Ты, говорит, чего это вздумал? Людей травить? Бармена тоже перекосило. Кто?! Кричит. Я?! А сталкер. А что, я?! С грибным соусом давай! Какой нафиг томат?!</text>
     </string>
 
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_14">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_15">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_attack_script_attack_9">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_relax_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_relax_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_relax_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_fight_post_combat_wait_wait_5">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_joke_reaction_joke_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_music_reaction_music_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_story_laughter_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_story_laughter_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_story_laughter_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_reactions_story_laughter_4">
-        <text>TEXT</text>
-    </string>
-
-
-    <string id="characters_voice_human_03_dolg_states_idle_idle_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_10">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_11">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_12">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_13">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_14">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_15">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_16">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_17">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_18">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_19">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_20">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_21">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_22">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_23">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_24">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_25">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_26">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_27">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_28">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_29">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_30">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_31">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_32">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_33">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_34">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_35">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_36">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_37">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_38">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_39">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_40">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_41">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_42">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_43">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_44">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_45">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_46">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_47">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_48">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_5">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_6">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_7">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_8">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_states_idle_idle_9">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_start_1">
-        <text>TEXT</text>
+        <text>Спокойно. Чем могу помочь, сталкер?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_start_2">
-        <text>TEXT</text>
+        <text>Чего расскажешь хорошего?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_start_3">
-        <text>TEXT</text>
+        <text>Какие новости, сталкер?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_stop_1">
-        <text>TEXT</text>
+        <text>Нормально пообщались.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_stop_2">
-        <text>TEXT</text>
+        <text>Ладно, будем считать что поговорили.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_stop_3">
-        <text>TEXT</text>
+        <text>Всё время коту под хвост.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_wait_1">
-        <text>TEXT</text>
+        <text>Ты рассказывай с чем пришёл.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_wait_2">
-        <text>TEXT</text>
+        <text>Тебе язык отрезали что ли?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_wait_3">
-        <text>TEXT</text>
+        <text>Ну ты будешь говорить что-то?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_wait_4">
-        <text>TEXT</text>
+        <text>Слушай, не отнимай мое время. Говори скорее, что надо?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_comander_wait_5">
-        <text>TEXT</text>
+        <text>Моё терпение на пределе.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_start_1">
-        <text>TEXT</text>
+        <text>Как жизнь?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_start_2">
-        <text>TEXT</text>
+        <text>Ну, здорово.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_start_3">
-        <text>TEXT</text>
+        <text>Время дорого. Рассказывай.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_stop_1">
-        <text>TEXT</text>
+        <text>Понятно. Глухонемой.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_stop_2">
-        <text>TEXT</text>
+        <text>Отлично помолчал. Талант.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_stop_3">
-        <text>TEXT</text>
+        <text>М-да, и откуда такие берутся?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_wait_1">
-        <text>TEXT</text>
+        <text>Ой, не томи, выкладывай.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_wait_2">
-        <text>TEXT</text>
+        <text>Так и будешь стоять и молчать?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_wait_3">
-        <text>TEXT</text>
+        <text>Говори быстрее, времени не особо.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_wait_4">
-        <text>TEXT</text>
+        <text>Я ждать уже утомился.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_general_wait_5">
-        <text>TEXT</text>
+        <text>И сколько мне ждать?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_start_1">
-        <text>TEXT</text>
+        <text>Так, парень, оружие спрячь.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_start_2">
-        <text>TEXT</text>
+        <text>Сталкер, оружие за спину.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_start_3">
-        <text>TEXT</text>
+        <text>Убери свою пушку, тогда и разговор будет.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_wait_1">
-        <text>TEXT</text>
+        <text>Оружие убери, я сказал!</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_wait_2">
-        <text>TEXT</text>
+        <text>Нет, так разговора не выйдет. Спрячь пукалку сначала.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_wait_3">
-        <text>TEXT</text>
+        <text>Спрячь оружие, сталкер.</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_wait_4">
-        <text>TEXT</text>
+        <text>Что, не можешь со стволом растаться?</text>
     </string>
     <string id="characters_voice_human_03_dolg_states_meet_meet_weapon_wait_5">
-        <text>TEXT</text>
+        <text>Так, или пушку убери, или дуй отсюда.</text>
     </string>
 
-
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_joke_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_1">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_2">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_3">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_4">
-        <text>TEXT</text>
-    </string>
-    <string id="characters_voice_human_03_dolg_talk_intros_intro_music_5">
-        <text>TEXT</text>
-    </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_1">
-        <text>TEXT</text>
+        <text>Встречаются двое сталкеров. Слышь, а ты про Васю, ну того, который в детстве еще хотел летчиком стать, знаешь? А че с ним? Да он вчера в трамплин попал. Опа. Сбылась, можно сказать, у человека заветная мечта. Полетел!</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_10">
-        <text>TEXT</text>
+        <text>Попадает сталкер в ад. Чёрт при проходной начинает втирать, как теперь сильно мучиться придётся. Сначала, мол, изваляют в дерьме, потом сунут в чан с кипящей смолой, потом в горло зальют жидкую серу, потом... Тут его сталкер обрывает, старичок, я понял, программа стандартная, лечебные грязи там, ванна, потом можно завалиться в бар. Ты мне лучше скажи, где на вашем курорте пострелять можно, а то все навыки растеряю.</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_11">
-        <text>TEXT</text>
+        <text>Идет веселый долговец, окровавленной лопатой помахивает. А на встречу ему другой долговец. «Откуда идешь, браток?» «С похорон». «А че ж такой веселый?» «Свободовцев хоронил». «Ну а лопата почему в крови?» «Так три раза выкапывались, гады!».</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_12">
-        <text>TEXT</text>
+        <text>Ну, значит, подваливает один мужик к сталкеру и говорит, эй, друг, а достань-ка мне щенка псевдособаки. Сталкер ему, ты сдурел, что ли? Жить надоело? Он же тебя в секунду порвет. Да ты не понял, говорит мужик. Я же не себе, я тёще на подарок.</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_13">
-        <text>TEXT</text>
+        <text>Заходит кровосос в бар. Кровавую Мэри мне. Ну, бармен, как положено, томатный сок наливает, сверху водочкой покрывает, тот все это залпом выпивает, блюет, и все это летит бармену в лицо, на стойку, на бутылки. Бармен, это что за дерьмо? Тот утерся, обрезик достал. Что-то странные вы кровососы стали. Вместо крови вам теперь сок томатный подавай. А вот за беспорядок придется ответить.</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_14">
-        <text>TEXT</text>
+        <text>На краю саркофага стоят два контролера. Первый так сокрушенно. «Во блин! Штаны упали!» Второй так посмотрел на него и говорит равнодушно. «Ну и хрен с ними!» А первый со вздохом таким. «Ах, тут и оно!».</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_2">
-        <text>TEXT</text>
+        <text>Сталкер пришел к костоправу, жалуется. «Доктор, совсем спать не могу. Как засну, сразу видится, будто в саркофаге меня с кучей монстров заперли». «У-у-у, это вас, судя по всему, контролер предупреждает». «Значит, как в следующий раз в поле пойдете, не забудьте бутылку ему оставить, а не то...» «Благодарю, доктор! Обязательно, обязательно!» «Да не за что!» - говорит контролер. «Вот за доктора, это да, это спасибо! Порадовал старика.»</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_3">
-        <text>TEXT</text>
+        <text>Стоит сталкер у перекрестка в Зоне и указатели читает. Направо - аномалии. Вперед - монстры. Налево - кабаки и девки. Подумал сталкер, подумал и пошел вперед. Думает, выживу, надо будет у бывалых спросить, что за ужасы такие новые и непонятные - кабаки и девки.</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_4">
-        <text>TEXT</text>
+        <text>Заблудился сталкер. Идет и кричит. Люди! Ау! Эй, кто-нибудь! Вдруг его шлеп сзади по плечу кто-то. Он оборачивается, а там здоровенная такая, ну, страхолюдная тварюга. И говорит ему печально. Ты чего тут разорался? Сталкер. Так я это, того, заблудился я. Думаю, может, хоть кто услышит. Тварюга вздыхает. Ну, я услышала. А смысл?</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_5">
-        <text>TEXT</text>
+        <text>Идет молодой сталкер по Зоне. Вдруг озеро, которого на карте нету. Он туда-сюда, а потом смотрит, какой-то мужик неподалеку маячит. Ну, молодой к нему и спрашивает. Уважаемый, как бы мне это озеро-то обойти? Тот отвечает. Пошли, мне по дороге, покажу. Ну, идут-идут, а молодой спрашивает. Вы, наверное, каждый кустик тут знаете, раз без оружия ходить не боитесь. Мужик смеется. Кого тут, говорит, бояться-то? Ну, монстров там всяких, зомби, контролеров. Мужик подумал-подумал, да и говорит, ладно, монстры, шмонстры, это понятно, зомби еще туда-сюда, но нас-то, контролеров, чего бояться-то?</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_6">
-        <text>TEXT</text>
+        <text>Сорвался как-то на базе у свободовцев кусок шифера с крыши. Зашибло кого-то. Как всегда, собралась куча народу. Все сочувствуют. Ну да, это же легче, чем шифер нормально прибить. Вот, мол, не повезло мужику. Потом пригляделись. А то не мужик, а зомби. Прямо на территорию забрел. И что думаете, стали они за голову хвататься и посты усиливать? Ни хрена! Стали еще сильнее убиваться. Это ж надо ужас какой! Развелось, мол, твари, и плюнуть некуда. Так до сих пор и убиваются.</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_7">
-        <text>TEXT</text>
+        <text>Не разъехались в Зоне наемники и бандюки. Ну, повыскакивали, стволы подоставали, пошла пальба. А контролер, что у перекрестка засел, доволен. Вот, мол, как удачно место я выбрал. Давно хотел на настоящие пацанские разборки поглядеть.</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_8">
-        <text>TEXT</text>
+        <text>Паркуются в лесочке на баре двое сталкеров. Первый крутой такой весь, аж из ушей лезет, на лендровере, ну или типа того. Второй замухрышистый, на драной ниве. Ну и начинает крутой прикалываться, глядя как тот, все никак дверцу помятую захлопнуть не может. Кричит ему, мужик, что ты со своей развалюхой морочишься? Кому она нужна? Ты бы еще противоугонку поставил, комик. Я вон свою и то не закрываю, кого тут бояться? Ну, второй молчит, а двери кое-как все-таки закрыл. Возвращается он, значит, из бара, а крутой молча стоит у своей машины, как окаменел, и только в салон смотрит. Сталкер подходит, тоже смотрит, а потом сочувственно так. Да, приятель, не повезло. У меня вот тоже такое как-то случилось. Не закрыл дверей, так бюреры залезли и засрали все в усмерть.</text>
     </string>
     <string id="characters_voice_human_03_dolg_talk_jokes_joke_9">
-        <text>TEXT</text>
+        <text>Посадил как-то дед репку в Зоне. И выросла репка большая-пребольшая. Такая большая, что если б не ствол, хрен бы дед от нее отбился.</text>
     </string>
 
 
