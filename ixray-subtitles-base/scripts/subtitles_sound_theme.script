@@ -39,7 +39,9 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
 			text = ref_binder.subs_text
 		else
 			if game.translate_string(text) == text then
-				text = text:match("human_%d%d_(.*)")
+				if not text:find("characters_voice_scenario_") then
+					text = text:match("human_%d%d_(.*)")
+				end
 			end
 		end
 
@@ -59,8 +61,10 @@ function on_npc_sound_play(ref_binder, npc_id, faction, point, msg)
             text = ref_binder.ws_subs_text
 		else
 			if game.translate_string(text) == text then
-				text = text:match("human_%d%d_(.*)")
-			end	
+				if not text:find("characters_voice_scenario_") then
+					text = text:match("human_%d%d_(.*)")
+				end
+			end
         end
 
 		if ref_binder.delay_sound > 0 and ref_binder.ws_subs_delay == 0 then
@@ -92,7 +96,9 @@ function on_actor_sound_play(ref_binder, npc, faction, point, msg)
 			text = ref_binder.subs_text
 		else
 			if game.translate_string(text) == text then
-				text = text:match("human_%d%d_(.*)")
+				if not text:find("characters_voice_scenario_") then
+					text = text:match("human_%d%d_(.*)")
+				end
 			end
 		end
 
@@ -127,8 +133,10 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
 			text = ref_binder.subs_text
 		else
 			if game.translate_string(text) == text then
-				text = text:match("human_%d%d_(.*)")
-			end	
+				if not text:find("characters_voice_scenario_") then
+					text = text:match("human_%d%d_(.*)")
+				end
+			end
 		end
 
 		subtitles.add_subtitles_obj(obj_id, name, text, ref_binder.snd_obj, ref_binder.subs_delay, ref_binder.subs_distance)
@@ -142,7 +150,9 @@ function on_object_sound_play(ref_binder, obj_id, faction, point, msg)
             text = ref_binder.ws_subs_text
 		else
 			if game.translate_string(text) == text then
-				text = text:match("human_%d%d_(.*)")
+				if not text:find("characters_voice_scenario_") then
+					text = text:match("human_%d%d_(.*)")
+				end
 			end
         end
 
